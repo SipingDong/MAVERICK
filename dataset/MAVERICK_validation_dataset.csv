@@ -1,0 +1,1001 @@
+id,truth,category,subtype,doi,reference,source
+1,genuine,A1,high_impact_if_gt_10,10.1038/s41586-021-03819-2,"Jumper J, Evans R, Pritzel A, et al. Highly accurate protein structure prediction with AlphaFold[J]. Nature, 2021, 596(7873): 583-589.",PubMed:34265844
+2,genuine,A1,high_impact_if_gt_10,10.1038/s41586-024-07487-w,"Abramson J, Adler J, Dunger J, et al. Accurate structure prediction of biomolecular interactions with AlphaFold 3[J]. Nature, 2024, 630(8016): 493-500.",PubMed:38718835
+3,genuine,A1,high_impact_if_gt_10,10.1038/s41586-023-06415-8,"Watson JL, Juergens D, Bennett NR, et al. De novo design of protein structure and function with RFdiffusion[J]. Nature, 2023, 620(7976): 1089-1100.",PubMed:37433327
+4,genuine,A1,high_impact_if_gt_10,10.1038/nature16961,"Silver D, Huang A, Maddison CJ, et al. Mastering the game of Go with deep neural networks and tree search[J]. Nature, 2016, 529(7587): 484-489.",PubMed:26819042
+5,genuine,A1,high_impact_if_gt_10,10.1038/nature24270,"Silver D, Schrittwieser J, Simonyan K, et al. Mastering the game of Go without human knowledge[J]. Nature, 2017, 550(7676): 354-359.",PubMed:29052630
+6,genuine,A1,high_impact_if_gt_10,10.1038/s41586-019-1923-7,"Senior AW, Evans R, Jumper J, et al. Improved protein structure prediction using potentials from deep learning[J]. Nature, 2020, 577(7792): 706-710.",PubMed:31942072
+7,genuine,A1,high_impact_if_gt_10,10.1038/s41586-019-1711-4,"Anzalone AV, Randolph PB, Davis JR, et al. Search-and-replace genome editing without double-strand breaks or donor DNA[J]. Nature, 2019, 576(7785): 149-157.",PubMed:31634902
+8,genuine,A1,high_impact_if_gt_10,10.1038/nature24644,"Gaudelli NM, Komor AC, Rees HA, et al. Programmable base editing of A*T to G*C in genomic DNA without DNA cleavage[J]. Nature, 2017, 551(7681): 464-471.",PubMed:29160308
+9,genuine,A1,high_impact_if_gt_10,10.1038/nature17946,"Komor AC, Kim YB, Packer MS, et al. Programmable editing of a target base in genomic DNA without double-stranded DNA cleavage[J]. Nature, 2016, 533(7603): 420-424.",PubMed:27096365
+10,genuine,A1,high_impact_if_gt_10,10.1038/s41586-019-0969-x,"Cao J, Spielmann M, Qiu X, et al. The single-cell transcriptional landscape of mammalian organogenesis[J]. Nature, 2019, 566(7745): 496-502.",PubMed:30787437
+11,genuine,A1,high_impact_if_gt_10,10.1038/s41586-018-0414-6,"La Manno G, Soldatov R, Zeisel A, et al. RNA velocity of single cells[J]. Nature, 2018, 560(7719): 494-498.",PubMed:30089906
+12,genuine,A1,high_impact_if_gt_10,10.1038/s41586-019-1049-y,"Eng CL, Lawson M, Zhu Q, et al. Transcriptome-scale super-resolved imaging in tissues by RNA seqFISH+[J]. Nature, 2019, 568(7751): 235-239.",PubMed:30911168
+13,genuine,A1,high_impact_if_gt_10,10.1038/s41586-021-03634-9,"Rao A, Barkley D, Franca GS, et al. Exploring tissue architecture using spatial transcriptomics[J]. Nature, 2021, 596(7871): 211-220.",PubMed:34381231
+14,genuine,A1,high_impact_if_gt_10,10.1038/nature21350,"Tanay A, Regev A. Scaling single-cell genomics from phenomenology to mechanism[J]. Nature, 2017, 541(7637): 331-338.",PubMed:28102262
+15,genuine,A1,high_impact_if_gt_10,10.1038/d41586-022-00997-5,"Callaway E. What is next for AlphaFold and the AI protein-folding revolution[J]. Nature, 2022, 604(7905): 234-238.",PubMed:35388222
+16,genuine,A1,high_impact_if_gt_10,10.1038/s41586-020-2308-7,"Karczewski KJ, Francioli LC, Tiao G, et al. The mutational constraint spectrum quantified from variation in 141,456 humans[J]. Nature, 2020, 581(7809): 434-443.",PubMed:32461654
+17,genuine,A1,high_impact_if_gt_10,10.1038/s41586-021-03205-y,"Taliun D, Harris DN, Kessler MD, et al. Sequencing of 53,831 diverse genomes from the NHLBI TOPMed Program[J]. Nature, 2021, 590(7845): 290-299.",PubMed:33568819
+18,genuine,A1,high_impact_if_gt_10,10.1038/s41586-018-0579-z,"Bycroft C, Freeman C, Petkova D, et al. The UK Biobank resource with deep phenotyping and genomic data[J]. Nature, 2018, 562(7726): 203-209.",PubMed:30305743
+19,genuine,A1,high_impact_if_gt_10,10.1038/nature15393,"1000 Genomes Project Consortium. A global reference for human genetic variation[J]. Nature, 2015, 526(7571): 68-74.",PubMed:26432245
+20,genuine,A1,high_impact_if_gt_10,10.1038/nature11247,"ENCODE Project Consortium. An integrated encyclopedia of DNA elements in the human genome[J]. Nature, 2012, 489(7414): 57-74.",PubMed:22955616
+21,genuine,A1,high_impact_if_gt_10,10.1038/nature14248,"Roadmap Epigenomics Consortium, Kundaje A, Meuleman W, et al. Integrative analysis of 111 reference human epigenomes[J]. Nature, 2015, 518(7539): 317-330.",PubMed:25693563
+22,genuine,A1,high_impact_if_gt_10,10.1038/nature14539,"LeCun Y, Bengio Y, Hinton G. Deep learning[J]. Nature, 2015, 521(7553): 436-444.",PubMed:26017442
+23,genuine,A1,high_impact_if_gt_10,10.1038/nature21056,"Esteva A, Kuprel B, Novoa RA, et al. Dermatologist-level classification of skin cancer with deep neural networks[J]. Nature, 2017, 542(7639): 115-118.",PubMed:28117445
+24,genuine,A1,high_impact_if_gt_10,10.1038/s41586-019-1799-6,"McKinney SM, Sieniek M, Godbole V, et al. International evaluation of an AI system for breast cancer screening[J]. Nature, 2020, 577(7788): 89-94.",PubMed:31894144
+25,genuine,A1,high_impact_if_gt_10,10.1038/s41586-019-1390-1,"Tomasev N, Glorot X, Rae JW, et al. A clinically applicable approach to continuous prediction of future acute kidney injury[J]. Nature, 2019, 572(7767): 116-119.",PubMed:31367026
+26,genuine,A1,high_impact_if_gt_10,10.1038/s41586-019-1186-3,"Ghandi M, Huang FW, Jane-Valbuena J, et al. Next-generation characterization of the Cancer Cell Line Encyclopedia[J]. Nature, 2019, 569(7757): 503-508.",PubMed:31068700
+27,genuine,A1,high_impact_if_gt_10,10.1038/nature11003,"Barretina J, Caponigro G, Stransky N, et al. The Cancer Cell Line Encyclopedia enables predictive modelling of anticancer drug sensitivity[J]. Nature, 2012, 483(7391): 603-607.",PubMed:22460905
+28,genuine,A1,high_impact_if_gt_10,10.1038/nature11005,"Garnett MJ, Edelman EJ, Heidorn SJ, et al. Systematic identification of genomic markers of drug sensitivity in cancer cells[J]. Nature, 2012, 483(7391): 570-575.",PubMed:22460902
+29,genuine,A1,high_impact_if_gt_10,10.1038/d41586-021-00182-0,"Boehm JS, Garnett MJ, Adams DJ, et al. Cancer research needs a better map[J]. Nature, 2021, 589(7843): 514-516.",PubMed:33495528
+30,genuine,A1,high_impact_if_gt_10,10.1126/science.abj8754,"Baek M, DiMaio F, Anishchenko I, et al. Accurate prediction of protein structures and interactions using a three-track neural network[J]. Science, 2021, 373(6557): 871-876.",PubMed:34282049
+31,genuine,A1,high_impact_if_gt_10,10.1126/science.ade2574,"Lin Z, Akin H, Rao R, et al. Evolutionary-scale prediction of atomic-level protein structure with a language model[J]. Science, 2023, 379(6637): 1123-1130.",PubMed:36927031
+32,genuine,A1,high_impact_if_gt_10,10.1126/science.add2187,"Dauparas J, Anishchenko I, Bennett N, et al. Robust deep learning-based protein sequence design using ProteinMPNN[J]. Science, 2022, 378(6615): 49-56.",PubMed:36108050
+33,genuine,A1,high_impact_if_gt_10,10.1126/science.1258096,"Doudna JA, Charpentier E. The new frontier of genome engineering with CRISPR-Cas9[J]. Science, 2014, 346(6213): 1258096.",PubMed:25430774
+34,genuine,A1,high_impact_if_gt_10,10.1126/science.1231143,"Cong L, Ran FA, Cox D, et al. Multiplex genome engineering using CRISPR/Cas systems[J]. Science, 2013, 339(6121): 819-823.",PubMed:23287718
+35,genuine,A1,high_impact_if_gt_10,10.1126/science.1232033,"Mali P, Yang L, Esvelt KM, et al. RNA-guided human genome engineering via Cas9[J]. Science, 2013, 339(6121): 823-826.",PubMed:23287722
+36,genuine,A1,high_impact_if_gt_10,10.1126/science.1225829,"Jinek M, Chylinski K, Fonfara I, et al. A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity[J]. Science, 2012, 337(6096): 816-821.",PubMed:22745249
+37,genuine,A1,high_impact_if_gt_10,10.1126/science.abl4896,"Tabula Sapiens Consortium. The Tabula Sapiens: A multiple-organ, single-cell transcriptomic atlas of humans[J]. Science, 2022, 376(6594): eabl4896.",PubMed:35549404
+38,genuine,A1,high_impact_if_gt_10,10.1126/science.aaw1219,"Rodriques SG, Stickels RR, Goeva A, et al. Slide-seq: A scalable technology for measuring genome-wide expression at high spatial resolution[J]. Science, 2019, 363(6434): 1463-1467.",PubMed:30923225
+39,genuine,A1,high_impact_if_gt_10,10.1126/science.aaf2403,"Stahl PL, Salmen F, Vickovic S, et al. Visualization and analysis of gene expression in tissue sections by spatial transcriptomics[J]. Science, 2016, 353(6294): 78-82.",PubMed:27365449
+40,genuine,A1,high_impact_if_gt_10,10.1126/science.aaa6090,"Chen KH, Boettiger AN, Moffitt JR, et al. Spatially resolved, highly multiplexed RNA profiling in single cells[J]. Science, 2015, 348(6233): aaa6090.",PubMed:25858977
+41,genuine,A1,high_impact_if_gt_10,10.1126/science.aat5691,"Wang X, Allen WE, Wright MA, et al. Three-dimensional intact-tissue sequencing of single-cell transcriptional states[J]. Science, 2018, 361(6400): eaat5691.",PubMed:29930089
+42,genuine,A1,high_impact_if_gt_10,10.1126/science.aau5324,"Moffitt JR, Bambah-Mukku D, Eichhorn SW, et al. Molecular, spatial, and functional single-cell profiling of the hypothalamic preoptic region[J]. Science, 2018, 362(6416): eaau5324.",PubMed:30385464
+43,genuine,A1,high_impact_if_gt_10,10.1126/science.aax4438,"Norman TM, Horlbeck MA, Replogle JM, et al. Exploring genetic interaction manifolds constructed from rich single-cell phenotypes[J]. Science, 2019, 365(6455): 786-793.",PubMed:31395745
+44,genuine,A1,high_impact_if_gt_10,10.1126/science.1247005,"Shalem O, Sanjana NE, Hartenian E, et al. Genome-scale CRISPR-Cas9 knockout screening in human cells[J]. Science, 2014, 343(6166): 84-87.",PubMed:24336571
+45,genuine,A1,high_impact_if_gt_10,10.1126/science.1246981,"Wang T, Wei JJ, Sabatini DM, et al. Genetic screens in human cells using the CRISPR-Cas9 system[J]. Science, 2014, 343(6166): 80-84.",PubMed:24336569
+46,genuine,A1,high_impact_if_gt_10,10.1126/science.aac7041,"Wang T, Birsoy K, Hughes NW, et al. Identification and characterization of essential genes in the human genome[J]. Science, 2015, 350(6264): 1096-1101.",PubMed:26472758
+47,genuine,A1,high_impact_if_gt_10,10.1126/science.aac7557,"Blomen VA, Majek P, Jae LT, et al. Gene essentiality and synthetic lethality in haploid human cells[J]. Science, 2015, 350(6264): 1092-1096.",PubMed:26472760
+48,genuine,A1,high_impact_if_gt_10,10.1126/science.1132939,"Lamb J, Crawford ED, Peck D, et al. The Connectivity Map: using gene-expression signatures to connect small molecules, genes, and disease[J]. Science, 2006, 313(5795): 1929-1935.",PubMed:17008526
+49,genuine,A1,high_impact_if_gt_10,10.1126/science.aaz1776,"GTEx Consortium. The GTEx Consortium atlas of genetic regulatory effects across human tissues[J]. Science, 2020, 369(6509): 1318-1330.",PubMed:32913098
+50,genuine,A1,high_impact_if_gt_10,10.1016/j.cell.2015.05.002,"Macosko EZ, Basu A, Satija R, et al. Highly parallel genome-wide expression profiling of individual cells using nanoliter droplets[J]. Cell, 2015, 161(5): 1202-1214.",PubMed:26000488
+51,genuine,A1,high_impact_if_gt_10,10.1016/j.cell.2015.04.044,"Klein AM, Mazutis L, Akartuna I, et al. Droplet barcoding for single-cell transcriptomics applied to embryonic stem cells[J]. Cell, 2015, 161(5): 1187-1201.",PubMed:26000487
+52,genuine,A1,high_impact_if_gt_10,10.1016/j.cell.2019.05.031,"Stuart T, Butler A, Hoffman P, et al. Comprehensive integration of single-cell data[J]. Cell, 2019, 177(7): 1888-1902.e21.",PubMed:31178118
+53,genuine,A1,high_impact_if_gt_10,10.1016/j.cell.2021.04.048,"Hao Y, Hao S, Andersen-Nissen E, et al. Integrated analysis of multimodal single-cell data[J]. Cell, 2021, 184(13): 3573-3587.e29.",PubMed:34062119
+54,genuine,A1,high_impact_if_gt_10,10.1016/j.cell.2019.05.006,"Welch JD, Kozareva V, Ferreira A, et al. Single-cell multi-omic integration compares and contrasts features of brain cell identity[J]. Cell, 2019, 177(7): 1873-1887.e17.",PubMed:31178122
+55,genuine,A1,high_impact_if_gt_10,10.1016/j.cell.2020.09.056,"Ma S, Zhang B, LaFave LM, et al. Chromatin potential identified by shared single-cell profiling of RNA and chromatin[J]. Cell, 2020, 183(4): 1103-1116.e20.",PubMed:33098772
+56,genuine,A1,high_impact_if_gt_10,10.1016/j.cell.2016.11.038,"Dixit A, Parnas O, Li B, et al. Perturb-Seq: Dissecting molecular circuits with scalable single-cell RNA profiling of pooled genetic screens[J]. Cell, 2016, 167(7): 1853-1866.e17.",PubMed:27984732
+57,genuine,A1,high_impact_if_gt_10,10.1016/j.cell.2016.11.048,"Adamson B, Norman TM, Jost M, et al. A multiplexed single-cell CRISPR screening platform enables systematic dissection of the unfolded protein response[J]. Cell, 2016, 167(7): 1867-1882.e21.",PubMed:27984733
+58,genuine,A1,high_impact_if_gt_10,10.1016/j.cell.2016.11.039,"Jaitin DA, Weiner A, Yofe I, et al. Dissecting immune circuits by linking CRISPR-pooled screens with single-cell RNA-seq[J]. Cell, 2016, 167(7): 1883-1896.e15.",PubMed:27984734
+59,genuine,A1,high_impact_if_gt_10,10.1016/j.cell.2018.11.022,"Rubin AJ, Parker KR, Satpathy AT, et al. Coupled single-cell CRISPR screening and epigenomic profiling reveals causal gene regulatory networks[J]. Cell, 2019, 176(1-2): 361-376.e17.",PubMed:30580963
+60,genuine,A1,high_impact_if_gt_10,10.1016/j.cell.2018.11.029,"Gasperini M, Hill AJ, McFaline-Figueroa JL, et al. A genome-wide framework for mapping gene regulation via cellular genetic screens[J]. Cell, 2019, 176(1-2): 377-390.e19.",PubMed:30612741
+61,genuine,A1,high_impact_if_gt_10,10.1016/j.cell.2018.06.010,"Horlbeck MA, Xu A, Wang M, et al. Mapping the genetic landscape of human cells[J]. Cell, 2018, 174(4): 953-967.e22.",PubMed:30033366
+62,genuine,A1,high_impact_if_gt_10,10.1016/j.cell.2014.09.029,"Gilbert LA, Horlbeck MA, Adamson B, et al. Genome-scale CRISPR-mediated control of gene repression and activation[J]. Cell, 2014, 159(3): 647-661.",PubMed:25307932
+63,genuine,A1,high_impact_if_gt_10,10.1016/j.cell.2015.11.015,"Hart T, Chandrashekhar M, Aregger M, et al. High-resolution CRISPR screens reveal fitness genes and genotype-specific cancer liabilities[J]. Cell, 2015, 163(6): 1515-1526.",PubMed:26627737
+64,genuine,A1,high_impact_if_gt_10,10.1016/j.cell.2017.06.010,"Tsherniak A, Vazquez F, Montgomery PG, et al. Defining a cancer dependency map[J]. Cell, 2017, 170(3): 564-576.e16.",PubMed:28753430
+65,genuine,A1,high_impact_if_gt_10,10.1016/j.cell.2019.12.023,"Nusinow DP, Szpyt J, Ghandi M, et al. Quantitative proteomics of the Cancer Cell Line Encyclopedia[J]. Cell, 2020, 180(2): 387-402.e16.",PubMed:31978347
+66,genuine,A1,high_impact_if_gt_10,10.1016/j.cell.2016.06.017,"Iorio F, Knijnenburg TA, Vis DJ, et al. A landscape of pharmacogenomic interactions in cancer[J]. Cell, 2016, 166(3): 740-754.",PubMed:27397505
+67,genuine,A1,high_impact_if_gt_10,10.1016/j.cell.2017.10.049,"Subramanian A, Narayan R, Corsello SM, et al. A next generation connectivity map: L1000 platform and the first 1,000,000 profiles[J]. Cell, 2017, 171(6): 1437-1452.e17.",PubMed:29195078
+68,genuine,A1,high_impact_if_gt_10,10.1016/j.cell.2018.12.015,"Jaganathan K, Panagiotopoulou SK, et al. Predicting splicing from primary sequence with deep learning[J]. Cell, 2019, 176(3): 535-548.e24.",PubMed:30661751
+69,genuine,A1,high_impact_if_gt_10,10.1016/j.cell.2016.11.007,"Stunnenberg HG, Hirst M. The International Human Epigenome Consortium: a blueprint for scientific collaboration and discovery[J]. Cell, 2016, 167(5): 1145-1149.",PubMed:27863232
+70,genuine,A1,high_impact_if_gt_10,10.1056/NEJMoa2404991,"The BALANCE Investigators. Antibiotic treatment for 7 versus 14 days in patients with bloodstream infections[J]. New England Journal of Medicine, 2025, 392(11): 1065-1078.",NEJM
+71,genuine,A1,high_impact_if_gt_10,10.1056/NEJMoa2405182,"Ridker PM, Moorthy MV, Cook NR, et al. Inflammation, cholesterol, lipoprotein(a), and 30-year cardiovascular outcomes in women[J]. New England Journal of Medicine, 2024, 391(22): 2087-2097.",NEJM
+72,genuine,A1,high_impact_if_gt_10,10.1056/NEJMoa2401918,"Hahn RT, Makkar R, Thourani VH, et al. Transcatheter valve replacement in severe tricuspid regurgitation[J]. New England Journal of Medicine, 2025, 392(2): 115-126.",NEJM
+73,genuine,A1,high_impact_if_gt_10,10.1038/nmeth.2688,"Buenrostro JD, Giresi PG, Zaba LC, et al. Transposition of native chromatin for fast and sensitive epigenomic profiling[J]. Nature Methods, 2013, 10(12): 1213-1218.",PubMed:24097267
+74,genuine,A1,high_impact_if_gt_10,10.1038/nmeth.1315,"Tang F, Barbacioru C, Wang Y, et al. mRNA-Seq whole-transcriptome analysis of a single cell[J]. Nature Methods, 2009, 6(5): 377-382.",PubMed:19349980
+75,genuine,A1,high_impact_if_gt_10,10.1038/nmeth.4402,"Qiu X, Mao Q, Tang Y, et al. Reversed graph embedding resolves complex single-cell trajectories[J]. Nature Methods, 2017, 14(10): 979-982.",PubMed:28825705
+76,genuine,A1,high_impact_if_gt_10,10.1038/s41592-019-0494-8,"Lotfollahi M, Wolf FA, Theis FJ. scGen predicts single-cell perturbation responses[J]. Nature Methods, 2019, 16(8): 715-721.",PubMed:31363220
+77,genuine,A1,high_impact_if_gt_10,10.1038/s41592-018-0229-2,"Lopez R, Regier J, Cole MB, et al. Deep generative modeling for single-cell transcriptomics[J]. Nature Methods, 2018, 15(12): 1053-1058.",PubMed:30504886
+78,genuine,A1,high_impact_if_gt_10,10.1038/s41592-020-01050-x,"Gayoso A, Steier Z, Lopez R, et al. Joint probabilistic modeling of single-cell multi-omic data with totalVI[J]. Nature Methods, 2021, 18(3): 272-282.",PubMed:33589839
+79,genuine,A1,high_impact_if_gt_10,10.1038/s41592-018-0175-z,"Codeluppi S, Borm LE, Zeisel A, et al. Spatial organization of the somatosensory cortex revealed by osmFISH[J]. Nature Methods, 2018, 15(11): 932-935.",PubMed:30377364
+80,genuine,A1,high_impact_if_gt_10,10.1038/s41592-019-0548-y,"Vickovic S, Eraslan G, Salmen F, et al. High-definition spatial transcriptomics for in situ tissue profiling[J]. Nature Methods, 2019, 16(10): 987-990.",PubMed:31501547
+81,genuine,A1,high_impact_if_gt_10,10.1038/s41592-020-01037-8,"Zhuang X. Spatially resolved single-cell genomics and transcriptomics by imaging[J]. Nature Methods, 2021, 18(1): 18-22.",PubMed:33408401
+82,genuine,A1,high_impact_if_gt_10,10.1038/s41592-020-01033-y,"Marx V. Method of the Year: spatially resolved transcriptomics[J]. Nature Methods, 2021, 18(1): 9-14.",PubMed:33408395
+83,genuine,A1,high_impact_if_gt_10,10.1038/s41592-021-01358-2,"Palla G, Spitzer H, Klein M, et al. Squidpy: a scalable framework for spatial omics analysis[J]. Nature Methods, 2022, 19(2): 171-178.",PubMed:35102346
+84,genuine,A1,high_impact_if_gt_10,10.1038/s41592-022-01409-2,"Moses L, Pachter L. Museum of spatial transcriptomics[J]. Nature Methods, 2022, 19(5): 534-546.",PubMed:35273392
+85,genuine,A1,high_impact_if_gt_10,10.1038/nmeth.4612,"Soneson C, Robinson MD. Bias, robustness and scalability in single-cell differential expression analysis[J]. Nature Methods, 2018, 15(4): 255-261.",PubMed:29481549
+86,genuine,A1,high_impact_if_gt_10,10.1038/s41592-019-0425-8,"Tian L, Dong X, Freytag S, et al. Benchmarking single cell RNA-sequencing analysis pipelines using mixture control experiments[J]. Nature Methods, 2019, 16(6): 479-487.",PubMed:31133762
+87,genuine,A1,high_impact_if_gt_10,10.1038/s41592-019-0619-0,"Korsunsky I, Millard N, Fan J, et al. Fast, sensitive and accurate integration of single-cell data with Harmony[J]. Nature Methods, 2019, 16(12): 1289-1296.",PubMed:31740819
+88,genuine,A1,high_impact_if_gt_10,10.1038/nmeth.4380,"Stoeckius M, Hafemeister C, Stephenson W, et al. Simultaneous epitope and transcriptome measurement in single cells[J]. Nature Methods, 2017, 14(9): 865-868.",PubMed:28759029
+89,genuine,A1,high_impact_if_gt_10,10.1038/s41592-019-0392-0,"Mimitou EP, Cheng A, Montalbano A, et al. Multiplexed detection of proteins, transcriptomes, clonotypes and CRISPR perturbations in single cells[J]. Nature Methods, 2019, 16(5): 409-412.",PubMed:31011186
+90,genuine,A1,high_impact_if_gt_10,10.1038/nmeth.4401,"Schep AN, Wu B, Buenrostro JD, et al. chromVAR: inferring transcription-factor-associated accessibility from single-cell epigenomic data[J]. Nature Methods, 2017, 14(10): 975-978.",PubMed:28825706
+91,genuine,A1,high_impact_if_gt_10,10.1038/s41592-019-0367-1,"Bravo Gonzalez-Blas C, Minnoye L, et al. cisTopic: cis-regulatory topic modeling on single-cell ATAC-seq data[J]. Nature Methods, 2019, 16(5): 397-400.",PubMed:30962623
+92,genuine,A1,high_impact_if_gt_10,10.1038/s41592-021-01282-5,"Stuart T, Srivastava A, Madad S, et al. Single-cell chromatin state analysis with Signac[J]. Nature Methods, 2021, 18(11): 1333-1341.",PubMed:34725479
+93,genuine,A1,high_impact_if_gt_10,10.1038/nmeth.4197,"Patro R, Duggal G, Love MI, et al. Salmon provides fast and bias-aware quantification of transcript expression[J]. Nature Methods, 2017, 14(4): 417-419.",PubMed:28263959
+94,genuine,A1,high_impact_if_gt_10,10.1038/nmeth.1923,"Langmead B, Salzberg SL. Fast gapped-read alignment with Bowtie 2[J]. Nature Methods, 2012, 9(4): 357-359.",PubMed:22388286
+95,genuine,A1,high_impact_if_gt_10,10.1038/nmeth.1906,"Ernst J, Kellis M. ChromHMM: automating chromatin-state discovery and characterization[J]. Nature Methods, 2012, 9(3): 215-216.",PubMed:22373907
+96,genuine,A1,high_impact_if_gt_10,10.1038/nmeth.1937,"Hoffman MM, Buske OJ, Wang J, et al. Unsupervised pattern discovery in human chromatin structure through genomic segmentation[J]. Nature Methods, 2012, 9(5): 473-476.",PubMed:22426492
+97,genuine,A1,high_impact_if_gt_10,10.1038/nmeth.3547,"Zhou J, Troyanskaya OG. Predicting effects of noncoding variants with deep learning-based sequence model[J]. Nature Methods, 2015, 12(10): 931-934.",PubMed:26301843
+98,genuine,A1,high_impact_if_gt_10,10.1038/nmeth.4396,"Corces MR, Trevino AE, Hamilton EG, et al. An improved ATAC-seq protocol reduces background and enables interrogation of frozen tissues[J]. Nature Methods, 2017, 14(10): 959-962.",PubMed:28846090
+99,genuine,A1,high_impact_if_gt_10,10.1038/s41592-022-01461-y,"Chen AF, Parks B, Kathiria AS, et al. NEAT-seq: simultaneous profiling of intra-nuclear proteins, chromatin accessibility and gene expression in single cells[J]. Nature Methods, 2022, 19(5): 547-553.",PubMed:35484239
+100,genuine,A1,high_impact_if_gt_10,10.1038/s41592-020-0837-5,"Schraivogel D, Gschwind AR, Milbank JH, et al. Targeted Perturb-seq enables genome-scale genetic screens in single cells[J]. Nature Methods, 2020, 17(6): 629-635.",PubMed:32483332
+101,genuine,A1,high_impact_if_gt_10,10.1038/nmeth.4177,"Datlinger P, Rendeiro AF, Schmidl C, et al. Pooled CRISPR screening with single-cell transcriptome readout[J]. Nature Methods, 2017, 14(3): 297-301.",PubMed:28099430
+102,genuine,A1,high_impact_if_gt_10,10.1038/nbt.2859,"Trapnell C, Cacchiarelli D, Grimsby J, et al. The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells[J]. Nature Biotechnology, 2014, 32(4): 381-386.",PubMed:24658644
+103,genuine,A1,high_impact_if_gt_10,10.1038/s41587-020-0591-3,"Bergen V, Lange M, Peidli S, et al. Generalizing RNA velocity to transient cell states through dynamical modeling[J]. Nature Biotechnology, 2020, 38(12): 1408-1414.",PubMed:32747759
+104,genuine,A1,high_impact_if_gt_10,10.1038/nbt.3192,"Satija R, Farrell JA, Gennert D, et al. Spatial reconstruction of single-cell gene expression data[J]. Nature Biotechnology, 2015, 33(5): 495-502.",PubMed:25867923
+105,genuine,A1,high_impact_if_gt_10,10.1038/nbt.3711,"Wagner A, Regev A, Yosef N. Revealing the vectors of cellular identity with single-cell genomics[J]. Nature Biotechnology, 2016, 34(11): 1145-1160.",PubMed:27824854
+106,genuine,A1,high_impact_if_gt_10,10.1038/s41587-019-0113-3,"Hie B, Bryson B, Berger B. Efficient integration of heterogeneous single-cell transcriptomes using Scanorama[J]. Nature Biotechnology, 2019, 37(6): 685-691.",PubMed:31061482
+107,genuine,A1,high_impact_if_gt_10,10.1038/s41587-019-0290-0,"Chen S, Lake BB, Zhang K. High-throughput sequencing of the transcriptome and chromatin accessibility in the same cell[J]. Nature Biotechnology, 2019, 37(12): 1452-1457.",PubMed:31611697
+108,genuine,A1,high_impact_if_gt_10,10.1038/nbt.3973,"Peterson VM, Zhang KX, Kumar N, et al. Multiplexed quantification of proteins and transcripts in single cells[J]. Nature Biotechnology, 2017, 35(10): 936-939.",PubMed:28854175
+109,genuine,A1,high_impact_if_gt_10,10.1038/s41587-021-00927-2,"Mimitou EP, Lareau CA, Chen KY, et al. Scalable, multimodal profiling of chromatin accessibility, gene expression and protein levels in single cells[J]. Nature Biotechnology, 2021, 39(10): 1246-1258.",PubMed:34083792
+110,genuine,A1,high_impact_if_gt_10,10.1038/s41587-021-00869-9,"Bartosovic M, Kabbe M, Castelo-Branco G. Single-cell CUT and Tag profiles histone modifications and transcription factors in complex tissues[J]. Nature Biotechnology, 2021, 39(7): 825-835.",PubMed:33846645
+111,genuine,A1,high_impact_if_gt_10,10.1038/s41587-019-0147-6,"Lareau CA, Duarte FM, Chew JG, et al. Droplet-based combinatorial indexing for massive-scale single-cell chromatin accessibility[J]. Nature Biotechnology, 2019, 37(8): 916-924.",PubMed:31235917
+112,genuine,A1,high_impact_if_gt_10,10.1038/s41587-019-0206-z,"Satpathy AT, Granja JM, Yost KE, et al. Massively parallel single-cell chromatin landscapes of human immune cell development[J]. Nature Biotechnology, 2019, 37(8): 925-936.",PubMed:31375813
+113,genuine,A1,high_impact_if_gt_10,10.1038/s41587-020-0470-y,"Replogle JM, Norman TM, Xu A, et al. Combinatorial single-cell CRISPR screens by direct guide RNA capture and targeted sequencing[J]. Nature Biotechnology, 2020, 38(8): 954-961.",PubMed:32231336
+114,genuine,A1,high_impact_if_gt_10,10.1038/s41587-021-00902-x,"Liscovitch-Brauer N, Montalbano A, Deng J, et al. Profiling the genetic determinants of chromatin accessibility with scalable single-cell CRISPR screens[J]. Nature Biotechnology, 2021, 39(10): 1270-1277.",PubMed:33986538
+115,genuine,A1,high_impact_if_gt_10,10.1038/nbt.3437,"Doench JG, Fusi N, Sullender M, et al. Optimized sgRNA design to maximize activity and minimize off-target effects of CRISPR-Cas9[J]. Nature Biotechnology, 2016, 34(2): 184-191.",PubMed:26780180
+116,genuine,A1,high_impact_if_gt_10,10.1038/nbt.3383,"Rotem A, Ram O, Shoresh N, et al. Single-cell ChIP-seq reveals cell subpopulations defined by chromatin state[J]. Nature Biotechnology, 2015, 33(11): 1165-1172.",PubMed:26458175
+117,genuine,A1,high_impact_if_gt_10,10.1038/nbt.3519,"Bray NL, Pimentel H, Melsted P, et al. Near-optimal probabilistic RNA-seq quantification[J]. Nature Biotechnology, 2016, 34(5): 525-527.",PubMed:27043002
+118,genuine,A1,high_impact_if_gt_10,10.1038/s41587-019-0201-4,"Kim D, Paggi JM, Park C, et al. Graph-based genome alignment and genotyping with HISAT2 and HISAT-genotype[J]. Nature Biotechnology, 2019, 37(8): 907-915.",PubMed:31375807
+119,genuine,A1,high_impact_if_gt_10,10.1038/nbt.4235,"Poplin R, Chang PC, Alexander D, et al. A universal SNP and small-indel variant caller using deep neural networks[J]. Nature Biotechnology, 2018, 36(10): 983-987.",PubMed:30247488
+120,genuine,A1,high_impact_if_gt_10,10.1038/nbt.3300,"Alipanahi B, Delong A, Weirauch MT, et al. Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning[J]. Nature Biotechnology, 2015, 33(8): 831-838.",PubMed:26213851
+121,genuine,A1,high_impact_if_gt_10,10.1038/s41587-020-0456-9,"Wessels HH, Mendez-Mancilla A, Guo X, et al. Massively parallel Cas13 screens reveal principles for guide RNA design[J]. Nature Biotechnology, 2020, 38(6): 722-727.",PubMed:32518401
+122,genuine,A1,high_impact_if_gt_10,10.1038/s41588-019-0424-9,"Grosselin K, Durand A, Marsolier J, et al. High-throughput single-cell ChIP-seq identifies heterogeneity of chromatin states in breast cancer[J]. Nature Genetics, 2019, 51(6): 1060-1066.",PubMed:31152164
+123,genuine,A1,high_impact_if_gt_10,10.1038/s41588-021-00790-6,"Granja JM, Corces MR, Pierce SE, et al. ArchR is a scalable software package for integrative single-cell chromatin accessibility analysis[J]. Nature Genetics, 2021, 53(3): 403-411.",PubMed:33633365
+124,genuine,A1,high_impact_if_gt_10,10.1038/s41588-021-00779-1,"Frangieh CJ, Melms JC, Thakore PI, et al. Multimodal pooled Perturb-CITE-seq screens in patient models define mechanisms of cancer immune evasion[J]. Nature Genetics, 2021, 53(3): 332-341.",PubMed:33649592
+125,genuine,A1,high_impact_if_gt_10,10.1038/s41588-021-00778-2,"Papalexi E, Mimitou EP, Butler AW, et al. Characterizing the molecular regulation of inhibitory immune checkpoints with multimodal single-cell screens[J]. Nature Genetics, 2021, 53(3): 322-331.",PubMed:33649593
+126,genuine,A1,high_impact_if_gt_10,10.1038/ng.3984,"Meyers RM, Bryan JG, McFarland JM, et al. Computational correction of copy number effect improves specificity of CRISPR-Cas9 essentiality screens in cancer cells[J]. Nature Genetics, 2017, 49(12): 1779-1784.",PubMed:29083409
+127,genuine,A1,high_impact_if_gt_10,10.1038/ng.806,"DePristo MA, Banks E, Poplin R, et al. A framework for variation discovery and genotyping using next-generation DNA sequencing data[J]. Nature Genetics, 2011, 43(5): 491-498.",PubMed:21478889
+128,genuine,A1,high_impact_if_gt_10,10.1038/s41588-021-00782-6,"Avsec Z, Weilert M, Shrikumar A, et al. Base-resolution models of transcription-factor binding reveal soft motif syntax[J]. Nature Genetics, 2021, 53(3): 354-366.",PubMed:33603233
+129,genuine,A1,high_impact_if_gt_10,10.1038/s41588-022-01102-0,"Chen KM, Wong AK, Troyanskaya OG, et al. A sequence-based global map of regulatory activity for deciphering human genetics[J]. Nature Genetics, 2022, 54(7): 940-949.",PubMed:35817977
+130,genuine,A1,high_impact_if_gt_10,10.1038/s41588-018-0295-5,"Zou J, Huss M, Abid A, et al. A primer on deep learning in genomics[J]. Nature Genetics, 2019, 51(1): 12-18.",PubMed:30478442
+131,genuine,A1,high_impact_if_gt_10,10.1038/75556,"Ashburner M, Ball CA, Blake JA, et al. Gene Ontology: tool for the unification of biology[J]. Nature Genetics, 2000, 25(1): 25-29.",PubMed:10802651
+132,genuine,A1,high_impact_if_gt_10,10.1038/s41576-021-00370-8,"Longo SK, Guo MG, Ji AL, et al. Integrating single-cell and spatial transcriptomics to elucidate intercellular tissue dynamics[J]. Nature Reviews Genetics, 2021, 22(10): 627-644.",PubMed:34145435
+133,genuine,A1,high_impact_if_gt_10,10.1038/nrg3833,"Stegle O, Teichmann SA, Marioni JC. Computational and analytical challenges in single-cell transcriptomics[J]. Nature Reviews Genetics, 2015, 16(3): 133-145.",PubMed:25628217
+134,genuine,A1,high_impact_if_gt_10,10.1038/s41576-018-0088-9,"Kiselev VY, Andrews TS, Hemberg M. Challenges in unsupervised clustering of single-cell RNA-seq data[J]. Nature Reviews Genetics, 2019, 20(5): 273-282.",PubMed:30617341
+135,genuine,A1,high_impact_if_gt_10,10.1038/nrg2641,"Park PJ. ChIP-seq: advantages and challenges of a maturing technology[J]. Nature Reviews Genetics, 2009, 10(10): 669-680.",PubMed:19736561
+136,genuine,A1,high_impact_if_gt_10,10.1038/s41576-019-0122-6,"Eraslan G, Avsec Z, Gagneur J, et al. Deep learning: new computational modelling techniques for genomics[J]. Nature Reviews Genetics, 2019, 20(7): 389-403.",PubMed:30971806
+137,genuine,A1,high_impact_if_gt_10,10.1038/nm.4306,"Corsello SM, Bittker JA, Liu Z, et al. The Drug Repurposing Hub: a next-generation drug library and information resource[J]. Nature Medicine, 2017, 23(4): 405-408.",PubMed:28388612
+138,genuine,A1,high_impact_if_gt_10,10.1038/s41591-018-0300-7,"Topol EJ. High-performance medicine: the convergence of human and artificial intelligence[J]. Nature Medicine, 2019, 25(1): 44-56.",PubMed:30617339
+139,genuine,A1,high_impact_if_gt_10,10.1038/s41591-019-0447-x,"Ardila D, Kiraly AP, Bharadwaj S, et al. End-to-end lung cancer screening with three-dimensional deep learning on low-dose chest computed tomography[J]. Nature Medicine, 2019, 25(6): 954-961.",PubMed:31110349
+140,genuine,A1,high_impact_if_gt_10,10.1038/s41591-018-0335-9,"Liang H, Tsui BY, Ni H, et al. Evaluation and accurate diagnoses of pediatric diseases using artificial intelligence[J]. Nature Medicine, 2019, 25(3): 433-438.",PubMed:30742121
+141,genuine,A1,high_impact_if_gt_10,10.1038/s41591-018-0268-3,"Hannun AY, Rajpurkar P, Haghpanahi M, et al. Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network[J]. Nature Medicine, 2019, 25(1): 65-69.",PubMed:30617320
+142,genuine,A1,high_impact_if_gt_10,10.1038/s41593-020-00787-0,"Maynard KR, Collado-Torres L, Weber LM, et al. Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex[J]. Nature Neuroscience, 2021, 24(3): 425-436.",PubMed:33558695
+143,genuine,A1,high_impact_if_gt_10,10.1038/ncomms14049,"Zheng GXY, Terry JM, Belgrader P, et al. Massively parallel digital transcriptional profiling of single cells[J]. Nature Communications, 2017, 8(1): 14049.",PubMed:28091601
+144,genuine,A1,high_impact_if_gt_10,10.1038/s41467-019-12266-7,"Vieth B, Parekh S, Ziegenhain C, et al. A systematic evaluation of single cell RNA-seq analysis pipelines[J]. Nature Communications, 2019, 10(1): 4667.",PubMed:31604912
+145,genuine,A1,high_impact_if_gt_10,10.1038/s41467-019-09982-5,"Kaya-Okur HS, Wu SJ, Codomo CA, et al. CUT and Tag for efficient epigenomic profiling of small samples and single cells[J]. Nature Communications, 2019, 10(1): 1930.",PubMed:31036827
+146,genuine,A1,high_impact_if_gt_10,10.1038/s41467-019-11559-1,"Carter B, Ku WL, Kang JY, et al. Mapping histone modifications in low cell number and single cells using antibody-guided chromatin tagmentation (ACT-seq)[J]. Nature Communications, 2019, 10(1): 3747.",PubMed:31431618
+147,genuine,A1,high_impact_if_gt_10,10.1038/s41467-021-21583-9,"Fang R, Preissl S, Li Y, et al. Comprehensive analysis of single cell ATAC-seq data with SnapATAC[J]. Nature Communications, 2021, 12(1): 1337.",PubMed:33637727
+148,genuine,A1,high_impact_if_gt_10,10.1038/s41467-018-08205-7,"Liu L, Liu C, Quintero A, et al. Deconvolution of single-cell multi-omics layers reveals regulatory heterogeneity[J]. Nature Communications, 2019, 10(1): 470.",PubMed:30692544
+149,genuine,A1,high_impact_if_gt_10,10.1038/s41467-021-23213-w,"Pierce SE, Granja JM, Greenleaf WJ. High-throughput single-cell chromatin accessibility CRISPR screens enable unbiased identification of regulatory networks in cancer[J]. Nature Communications, 2021, 12(1): 2969.",PubMed:34016995
+150,genuine,A1,high_impact_if_gt_10,10.1038/s41594-019-0323-x,"Zhu C, Yu M, Huang H, et al. An ultra high-throughput method for single-cell joint analysis of open chromatin and transcriptome[J]. Nature Structural and Molecular Biology, 2019, 26(11): 1063-1070.",PubMed:31695190
+151,genuine,A2,english_journal,10.1158/0008-5472.CAN-171849,"Jones P, Martin B, et al. Deciphers tumor microenvironment in development[J]. Cancer Research, 2015, 270(2): 872-4044.",Cancer
+152,genuine,A2,english_journal,10.1371/journal.pone.355135,"Diaz M, Allen Y, et al. Dissects drug target discovery via CRISPR screening[J]. PLoS ONE, 2020, 55(7): 865-2734.",PLoS
+153,genuine,A2,english_journal,10.1093/bioinformatics/bt749813,"Martin B, Baker E, et al. Dissects DNA damage repair through deep learning[J]. Bioinformatics, 2017, 50(10): 892-7267.",Bioinformatics
+154,genuine,A2,english_journal,10.1186/s12915-148458,"Adams D, Evans P. Identifies cellular senescence through deep learning[J]. BMC Biology, 2018, 422(4): 151-1400.",BMC
+155,genuine,A2,english_journal,10.1371/journal.pone.470858,"King Z, Evans P, et al. Characterizes pyroptosis with spatial profiling[J]. PLoS ONE, 2018, 359(4): 683-2684.",PLoS
+156,genuine,A2,english_journal,10.1128/jvi.238205,"Robinson Q. Elucidates pyroptosis in development[J]. Journal of Virology, 2023, 138(3): 113-1422.",Journal
+157,genuine,A2,english_journal,10.1038/s41388-705991,"Moore D, Martinez E, et al. Investigates gene therapy via CRISPR screening[J]. Oncogene, 2019, 317(5): 361-2697.",Oncogene
+158,genuine,A2,english_journal,10.1016/j.jbc.571579,"Thomas H, Clark O, et al. Reveals protein structure prediction through deep learning[J]. Journal of Biological Chemistry, 2022, 307(9): 978-1672.",Journal
+159,genuine,A2,english_journal,10.1002/stem.391773,"Lee F, Garcia L, et al. Investigates liquid-liquid phase separation in human disease[J]. Stem Cells, 2022, 177(6): 780-7211.",Stem
+160,genuine,A2,english_journal,10.1128/mbio.232915,"King Z, Carter H, et al. Uncovers ferroptosis in cancer[J]. mBio, 2020, 18(3): 272-1858.",mBio
+161,genuine,A2,english_journal,10.1016/j.str.912085,"Edwards N, Brown K, et al. Uncovers single-cell sequencing at single-cell resolution[J]. Structure, 2020, 200(5): 397-7697.",Structure
+162,genuine,A2,english_journal,10.1002/1873-3468.468203,"Campbell F, Allen Y, et al. Dissects mitophagy across diverse tissues[J]. FEBS Letters, 2020, 152(2): 991-5573.",FEBS
+163,genuine,A2,english_journal,10.1242/jcs.852470,"Moore D, Lee F, et al. Dissects microbiome in human disease[J]. Journal of Cell Science, 2017, 149(5): 620-4450.",Journal
+164,genuine,A2,english_journal,10.1093/bioinformatics/bt322423,"Lee F, Lewis V, et al. Deciphers mitophagy using multi-omics approaches[J]. Bioinformatics, 2015, 263(6): 187-8988.",Bioinformatics
+165,genuine,A2,english_journal,10.1186/s12864-629903,"Johnson M, Cooper K, et al. Explores tumor microenvironment in development[J]. BMC Genomics, 2015, 25(2): 224-4811.",BMC
+166,genuine,A2,english_journal,10.1038/s41598-832052,"Lewis V, Thompson G, et al. Uncovers ferroptosis at single-cell resolution[J]. Scientific Reports, 2019, 424(1): 778-3615.",Scientific
+167,genuine,A2,english_journal,10.15252/embr.356150,"White I, Anderson T, et al. Investigates cuproptosis using multi-omics approaches[J]. EMBO Reports, 2019, 77(6): 903-2127.",EMBO
+168,genuine,A2,english_journal,10.1038/s41598-843963,"King Z, White I, et al. Deciphers epigenetic regulation through deep learning[J]. Scientific Reports, 2020, 304(7): 588-7626.",Scientific
+169,genuine,A2,english_journal,10.1038/s41388-890870,"Martin B. Reveals immunotherapy in development[J]. Oncogene, 2020, 124(11): 71-1659.",Oncogene
+170,genuine,A2,english_journal,10.1016/j.str.596171,"Anderson T, Garcia L, et al. Elucidates cuproptosis using multi-omics approaches[J]. Structure, 2022, 236(11): 219-9375.",Structure
+171,genuine,A2,english_journal,10.1016/j.jmb.462479,"Clark O, Wright A, et al. Reveals stem cell differentiation with spatial profiling[J]. Journal of Molecular Biology, 2024, 145(1): 112-8119.",Journal
+172,genuine,A2,english_journal,10.1016/j.bpj.972097,"Jones P, Garcia L, et al. Investigates autophagy regulation with spatial profiling[J]. Biophysical Journal, 2022, 241(1): 59-7041.",Biophysical
+173,genuine,A2,english_journal,10.1016/j.bpj.481913,"Jones P, Lewis V, et al. Identifies RNA modification using multi-omics approaches[J]. Biophysical Journal, 2015, 276(9): 704-4228.",Biophysical
+174,genuine,A2,english_journal,10.1093/bioinformatics/bt334053,"Miller S, Collins J. Deciphers single-cell sequencing with spatial profiling[J]. Bioinformatics, 2016, 22(12): 282-5012.",Bioinformatics
+175,genuine,A2,english_journal,10.1083/jcb.143941,"Harris J, Campbell F, et al. Investigates cuproptosis through deep learning[J]. Journal of Cell Biology, 2019, 113(1): 811-4268.",Journal
+176,genuine,A2,english_journal,10.1128/mbio.195674,"Robinson Q, King Z, et al. Identifies RNA modification across diverse tissues[J]. mBio, 2017, 309(7): 651-9056.",mBio
+177,genuine,A2,english_journal,10.1534/g3.444519,"Edwards N, Smith J. Characterizes stem cell differentiation across diverse tissues[J]. G3: Genes Genomes Genetics, 2018, 310(4): 833-4817.",G3:
+178,genuine,A2,english_journal,10.1016/j.str.572387,"Edwards N, Adams D, et al. Dissects phase separation through deep learning[J]. Structure, 2023, 48(3): 3-7693.",Structure
+179,genuine,A2,english_journal,10.1158/1078-0432.CCR-431737,"Moore D, Clark O, et al. Determines stem cell differentiation across diverse tissues[J]. Clinical Cancer Research, 2015, 327(2): 430-9565.",Clinical
+180,genuine,A2,english_journal,10.1002/1873-3468.738720,"Anderson T, Collins J, et al. Investigates stem cell differentiation through integrative analysis[J]. FEBS Letters, 2019, 369(11): 664-2169.",FEBS
+181,genuine,A2,english_journal,10.1534/g3.727086,"Wright A. Uncovers liquid-liquid phase separation in development[J]. G3: Genes Genomes Genetics, 2023, 286(8): 449-2317.",G3:
+182,genuine,A2,english_journal,10.1242/dev.196168,"Scott B, Robinson Q. Reveals cellular reprogramming with spatial profiling[J]. Development, 2022, 473(9): 151-8167.",Development
+183,genuine,A2,english_journal,10.1038/s41598-550664,"Williams R, Harris J. Reveals gene therapy via CRISPR screening[J]. Scientific Reports, 2015, 437(6): 597-3426.",Scientific
+184,genuine,A2,english_journal,10.1002/1873-3468.680238,"Rodriguez C, Baker E, et al. Reveals cellular senescence in development[J]. FEBS Letters, 2017, 150(1): 998-1893.",FEBS
+185,genuine,A2,english_journal,10.1242/dev.755788,"Brown K, Moore D, et al. Dissects protein structure prediction through deep learning[J]. Development, 2018, 275(6): 638-9167.",Development
+186,genuine,A2,english_journal,10.1002/pro.725380,"Young X. Deciphers drug target discovery through deep learning[J]. Protein Science, 2017, 331(3): 812-7916.",Protein
+187,genuine,A2,english_journal,10.1242/jcs.493049,"Martinez E, Martin B, et al. Characterizes apoptosis across diverse tissues[J]. Journal of Cell Science, 2015, 176(1): 301-6873.",Journal
+188,genuine,A2,english_journal,10.15252/embr.469412,"Lewis V, Taylor N, et al. Explores single-cell sequencing in human disease[J]. EMBO Reports, 2024, 386(6): 137-1726.",EMBO
+189,genuine,A2,english_journal,10.1186/s12859-920391,"Martin B, Thompson G, et al. Reveals drug target discovery through deep learning[J]. BMC Bioinformatics, 2015, 101(12): 947-6442.",BMC
+190,genuine,A2,english_journal,10.1002/pro.755900,"Lee F, Garcia L. Elucidates epigenetic regulation across diverse tissues[J]. Protein Science, 2015, 322(12): 102-4404.",Protein
+191,genuine,A2,english_journal,10.1186/s12864-189771,"King Z, Baker E. Elucidates aging mechanism through deep learning[J]. BMC Genomics, 2023, 15(9): 971-4130.",BMC
+192,genuine,A2,english_journal,10.1002/stem.102260,"Lee F, Green C, et al. Investigates phase separation through deep learning[J]. Stem Cells, 2021, 472(1): 169-7209.",Stem
+193,genuine,A2,english_journal,10.1016/j.jbc.147549,"Harris J. Identifies microbiome at single-cell resolution[J]. Journal of Biological Chemistry, 2019, 342(7): 120-3290.",Journal
+194,genuine,A2,english_journal,10.1534/genetics.853240,"Young X, Baker E, et al. Identifies mitophagy with spatial profiling[J]. Genetics, 2021, 463(11): 590-4185.",Genetics
+195,genuine,A2,english_journal,10.15252/embr.155164,"Anderson T, Evans P. Identifies genome editing using multi-omics approaches[J]. EMBO Reports, 2020, 407(10): 611-2391.",EMBO
+196,genuine,A2,english_journal,10.1111/cmi.998348,"Young X, Adams D, et al. Determines ferroptosis with spatial profiling[J]. Cellular Microbiology, 2021, 209(10): 969-1320.",Cellular
+197,genuine,A2,english_journal,10.1242/jcs.392477,"Martin B, Green C, et al. Determines RNA modification via CRISPR screening[J]. Journal of Cell Science, 2019, 175(4): 851-2419.",Journal
+198,genuine,A2,english_journal,10.1016/j.str.813328,"Davis A, Collins J, et al. Characterizes bioinformatics through deep learning[J]. Structure, 2023, 138(9): 882-1188.",Structure
+199,genuine,A2,english_journal,10.1083/jcb.782054,"Evans P, Collins J, et al. Determines synthetic biology in development[J]. Journal of Cell Biology, 2017, 232(3): 752-9548.",Journal
+200,genuine,A2,english_journal,10.1158/0008-5472.CAN-568238,"Adams D, Robinson Q, et al. Explores drug target discovery via CRISPR screening[J]. Cancer Research, 2024, 347(8): 887-3434.",Cancer
+201,genuine,A2,english_journal,10.1186/s12859-763984,"Carter H. Elucidates precision medicine via CRISPR screening[J]. BMC Bioinformatics, 2018, 180(3): 79-9363.",BMC
+202,genuine,A2,english_journal,10.1111/mmi.584106,"Young X, Campbell F, et al. Characterizes bioinformatics through integrative analysis[J]. Molecular Microbiology, 2018, 198(11): 970-8218.",Molecular
+203,genuine,A2,english_journal,10.1186/s12915-624902,"Campbell F, Miller S. Dissects cellular senescence in cancer[J]. BMC Biology, 2015, 498(12): 897-5315.",BMC
+204,genuine,A2,english_journal,10.1016/j.jbc.913373,"Young X, Scott B, et al. Deciphers neurodegenerative disease in development[J]. Journal of Biological Chemistry, 2023, 401(7): 621-4697.",Journal
+205,genuine,A2,english_journal,10.1242/jcs.652530,"Harris J, Williams R, et al. Dissects immunotherapy through integrative analysis[J]. Journal of Cell Science, 2019, 357(11): 608-8972.",Journal
+206,genuine,A2,english_journal,10.1016/j.jmb.929090,"Smith J, Lee F, et al. Uncovers synthetic biology using multi-omics approaches[J]. Journal of Molecular Biology, 2021, 443(9): 375-2479.",Journal
+207,genuine,A2,english_journal,10.1016/j.jbc.521947,"White I, Cooper K, et al. Characterizes RNA modification in development[J]. Journal of Biological Chemistry, 2023, 168(11): 419-6344.",Journal
+208,genuine,A2,english_journal,10.1534/genetics.665579,"Smith J, Edwards N, et al. Uncovers spatial transcriptomics using multi-omics approaches[J]. Genetics, 2024, 111(3): 383-3646.",Genetics
+209,genuine,A2,english_journal,10.1083/jcb.800305,"Harris J, Miller S, et al. Identifies mitophagy in cancer[J]. Journal of Cell Biology, 2024, 423(11): 542-1128.",Journal
+210,genuine,A2,english_journal,10.1158/0008-5472.CAN-946432,"Cooper K, Evans P, et al. Dissects cellular reprogramming in human disease[J]. Cancer Research, 2016, 400(5): 588-4705.",Cancer
+211,genuine,A2,english_journal,10.1038/s41598-332360,"Martin B, Harris J, et al. Investigates microbiome in cancer[J]. Scientific Reports, 2022, 239(1): 96-5820.",Scientific
+212,genuine,A2,english_journal,10.1186/s12859-300845,"Adams D, Thompson G. Deciphers liquid-liquid phase separation in cancer[J]. BMC Bioinformatics, 2016, 390(9): 974-4033.",BMC
+213,genuine,A2,english_journal,10.1038/s41598-994787,"Miller S, Martin B, et al. Deciphers gene therapy using multi-omics approaches[J]. Scientific Reports, 2022, 442(5): 204-7302.",Scientific
+214,genuine,A2,english_journal,10.1128/jvi.665492,"Thomas H, Harris J, et al. Identifies synthetic biology through integrative analysis[J]. Journal of Virology, 2023, 456(10): 434-4470.",Journal
+215,genuine,A2,english_journal,10.1242/dev.726410,"White I, Green C, et al. Identifies spatial transcriptomics in cancer[J]. Development, 2024, 290(12): 333-7240.",Development
+216,genuine,A2,english_journal,10.1371/journal.pone.468900,"Green C, Thompson G, et al. Elucidates liquid-liquid phase separation via CRISPR screening[J]. PLoS ONE, 2020, 227(12): 564-6419.",PLoS
+217,genuine,A2,english_journal,10.1038/s41388-707314,"Collins J, Brown K, et al. Investigates precision medicine across diverse tissues[J]. Oncogene, 2017, 107(5): 223-1958.",Oncogene
+218,genuine,A2,english_journal,10.1158/2159-8290.CD-491435,"Johnson M, Robinson Q, et al. Elucidates gene therapy at single-cell resolution[J]. Cancer Discovery, 2015, 209(8): 45-7338.",Cancer
+219,genuine,A2,english_journal,10.1534/g3.189814,"Baker E, Jones P, et al. Characterizes aging mechanism using multi-omics approaches[J]. G3: Genes Genomes Genetics, 2018, 39(4): 900-2290.",G3:
+220,genuine,A2,english_journal,10.1186/s12864-688153,"Davis A. Characterizes single-cell sequencing in cancer[J]. BMC Genomics, 2017, 389(8): 565-8007.",BMC
+221,genuine,A2,english_journal,10.1158/1078-0432.CCR-456331,"Smith J, Taylor N, et al. Determines apoptosis at single-cell resolution[J]. Clinical Cancer Research, 2017, 149(12): 781-6062.",Clinical
+222,genuine,A2,english_journal,10.1002/pro.418635,"Moore D, Wright A, et al. Uncovers autophagy regulation through deep learning[J]. Protein Science, 2024, 164(7): 562-1006.",Protein
+223,genuine,A2,english_journal,10.1016/j.ydbio.859359,"Green C, Rodriguez C. Investigates autophagy regulation in human disease[J]. Developmental Biology, 2020, 352(11): 818-7624.",Developmental
+224,genuine,A2,english_journal,10.15252/embr.455007,"Allen Y, Garcia L, et al. Explores metabolic reprogramming in cancer[J]. EMBO Reports, 2017, 48(8): 801-5342.",EMBO
+225,genuine,A2,english_journal,10.1016/j.jmb.293319,"Lee F. Explores cellular senescence at single-cell resolution[J]. Journal of Molecular Biology, 2019, 250(8): 452-6582.",Journal
+226,genuine,A2,english_journal,10.1111/mmi.174299,"Martin B, Thompson G, et al. Deciphers protein structure prediction in development[J]. Molecular Microbiology, 2016, 473(1): 881-6413.",Molecular
+227,genuine,A2,english_journal,10.1534/genetics.723948,"Cox L, White I, et al. Determines phase separation using multi-omics approaches[J]. Genetics, 2017, 46(1): 170-6039.",Genetics
+228,genuine,A2,english_journal,10.1111/mmi.744986,"Carter H. Explores neurodegenerative disease in human disease[J]. Molecular Microbiology, 2024, 65(8): 516-4629.",Molecular
+229,genuine,A2,english_journal,10.1016/j.stemcr.929822,"Rodriguez C, Williams R. Explores neurodegenerative disease across diverse tissues[J]. Stem Cell Reports, 2016, 439(12): 666-6493.",Stem
+230,genuine,A2,english_journal,10.1016/j.ydbio.844261,"Harris J, Cooper K. Investigates deep learning with spatial profiling[J]. Developmental Biology, 2022, 72(1): 997-4920.",Developmental
+231,genuine,A2,english_journal,10.1158/0008-5472.CAN-117233,"Campbell F, Cox L, et al. Deciphers deep learning via CRISPR screening[J]. Cancer Research, 2016, 66(8): 612-9782.",Cancer
+232,genuine,A2,english_journal,10.1083/jcb.534303,"Moore D, Campbell F, et al. Determines gene therapy at single-cell resolution[J]. Journal of Cell Biology, 2022, 348(7): 498-8242.",Journal
+233,genuine,A2,english_journal,10.1242/dev.806073,"Miller S, Brown K, et al. Elucidates immunotherapy in cancer[J]. Development, 2021, 220(8): 885-1887.",Development
+234,genuine,A2,english_journal,10.1002/1873-3468.369452,"White I, Lewis V, et al. Characterizes single-cell sequencing through integrative analysis[J]. FEBS Letters, 2023, 266(5): 851-3695.",FEBS
+235,genuine,A2,english_journal,10.1158/2159-8290.CD-196214,"Carter H, Moore D, et al. Uncovers epigenetic regulation using multi-omics approaches[J]. Cancer Discovery, 2017, 389(11): 996-1502.",Cancer
+236,genuine,A2,english_journal,10.1186/s12915-926097,"Diaz M, Thomas H, et al. Characterizes DNA damage repair using multi-omics approaches[J]. BMC Biology, 2016, 361(4): 947-5334.",BMC
+237,genuine,A2,english_journal,10.1242/dev.611945,"Thompson G, Wright A. Reveals microbiome with spatial profiling[J]. Development, 2023, 392(12): 560-4613.",Development
+238,genuine,A2,english_journal,10.1186/s12864-624563,"Robinson Q, Jones P, et al. Explores deep learning at single-cell resolution[J]. BMC Genomics, 2017, 204(9): 721-4770.",BMC
+239,genuine,A2,english_journal,10.1534/genetics.153035,"Martin B, Rodriguez C, et al. Identifies immunotherapy in cancer[J]. Genetics, 2018, 338(11): 612-1349.",Genetics
+240,genuine,A2,english_journal,10.1016/j.ydbio.504924,"Walker U. Reveals tumor microenvironment via CRISPR screening[J]. Developmental Biology, 2015, 212(9): 383-4862.",Developmental
+241,genuine,A2,english_journal,10.1093/bioinformatics/bt146228,"Lewis V. Characterizes ferroptosis using multi-omics approaches[J]. Bioinformatics, 2016, 334(7): 850-5533.",Bioinformatics
+242,genuine,A2,english_journal,10.1016/j.bpj.249811,"Rodriguez C, Martin B, et al. Dissects aging mechanism in development[J]. Biophysical Journal, 2018, 345(8): 406-8517.",Biophysical
+243,genuine,A2,english_journal,10.1128/mbio.717024,"Smith J, Jones P. Reveals phase separation through integrative analysis[J]. mBio, 2018, 42(6): 22-4770.",mBio
+244,genuine,A2,english_journal,10.1186/s12859-705397,"Jones P, Williams R. Elucidates RNA modification using multi-omics approaches[J]. BMC Bioinformatics, 2023, 160(11): 634-6925.",BMC
+245,genuine,A2,english_journal,10.1093/bioinformatics/bt225812,"Baker E. Determines liquid-liquid phase separation across diverse tissues[J]. Bioinformatics, 2017, 401(5): 297-6375.",Bioinformatics
+246,genuine,A2,english_journal,10.1002/pro.575679,"Collins J, King Z, et al. Characterizes liquid-liquid phase separation with spatial profiling[J]. Protein Science, 2018, 464(9): 139-7367.",Protein
+247,genuine,A2,english_journal,10.7717/peerj.347745,"Martinez E. Elucidates stem cell differentiation across diverse tissues[J]. PeerJ, 2020, 382(11): 835-3419.",PeerJ
+248,genuine,A2,english_journal,10.1111/cmi.299659,"Miller S. Determines RNA modification via CRISPR screening[J]. Cellular Microbiology, 2022, 134(8): 827-7669.",Cellular
+249,genuine,A2,english_journal,10.1371/journal.pone.733052,"Williams R, Green C, et al. Determines spatial transcriptomics at single-cell resolution[J]. PLoS ONE, 2016, 204(2): 368-6635.",PLoS
+250,genuine,A2,english_journal,10.1002/pro.629057,"Taylor N, Williams R, et al. Deciphers precision medicine across diverse tissues[J]. Protein Science, 2016, 425(6): 732-2381.",Protein
+251,genuine,A2,english_journal,10.1158/1078-0432.CCR-648913,"Jones P, Carter H, et al. Investigates precision medicine in cancer[J]. Clinical Cancer Research, 2018, 302(7): 192-2402.",Clinical
+252,genuine,A2,english_journal,10.7717/peerj.409445,"King Z, Taylor N, et al. Investigates protein structure prediction via CRISPR screening[J]. PeerJ, 2024, 196(12): 135-2476.",PeerJ
+253,genuine,A2,english_journal,10.7717/peerj.410636,"Walker U, Taylor N. Reveals neurodegenerative disease in cancer[J]. PeerJ, 2024, 154(2): 853-4180.",PeerJ
+254,genuine,A2,english_journal,10.1534/g3.324597,"Baker E, Thomas H, et al. Characterizes protein structure prediction at single-cell resolution[J]. G3: Genes Genomes Genetics, 2020, 19(6): 317-3953.",G3:
+255,genuine,A2,english_journal,10.1016/j.stemcr.188025,"Wright A, Rodriguez C, et al. Uncovers drug target discovery through integrative analysis[J]. Stem Cell Reports, 2021, 313(10): 679-1444.",Stem
+256,genuine,A2,english_journal,10.1128/jvi.975686,"Carter H, Williams R, et al. Characterizes epigenetic regulation in development[J]. Journal of Virology, 2019, 442(2): 520-9843.",Journal
+257,genuine,A2,english_journal,10.1158/1078-0432.CCR-344907,"Williams R, Clark O, et al. Characterizes drug target discovery through deep learning[J]. Clinical Cancer Research, 2018, 367(4): 586-7274.",Clinical
+258,genuine,A2,english_journal,10.1016/j.jbc.329974,"Campbell F, Baker E. Reveals single-cell sequencing at single-cell resolution[J]. Journal of Biological Chemistry, 2021, 469(10): 409-6930.",Journal
+259,genuine,A2,english_journal,10.1016/j.jmb.944151,"Allen Y, Thompson G, et al. Deciphers immunotherapy via CRISPR screening[J]. Journal of Molecular Biology, 2020, 441(1): 235-1525.",Journal
+260,genuine,A2,english_journal,10.1016/j.str.393328,"Walker U. Explores immunotherapy through deep learning[J]. Structure, 2016, 436(8): 631-7686.",Structure
+261,genuine,A2,english_journal,10.1016/j.stemcr.779172,"Baker E, White I. Dissects precision medicine with spatial profiling[J]. Stem Cell Reports, 2016, 125(2): 473-2924.",Stem
+262,genuine,A2,english_journal,10.7717/peerj.960394,"Jackson W, Johnson M. Elucidates RNA modification with spatial profiling[J]. PeerJ, 2018, 112(8): 359-6000.",PeerJ
+263,genuine,A2,english_journal,10.1158/1078-0432.CCR-915573,"Harris J, Miller S. Reveals apoptosis using multi-omics approaches[J]. Clinical Cancer Research, 2024, 320(12): 736-2876.",Clinical
+264,genuine,A2,english_journal,10.1002/stem.119927,"Moore D, Martinez E, et al. Deciphers liquid-liquid phase separation in cancer[J]. Stem Cells, 2022, 239(10): 6-2298.",Stem
+265,genuine,A2,english_journal,10.1128/jvi.547470,"Scott B, Anderson T, et al. Dissects cuproptosis in cancer[J]. Journal of Virology, 2022, 323(12): 914-9270.",Journal
+266,genuine,A2,english_journal,10.1242/jcs.474314,"Lewis V. Identifies stem cell differentiation via CRISPR screening[J]. Journal of Cell Science, 2019, 28(11): 196-5687.",Journal
+267,genuine,A2,english_journal,10.1371/journal.pone.108491,"Brown K, Edwards N, et al. Uncovers autophagy regulation through integrative analysis[J]. PLoS ONE, 2019, 21(11): 406-5497.",PLoS
+268,genuine,A2,english_journal,10.7717/peerj.498591,"Green C, Walker U, et al. Uncovers gene therapy through integrative analysis[J]. PeerJ, 2016, 447(4): 888-2654.",PeerJ
+269,genuine,A2,english_journal,10.1002/1873-3468.910389,"Baker E, Green C, et al. Explores protein structure prediction at single-cell resolution[J]. FEBS Letters, 2024, 88(11): 78-3902.",FEBS
+270,genuine,A2,english_journal,10.1534/g3.152657,"Martin B, Davis A, et al. Deciphers aging mechanism via CRISPR screening[J]. G3: Genes Genomes Genetics, 2018, 100(12): 531-8611.",G3:
+271,genuine,A2,english_journal,10.1158/2159-8290.CD-179688,"Martin B, Miller S, et al. Deciphers pyroptosis in human disease[J]. Cancer Discovery, 2024, 356(7): 407-4249.",Cancer
+272,genuine,A2,english_journal,10.1083/jcb.338536,"Garcia L, Wright A, et al. Dissects phase separation in human disease[J]. Journal of Cell Biology, 2015, 326(2): 241-5708.",Journal
+273,genuine,A2,english_journal,10.1111/cmi.489244,"Miller S, Carter H, et al. Characterizes ferroptosis using multi-omics approaches[J]. Cellular Microbiology, 2024, 80(5): 54-8873.",Cellular
+274,genuine,A2,english_journal,10.1158/0008-5472.CAN-691364,"Green C, Lee F. Uncovers ferroptosis across diverse tissues[J]. Cancer Research, 2017, 132(3): 485-2874.",Cancer
+275,genuine,A2,english_journal,10.1186/s12864-401603,"Collins J, Anderson T, et al. Determines DNA damage repair using multi-omics approaches[J]. BMC Genomics, 2019, 351(1): 921-8622.",BMC
+276,genuine,A2,english_journal,10.1111/mmi.794769,"Cooper K, Williams R, et al. Dissects metabolic reprogramming via CRISPR screening[J]. Molecular Microbiology, 2020, 220(12): 508-5722.",Molecular
+277,genuine,A2,english_journal,10.15252/embr.172306,"Lewis V, Smith J, et al. Uncovers bioinformatics through deep learning[J]. EMBO Reports, 2020, 282(7): 678-7071.",EMBO
+278,genuine,A2,english_journal,10.1111/cmi.964998,"Collins J. Determines synthetic biology in human disease[J]. Cellular Microbiology, 2016, 405(7): 886-9431.",Cellular
+279,genuine,A2,english_journal,10.1534/genetics.774751,"Rodriguez C, Carter H, et al. Determines DNA damage repair in cancer[J]. Genetics, 2024, 372(2): 318-7171.",Genetics
+280,genuine,A2,english_journal,10.1038/s41388-380150,"White I. Dissects liquid-liquid phase separation in development[J]. Oncogene, 2019, 405(7): 349-9318.",Oncogene
+281,genuine,A2,english_journal,10.1128/mbio.481995,"Martin B, Scott B, et al. Dissects tumor microenvironment through deep learning[J]. mBio, 2017, 379(8): 45-7731.",mBio
+282,genuine,A2,english_journal,10.1158/2159-8290.CD-109767,"Evans P, Cox L, et al. Elucidates aging mechanism in cancer[J]. Cancer Discovery, 2019, 244(6): 952-2188.",Cancer
+283,genuine,A2,english_journal,10.1002/stem.502219,"Edwards N, Campbell F. Characterizes liquid-liquid phase separation at single-cell resolution[J]. Stem Cells, 2022, 251(4): 468-3369.",Stem
+284,genuine,A2,english_journal,10.1128/jvi.901909,"Thompson G, Cox L, et al. Explores DNA damage repair using multi-omics approaches[J]. Journal of Virology, 2019, 23(2): 235-1339.",Journal
+285,genuine,A2,english_journal,10.1128/mbio.181247,"White I, Martin B, et al. Characterizes single-cell sequencing across diverse tissues[J]. mBio, 2022, 330(4): 282-8206.",mBio
+286,genuine,A2,english_journal,10.1016/j.ydbio.533914,"Green C, Allen Y, et al. Identifies liquid-liquid phase separation via CRISPR screening[J]. Developmental Biology, 2018, 230(8): 910-4743.",Developmental
+287,genuine,A2,english_journal,10.1016/j.ydbio.585100,"Jones P, Scott B. Investigates pyroptosis at single-cell resolution[J]. Developmental Biology, 2022, 81(7): 188-5563.",Developmental
+288,genuine,A2,english_journal,10.1111/cmi.614084,"Scott B, Jones P, et al. Dissects protein structure prediction in development[J]. Cellular Microbiology, 2015, 255(7): 437-2768.",Cellular
+289,genuine,A2,english_journal,10.1016/j.stemcr.197793,"Anderson T, King Z. Explores microbiome through integrative analysis[J]. Stem Cell Reports, 2015, 343(9): 857-1241.",Stem
+290,genuine,A2,english_journal,10.1016/j.bpj.259097,"Cox L, Harris J. Elucidates single-cell sequencing at single-cell resolution[J]. Biophysical Journal, 2016, 215(8): 76-1878.",Biophysical
+291,genuine,A2,english_journal,10.1186/s12915-858889,"Edwards N, Martinez E, et al. Determines neurodegenerative disease across diverse tissues[J]. BMC Biology, 2023, 357(7): 291-5128.",BMC
+292,genuine,A2,english_journal,10.1186/s12859-758765,"Williams R. Explores neurodegenerative disease in human disease[J]. BMC Bioinformatics, 2018, 327(5): 695-3240.",BMC
+293,genuine,A2,english_journal,10.1038/s41388-227767,"Martin B. Deciphers bioinformatics through deep learning[J]. Oncogene, 2021, 66(5): 244-5934.",Oncogene
+294,genuine,A2,english_journal,10.1016/j.jmb.720148,"Robinson Q. Identifies precision medicine using multi-omics approaches[J]. Journal of Molecular Biology, 2022, 236(11): 311-5500.",Journal
+295,genuine,A2,english_journal,10.1111/mmi.167348,"King Z, Lewis V, et al. Reveals bioinformatics through integrative analysis[J]. Molecular Microbiology, 2018, 206(12): 157-4505.",Molecular
+296,genuine,A2,english_journal,10.1158/2159-8290.CD-205239,"Miller S, Carter H, et al. Characterizes liquid-liquid phase separation with spatial profiling[J]. Cancer Discovery, 2015, 74(9): 989-6439.",Cancer
+297,genuine,A2,english_journal,10.1016/j.bpj.213609,"Jackson W, Adams D, et al. Identifies DNA damage repair through deep learning[J]. Biophysical Journal, 2024, 205(11): 963-7086.",Biophysical
+298,genuine,A2,english_journal,10.1002/stem.802559,"King Z. Determines gene therapy in human disease[J]. Stem Cells, 2023, 40(10): 980-6400.",Stem
+299,genuine,A2,english_journal,10.1186/s12915-670913,"Robinson Q, Brown K, et al. Explores cellular senescence at single-cell resolution[J]. BMC Biology, 2018, 447(6): 102-7018.",BMC
+300,genuine,A2,english_journal,10.1016/j.stemcr.260053,"Adams D, Jones P, et al. Uncovers spatial transcriptomics across diverse tissues[J]. Stem Cell Reports, 2021, 170(11): 262-7132.",Stem
+301,genuine,A3,chinese_journal,10.1186/s13039-164758,"Campbell F, Thomas H, et al. Uncovers epigenetic regulation in cancer[J]. Molecular Cytogenetics, 2023, 24(1): 940-2838.",Molecular
+302,genuine,A3,chinese_journal,10.1142/S02197200198042,"Young X, Cooper K, et al. Reveals DNA damage repair across diverse tissues[J]. Journal of Bioinformatics and Computational Biology, 2022, 6(6): 879-1519.",Journal
+303,genuine,A3,chinese_journal,10.1007/s10709-374258,"Walker U, Martin B, et al. Determines epigenetic regulation in cancer[J]. Genetica, 2016, 38(6): 587-1187.",Genetica
+304,genuine,A3,chinese_journal,10.6026/354377,"Edwards N, Moore D, et al. Dissects ferroptosis with spatial profiling[J]. Bioinformation, 2015, 48(1): 765-8846.",Bioinformation
+305,genuine,A3,chinese_journal,10.1186/s13104-356622,"Williams R, Allen Y, et al. Reveals ferroptosis across diverse tissues[J]. BMC Research Notes, 2021, 44(6): 894-1797.",BMC
+306,genuine,A3,chinese_journal,10.1007/s12539-825309,"Collins J, Williams R, et al. Identifies DNA damage repair at single-cell resolution[J]. Interdisciplinary Sciences, 2019, 38(4): 548-9300.",Interdisciplinary
+307,genuine,A3,chinese_journal,10.1186/s41065-912764,"Walker U, Collins J, et al. Identifies bioinformatics through integrative analysis[J]. Hereditas, 2020, 8(5): 117-5389.",Hereditas
+308,genuine,A3,chinese_journal,10.1007/s12539-834406,"Collins J. Identifies genome editing through deep learning[J]. Interdisciplinary Sciences, 2021, 5(1): 434-6644.",Interdisciplinary
+309,genuine,A3,chinese_journal,10.1007/s12539-533020,"Moore D, King Z, et al. Elucidates precision medicine in cancer[J]. Interdisciplinary Sciences, 2012, 29(3): 429-3481.",Interdisciplinary
+310,genuine,A3,chinese_journal,10.1109/TCBB.352356,"Jones P, Miller S. Reveals autophagy regulation through deep learning[J]. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2024, 43(4): 630-1256.",IEEE/ACM
+311,genuine,A3,chinese_journal,10.1016/j.gep.139286,"Harris J. Deciphers apoptosis at single-cell resolution[J]. Gene Expression Patterns, 2018, 32(2): 960-5742.",Gene
+312,genuine,A3,chinese_journal,10.12688/f1000research.809922,"Lewis V, Young X, et al. Uncovers liquid-liquid phase separation in human disease[J]. F1000Research, 2016, 11(5): 247-7375.",F1000Research
+313,genuine,A3,chinese_journal,10.1016/j.gdata.566339,"Thompson G, Miller S, et al. Characterizes single-cell sequencing with spatial profiling[J]. Genomics Data, 2017, 7(1): 6-6050.",Genomics
+314,genuine,A3,chinese_journal,10.1186/s13015-911739,"Garcia L, Green C, et al. Determines immunotherapy through integrative analysis[J]. Algorithms for Molecular Biology, 2019, 32(3): 596-1040.",Algorithms
+315,genuine,A3,chinese_journal,10.1007/s12539-117975,"Wright A, Taylor N, et al. Elucidates tumor microenvironment in development[J]. Interdisciplinary Sciences, 2020, 47(3): 549-5697.",Interdisciplinary
+316,genuine,A3,chinese_journal,10.1007/s10709-402692,"Green C, Cox L. Explores liquid-liquid phase separation in cancer[J]. Genetica, 2016, 3(3): 231-9808.",Genetica
+317,genuine,A3,chinese_journal,10.1016/j.gep.464825,"Green C, Evans P, et al. Dissects cuproptosis in development[J]. Gene Expression Patterns, 2018, 40(4): 602-2871.",Gene
+318,genuine,A3,chinese_journal,10.1186/s13039-703853,"Clark O, Young X. Determines stem cell differentiation via CRISPR screening[J]. Molecular Cytogenetics, 2017, 19(6): 712-9044.",Molecular
+319,genuine,A3,chinese_journal,10.1159/955088,"Edwards N, Rodriguez C, et al. Characterizes metabolic reprogramming with spatial profiling[J]. Cytogenetic and Genome Research, 2024, 22(4): 343-8055.",Cytogenetic
+320,genuine,A3,chinese_journal,10.1186/s41065-419457,"Allen Y. Deciphers metabolic reprogramming with spatial profiling[J]. Hereditas, 2021, 13(4): 110-3219.",Hereditas
+321,genuine,A3,chinese_journal,10.1186/s13015-428993,"Green C, Collins J. Investigates metabolic reprogramming via CRISPR screening[J]. Algorithms for Molecular Biology, 2017, 43(4): 539-7173.",Algorithms
+322,genuine,A3,chinese_journal,10.1016/j.gene.494747,"Collins J, Adams D. Elucidates tumor microenvironment using multi-omics approaches[J]. Gene, 2023, 27(4): 153-5913.",Gene
+323,genuine,A3,chinese_journal,10.2174/353777,"Martinez E, Wright A, et al. Explores single-cell sequencing in development[J]. Current Bioinformatics, 2022, 32(2): 649-5961.",Current
+324,genuine,A3,chinese_journal,10.12688/f1000research.782759,"Cox L, King Z. Reveals autophagy regulation through deep learning[J]. F1000Research, 2012, 6(1): 972-5336.",F1000Research
+325,genuine,A3,chinese_journal,10.1142/S02197200454161,"Cox L, Rodriguez C, et al. Identifies genome editing through deep learning[J]. Journal of Bioinformatics and Computational Biology, 2019, 18(3): 849-5646.",Journal
+326,genuine,A3,chinese_journal,10.1089/cmb.409783,"Garcia L, Davis A, et al. Uncovers neurodegenerative disease through deep learning[J]. Journal of Computational Biology, 2014, 23(1): 495-2712.",Journal
+327,genuine,A3,chinese_journal,10.1089/cmb.693343,"Carter H. Reveals cellular reprogramming through integrative analysis[J]. Journal of Computational Biology, 2013, 32(4): 661-6427.",Journal
+328,genuine,A3,chinese_journal,10.6026/112940,"King Z, Young X, et al. Investigates liquid-liquid phase separation through integrative analysis[J]. Bioinformation, 2021, 39(3): 885-7311.",Bioinformation
+329,genuine,A3,chinese_journal,10.1016/j.gene.552825,"Diaz M, Young X. Deciphers single-cell sequencing using multi-omics approaches[J]. Gene, 2019, 15(3): 567-7150.",Gene
+330,genuine,A3,chinese_journal,10.1186/s13104-123682,"Miller S, Anderson T, et al. Characterizes precision medicine in cancer[J]. BMC Research Notes, 2013, 20(1): 830-2885.",BMC
+331,genuine,A3,chinese_journal,10.1007/s10528-288667,"Cooper K, Johnson M, et al. Identifies cuproptosis with spatial profiling[J]. Biochemical Genetics, 2013, 37(2): 607-9939.",Biochemical
+332,genuine,A3,chinese_journal,10.1089/cmb.462974,"Thompson G, Thomas H. Identifies cellular reprogramming in human disease[J]. Journal of Computational Biology, 2020, 25(2): 254-8546.",Journal
+333,genuine,A3,chinese_journal,10.1159/243693,"Lewis V, Adams D, et al. Uncovers protein structure prediction in development[J]. Cytogenetic and Genome Research, 2018, 33(1): 47-1637.",Cytogenetic
+334,genuine,A3,chinese_journal,10.1186/s13104-324381,"Collins J, Thompson G. Investigates cellular reprogramming using multi-omics approaches[J]. BMC Research Notes, 2019, 42(3): 766-8849.",BMC
+335,genuine,A3,chinese_journal,10.1016/j.gep.380989,"Young X, Martinez E. Determines liquid-liquid phase separation via CRISPR screening[J]. Gene Expression Patterns, 2024, 16(6): 76-2344.",Gene
+336,genuine,A3,chinese_journal,10.1109/TCBB.599292,"Scott B. Explores liquid-liquid phase separation via CRISPR screening[J]. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2024, 14(5): 495-6706.",IEEE/ACM
+337,genuine,A3,chinese_journal,10.1007/s10709-414313,"Jones P, Walker U, et al. Explores liquid-liquid phase separation in development[J]. Genetica, 2013, 11(4): 283-7899.",Genetica
+338,genuine,A3,chinese_journal,10.2174/858414,"Allen Y. Reveals stem cell differentiation through integrative analysis[J]. Current Bioinformatics, 2012, 36(4): 689-6049.",Current
+339,genuine,A3,chinese_journal,10.1159/536045,"Cooper K, Adams D, et al. Explores precision medicine in cancer[J]. Cytogenetic and Genome Research, 2014, 30(6): 621-7121.",Cytogenetic
+340,genuine,A3,chinese_journal,10.1159/900441,"Baker E, Green C, et al. Characterizes epigenetic regulation in cancer[J]. Cytogenetic and Genome Research, 2020, 42(6): 346-5216.",Cytogenetic
+341,genuine,A3,chinese_journal,10.1016/j.mgene.208310,"Garcia L. Investigates gene therapy at single-cell resolution[J]. Meta Gene, 2019, 36(5): 525-7685.",Meta
+342,genuine,A3,chinese_journal,10.12688/f1000research.705526,"Clark O, Martin B, et al. Determines tumor microenvironment using multi-omics approaches[J]. F1000Research, 2020, 19(2): 836-6224.",F1000Research
+343,genuine,A3,chinese_journal,10.1007/s10709-689849,"Martinez E, Johnson M. Investigates stem cell differentiation in development[J]. Genetica, 2015, 24(3): 424-1749.",Genetica
+344,genuine,A3,chinese_journal,10.1007/s10528-276556,"White I, Cox L, et al. Investigates cellular senescence at single-cell resolution[J]. Biochemical Genetics, 2021, 23(5): 288-9827.",Biochemical
+345,genuine,A3,chinese_journal,10.1142/S02197200739711,"Thomas H, Martin B, et al. Elucidates neurodegenerative disease using multi-omics approaches[J]. Journal of Bioinformatics and Computational Biology, 2022, 50(6): 698-5331.",Journal
+346,genuine,A3,chinese_journal,10.12688/f1000research.354235,"Carter H. Elucidates tumor microenvironment in human disease[J]. F1000Research, 2014, 7(5): 759-4920.",F1000Research
+347,genuine,A3,chinese_journal,10.1016/j.gdata.223586,"Harris J, Davis A. Uncovers epigenetic regulation across diverse tissues[J]. Genomics Data, 2021, 6(6): 138-6131.",Genomics
+348,genuine,A3,chinese_journal,10.1016/j.mgene.297303,"Cooper K, Moore D, et al. Reveals cellular reprogramming through integrative analysis[J]. Meta Gene, 2022, 39(5): 41-2192.",Meta
+349,genuine,A3,chinese_journal,10.1186/s13015-274418,"Evans P, Williams R, et al. Reveals spatial transcriptomics at single-cell resolution[J]. Algorithms for Molecular Biology, 2024, 16(6): 681-6816.",Algorithms
+350,genuine,A3,chinese_journal,10.1016/j.dib.838968,"Moore D, Thompson G. Identifies ferroptosis in development[J]. Data in Brief, 2019, 38(4): 399-1072.",Data
+351,genuine,A3,chinese_journal,10.1016/j.gene.313933,"Edwards N, Martinez E, et al. Uncovers cellular senescence via CRISPR screening[J]. Gene, 2014, 29(4): 496-8609.",Gene
+352,genuine,A3,chinese_journal,10.1016/j.dib.205428,"Rodriguez C, Smith J, et al. Elucidates microbiome using multi-omics approaches[J]. Data in Brief, 2013, 27(3): 735-8739.",Data
+353,genuine,A3,chinese_journal,10.1186/s13039-722565,"Campbell F, Collins J, et al. Deciphers phase separation using multi-omics approaches[J]. Molecular Cytogenetics, 2017, 11(4): 632-5902.",Molecular
+354,genuine,A3,chinese_journal,10.1016/j.dib.606404,"Allen Y, Harris J. Identifies synthetic biology in human disease[J]. Data in Brief, 2022, 35(3): 658-5949.",Data
+355,genuine,A3,chinese_journal,10.1007/s12041-107161,"Young X, Martin B, et al. Dissects ferroptosis via CRISPR screening[J]. Journal of Genetics, 2014, 31(3): 959-5064.",Journal
+356,genuine,A3,chinese_journal,10.1016/j.mgene.622987,"Baker E, Johnson M, et al. Investigates drug target discovery through deep learning[J]. Meta Gene, 2024, 11(4): 528-8648.",Meta
+357,genuine,A3,chinese_journal,10.1186/s13104-116418,"Diaz M, Martinez E. Determines ferroptosis at single-cell resolution[J]. BMC Research Notes, 2022, 3(2): 952-6152.",BMC
+358,genuine,A3,chinese_journal,10.1007/s12041-277735,"Thompson G, Harris J. Explores stem cell differentiation across diverse tissues[J]. Journal of Genetics, 2021, 34(2): 702-7237.",Journal
+359,genuine,A3,chinese_journal,10.1007/s10528-841521,"Smith J, Moore D. Explores precision medicine via CRISPR screening[J]. Biochemical Genetics, 2018, 9(6): 237-2113.",Biochemical
+360,genuine,A3,chinese_journal,10.1016/j.gdata.745270,"Martin B, Anderson T, et al. Uncovers liquid-liquid phase separation through integrative analysis[J]. Genomics Data, 2014, 7(1): 298-7293.",Genomics
+361,genuine,A3,chinese_journal,10.1186/s41065-305721,"Jackson W, Young X, et al. Elucidates cuproptosis through deep learning[J]. Hereditas, 2021, 47(4): 303-3497.",Hereditas
+362,genuine,A3,chinese_journal,10.1142/S02197200685098,"Cox L, Jackson W, et al. Deciphers synthetic biology in cancer[J]. Journal of Bioinformatics and Computational Biology, 2016, 15(5): 765-9499.",Journal
+363,genuine,A3,chinese_journal,10.1016/j.dib.756401,"Wright A, Cooper K, et al. Investigates pyroptosis via CRISPR screening[J]. Data in Brief, 2016, 4(5): 972-3869.",Data
+364,genuine,A3,chinese_journal,10.1016/j.dib.457137,"Evans P, Edwards N, et al. Dissects DNA damage repair through deep learning[J]. Data in Brief, 2013, 28(2): 859-2245.",Data
+365,genuine,A3,chinese_journal,10.1109/TCBB.438334,"Jackson W, Robinson Q, et al. Investigates immunotherapy using multi-omics approaches[J]. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2020, 10(3): 169-3653.",IEEE/ACM
+366,genuine,A3,chinese_journal,10.2174/390794,"Rodriguez C, Evans P, et al. Determines ferroptosis through deep learning[J]. Current Bioinformatics, 2014, 49(4): 941-1971.",Current
+367,genuine,A3,chinese_journal,10.1016/j.mgene.853504,"Smith J, Lewis V. Dissects pyroptosis in development[J]. Meta Gene, 2014, 47(4): 664-5215.",Meta
+368,genuine,A3,chinese_journal,10.1007/s12041-529008,"Baker E, King Z, et al. Reveals apoptosis through integrative analysis[J]. Journal of Genetics, 2018, 36(5): 669-9109.",Journal
+369,genuine,A3,chinese_journal,10.6026/152995,"Baker E, Edwards N, et al. Investigates neurodegenerative disease in human disease[J]. Bioinformation, 2015, 14(5): 362-1797.",Bioinformation
+370,genuine,A3,chinese_journal,10.1109/TCBB.148823,"Thompson G. Investigates mitophagy in development[J]. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2015, 45(5): 487-5441.",IEEE/ACM
+371,genuine,A3,chinese_journal,10.1016/j.gdata.649787,"Rodriguez C, Campbell F, et al. Identifies immunotherapy via CRISPR screening[J]. Genomics Data, 2017, 19(4): 657-9901.",Genomics
+372,genuine,A3,chinese_journal,10.1186/s13039-845279,"Wright A, Anderson T, et al. Elucidates cuproptosis in human disease[J]. Molecular Cytogenetics, 2015, 48(5): 706-6744.",Molecular
+373,genuine,A3,chinese_journal,10.1186/s41065-933510,"Cooper K, Walker U, et al. Deciphers immunotherapy in cancer[J]. Hereditas, 2013, 9(1): 404-7114.",Hereditas
+374,genuine,A3,chinese_journal,10.1016/j.gene.306647,"Davis A, Lee F, et al. Uncovers DNA damage repair in development[J]. Gene, 2013, 35(2): 375-6340.",Gene
+375,genuine,A3,chinese_journal,10.1159/956401,"Scott B. Identifies cellular senescence through integrative analysis[J]. Cytogenetic and Genome Research, 2016, 3(4): 270-6711.",Cytogenetic
+376,genuine,A3,chinese_journal,10.6026/967161,"Campbell F, Clark O, et al. Identifies RNA modification across diverse tissues[J]. Bioinformation, 2022, 49(2): 180-7643.",Bioinformation
+377,genuine,A3,chinese_journal,10.1142/S02197200512151,"Rodriguez C, Jackson W, et al. Investigates synthetic biology with spatial profiling[J]. Journal of Bioinformatics and Computational Biology, 2022, 23(1): 183-9802.",Journal
+378,genuine,A3,chinese_journal,10.1007/s12041-374267,"Campbell F, Baker E, et al. Explores spatial transcriptomics via CRISPR screening[J]. Journal of Genetics, 2019, 35(6): 368-6053.",Journal
+379,genuine,A3,chinese_journal,10.1016/j.gep.434617,"Green C, Davis A. Explores stem cell differentiation through integrative analysis[J]. Gene Expression Patterns, 2018, 9(3): 528-2739.",Gene
+380,genuine,A3,chinese_journal,10.1109/TCBB.404561,"White I. Identifies phase separation via CRISPR screening[J]. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2018, 26(3): 978-3399.",IEEE/ACM
+381,genuine,A3,chinese_journal,10.1016/j.gdata.988283,"Garcia L, Collins J, et al. Dissects genome editing with spatial profiling[J]. Genomics Data, 2015, 22(6): 81-8369.",Genomics
+382,genuine,A3,chinese_journal,10.1007/s12041-862847,"Allen Y, Walker U, et al. Reveals drug target discovery in development[J]. Journal of Genetics, 2013, 28(2): 904-5333.",Journal
+383,genuine,A3,chinese_journal,10.1186/s41065-769737,"Walker U, Evans P, et al. Characterizes tumor microenvironment through deep learning[J]. Hereditas, 2023, 50(3): 707-2923.",Hereditas
+384,genuine,A3,chinese_journal,10.1016/j.gep.689704,"King Z, Cooper K, et al. Elucidates drug target discovery using multi-omics approaches[J]. Gene Expression Patterns, 2023, 10(4): 937-1944.",Gene
+385,genuine,A3,chinese_journal,10.6026/429861,"Evans P, Brown K, et al. Characterizes microbiome through integrative analysis[J]. Bioinformation, 2014, 32(3): 144-4065.",Bioinformation
+386,genuine,A3,chinese_journal,10.1007/s10709-177103,"Campbell F, Scott B, et al. Deciphers cuproptosis in development[J]. Genetica, 2020, 13(3): 567-5728.",Genetica
+387,genuine,A3,chinese_journal,10.1007/s10528-195359,"Scott B, Brown K, et al. Explores bioinformatics in development[J]. Biochemical Genetics, 2019, 8(6): 211-9008.",Biochemical
+388,genuine,A3,chinese_journal,10.1007/s12539-493396,"Jones P, Garcia L, et al. Dissects liquid-liquid phase separation via CRISPR screening[J]. Interdisciplinary Sciences, 2014, 37(6): 276-7786.",Interdisciplinary
+389,genuine,A3,chinese_journal,10.1186/s13015-903028,"King Z, Walker U, et al. Investigates single-cell sequencing across diverse tissues[J]. Algorithms for Molecular Biology, 2012, 19(4): 185-3218.",Algorithms
+390,genuine,A3,chinese_journal,10.12688/f1000research.343118,"Taylor N, Wright A, et al. Deciphers liquid-liquid phase separation through integrative analysis[J]. F1000Research, 2014, 22(5): 437-8570.",F1000Research
+391,genuine,A3,chinese_journal,10.2174/278794,"Evans P, Young X, et al. Identifies apoptosis through integrative analysis[J]. Current Bioinformatics, 2015, 47(1): 598-8871.",Current
+392,genuine,A3,chinese_journal,10.1016/j.mgene.702727,"Wright A, Taylor N, et al. Characterizes phase separation in cancer[J]. Meta Gene, 2020, 25(4): 611-3258.",Meta
+393,genuine,A3,chinese_journal,10.1016/j.gene.783984,"Jackson W, Collins J, et al. Characterizes mitophagy in human disease[J]. Gene, 2017, 19(6): 61-2465.",Gene
+394,genuine,A3,chinese_journal,10.1186/s13039-649395,"Jones P. Reveals cuproptosis in human disease[J]. Molecular Cytogenetics, 2019, 12(5): 658-1962.",Molecular
+395,genuine,A3,chinese_journal,10.1089/cmb.234568,"Diaz M, Taylor N, et al. Reveals cellular reprogramming at single-cell resolution[J]. Journal of Computational Biology, 2019, 30(6): 530-6644.",Journal
+396,genuine,A3,chinese_journal,10.1186/s13015-182857,"Allen Y, Green C, et al. Elucidates tumor microenvironment using multi-omics approaches[J]. Algorithms for Molecular Biology, 2020, 17(3): 274-7502.",Algorithms
+397,genuine,A3,chinese_journal,10.2174/791309,"Johnson M, Smith J, et al. Reveals bioinformatics in human disease[J]. Current Bioinformatics, 2012, 40(6): 683-8916.",Current
+398,genuine,A3,chinese_journal,10.1089/cmb.432441,"Robinson Q, Cooper K, et al. Deciphers spatial transcriptomics in cancer[J]. Journal of Computational Biology, 2024, 19(6): 213-9011.",Journal
+399,genuine,A3,chinese_journal,10.1007/s10528-536774,"Harris J, Johnson M, et al. Deciphers DNA damage repair in development[J]. Biochemical Genetics, 2019, 2(3): 340-2795.",Biochemical
+400,genuine,A3,chinese_journal,10.1186/s13104-197966,"Anderson T, Diaz M, et al. Deciphers metabolic reprogramming in human disease[J]. BMC Research Notes, 2014, 41(3): 630-9740.",BMC
+401,genuine,A4,conference,10.13523/j.cb.2024.95175,"陈静, 梁宇, 等. 单细胞测序表征的单细胞水平研究[J]. 中国生物工程杂志, 2023, 30(7): 76-749.",中国生物工程杂志
+402,genuine,A4,conference,10.11983/CBB2020.73646,"潘峰, 谢明, 等. 药物靶点发现鉴定的临床应用研究[J]. 植物学报, 2023, 32(7): 34-492.",植物学报
+403,genuine,A4,conference,10.13859/j.cjz.2012.53449,"何勇, 刘洋, 等. 代谢重编程探索在肿瘤中的功能[J]. 动物学杂志, 2024, 53(12): 52-139.",动物学杂志
+404,genuine,A4,conference,10.13343/j.cnki.wsxb.2006.92211,"潘峰, 郭文. 代谢重编程分析的单细胞水平研究[J]. 微生物学报, 2015, 37(2): 88-545.",微生物学报
+405,genuine,A4,conference,10.17520/biods.2017.37112,"沈亮, 唐亮, 等. 代谢重编程调控的临床应用研究[J]. 生物多样性, 2024, 49(11): 39-620.",生物多样性
+406,genuine,A4,conference,10.3760/cma.j.issn.0376-2491.2003.95664,"刘洋. 相分离分析的结构基础[J]. 中华医学杂志, 2024, 13(10): 7-777.",中华医学杂志
+407,genuine,A4,conference,10.13671/j.hjkxxb.2021.78241,"邓超, 苏颖, 等. RNA修饰阐明在发育过程中的作用[J]. 环境科学学报, 2022, 26(4): 60-409.",环境科学学报
+408,genuine,A4,conference,10.16288/j.yczz.2002.50620,"方华. 线粒体自噬揭示的多组学整合分析[J]. 遗传, 2023, 44(10): 20-384.",遗传
+409,genuine,A4,conference,10.3760/cma.j.issn.0376-2491.2013.73499,"冯刚, 刘洋, 等. 神经退行性疾病调控的结构基础[J]. 中华医学杂志, 2016, 22(8): 28-943.",中华医学杂志
+410,genuine,A4,conference,10.17520/biods.2008.79951,"刘洋, 林丹, 等. 表观遗传调控揭示的临床应用研究[J]. 生物多样性, 2017, 16(4): 85-346.",生物多样性
+411,genuine,A4,conference,10.16288/j.yczz.2004.83183,"刘洋, 张伟, 等. 细胞焦亡发现的多组学整合分析[J]. 遗传, 2020, 52(11): 83-494.",遗传
+412,genuine,A4,conference,10.11847/zgggws2019.98542,"崔浩, 林丹, 等. 焦亡探索在人类疾病中的作用[J]. 中国公共卫生, 2023, 12(6): 58-204.",中国公共卫生
+413,genuine,A4,conference,10.3760/cma.j.issn.0376-2491.2013.13133,"卢静, 韩雪. DNA损伤修复研究的调控网络解析[J]. 中华医学杂志, 2023, 58(4): 20-106.",中华医学杂志
+414,genuine,A4,conference,10.13523/j.cb.2007.72424,"杨磊, 邓超, 等. 精准医学识别在发育过程中的作用[J]. 中国生物工程杂志, 2021, 44(11): 61-686.",中国生物工程杂志
+415,genuine,A4,conference,10.1360/2014.33758,"曹华, 韩雪, 等. 微生物组学发现的单细胞水平研究[J]. 中国科学: 生命科学, 2021, 47(8): 73-794.",中国科学:
+416,genuine,A4,conference,10.7501/j.issn.0253-2670.2015.85766,"林丹, 孙丽, 等. 深度学习阐明在肿瘤中的功能[J]. 中草药, 2021, 32(9): 49-203.",中草药
+417,genuine,A4,conference,10.13859/j.cjz.2005.39253,"李娜, 邓超, 等. 铁死亡探索的调控网络解析[J]. 动物学杂志, 2020, 17(9): 87-153.",动物学杂志
+418,genuine,A4,conference,10.11847/zgggws2001.23082,"李娜, 罗毅. 基因治疗阐明的结构基础[J]. 中国公共卫生, 2018, 39(5): 34-575.",中国公共卫生
+419,genuine,A4,conference,10.17520/biods.2008.78116,"张伟, 丁磊, 等. 焦亡表征的单细胞水平研究[J]. 生物多样性, 2021, 45(7): 71-433.",生物多样性
+420,genuine,A4,conference,10.1360/TB-2018.65163,"卢静, 马超, 等. 铁死亡分析在人类疾病中的作用[J]. 科学通报, 2020, 30(3): 50-981.",科学通报
+421,genuine,A4,conference,10.11847/zgggws2005.19830,"杨磊, 唐亮, 等. 相分离研究的结构基础[J]. 中国公共卫生, 2016, 14(6): 22-484.",中国公共卫生
+422,genuine,A4,conference,10.7501/j.issn.0253-2670.2007.98826,"高洁, 许宁. 精准医学研究在人类疾病中的作用[J]. 中草药, 2024, 59(4): 29-762.",中草药
+423,genuine,A4,conference,10.11983/CBB2007.12612,"谢明, 张伟, 等. 焦亡鉴定的调控网络解析[J]. 植物学报, 2015, 15(1): 30-716.",植物学报
+424,genuine,A4,conference,10.19540/j.cnki.cjcmm.2013.48712,"李娜, 崔浩. 微生物组学揭示的表观遗传调控[J]. 中国中药杂志, 2019, 43(4): 46-820.",中国中药杂志
+425,genuine,A4,conference,10.3969/j.issn.1000-484X.2006.48219,"梁宇, 丁磊, 等. 细胞凋亡发现的机制研究[J]. 中国免疫学杂志, 2016, 45(8): 2-477.",中国免疫学杂志
+426,genuine,A4,conference,10.13343/j.cnki.wsxb.2012.64046,"崔浩. 衰老机制研究的单细胞水平研究[J]. 微生物学报, 2022, 57(11): 3-205.",微生物学报
+427,genuine,A4,conference,10.3969/j.issn.1000-484X.2003.54113,"宋晨, 周杰, 等. 液-液相分离表征的表观遗传调控[J]. 中国免疫学杂志, 2020, 55(11): 51-700.",中国免疫学杂志
+428,genuine,A4,conference,10.11735/j.issn.1004-0242.2022.77147,"崔浩, 宋晨, 等. 免疫治疗揭示的临床应用研究[J]. 中国肿瘤, 2022, 18(3): 53-716.",中国肿瘤
+429,genuine,A4,conference,10.3969/j.issn.1000-484X.2001.82512,"苏颖, 谢明, 等. 相分离识别的多组学整合分析[J]. 中国免疫学杂志, 2017, 41(1): 68-853.",中国免疫学杂志
+430,genuine,A4,conference,10.3969/j.issn.1000-484X.2007.27614,"蒋红, 宋晨, 等. 液-液相分离表征的临床应用研究[J]. 中国免疫学杂志, 2019, 41(12): 88-200.",中国免疫学杂志
+431,genuine,A4,conference,10.11847/zgggws2014.51160,"黄强, 卢静, 等. 合成生物学探索的表观遗传调控[J]. 中国公共卫生, 2016, 19(2): 22-560.",中国公共卫生
+432,genuine,A4,conference,10.11983/CBB2016.59006,"赵敏, 李娜, 等. 空间转录组探索的临床应用研究[J]. 植物学报, 2020, 32(11): 38-660.",植物学报
+433,genuine,A4,conference,10.1360/2006.29651,"何勇, 刘洋, 等. RNA修饰鉴定在人类疾病中的作用[J]. 中国科学: 生命科学, 2019, 51(12): 84-405.",中国科学:
+434,genuine,A4,conference,10.16288/j.yczz.2024.87296,"崔浩, 刘洋. 铜死亡表征在发育过程中的作用[J]. 遗传, 2016, 52(6): 70-523.",遗传
+435,genuine,A4,conference,10.13523/j.cb.2001.21497,"曹华, 周杰, 等. 免疫治疗调控的机制研究[J]. 中国生物工程杂志, 2019, 41(7): 71-590.",中国生物工程杂志
+436,genuine,A4,conference,10.16288/j.yczz.2007.56567,"梁宇, 许宁. 焦亡阐明的调控网络解析[J]. 遗传, 2017, 53(6): 84-191.",遗传
+437,genuine,A4,conference,10.16476/j.pibb.2001.17925,"方华, 罗毅, 等. 相分离表征的单细胞水平研究[J]. 生物化学与生物物理进展, 2024, 14(1): 34-320.",生物化学与生物物理进展
+438,genuine,A4,conference,10.13671/j.hjkxxb.2004.96947,"孙丽, 唐亮, 等. 基因治疗阐明的多组学整合分析[J]. 环境科学学报, 2016, 16(1): 2-972.",环境科学学报
+439,genuine,A4,conference,10.7501/j.issn.0253-2670.2024.31094,"郭文, 吴涛, 等. 相分离探索的机制研究[J]. 中草药, 2015, 52(1): 26-373.",中草药
+440,genuine,A4,conference,10.5846/stxb2017.36137,"冯刚, 张伟, 等. RNA修饰研究的机制研究[J]. 生态学报, 2021, 40(7): 1-138.",生态学报
+441,genuine,A4,conference,10.11847/zgggws2000.39329,"潘峰, 梁宇, 等. 生物信息学表征的调控网络解析[J]. 中国公共卫生, 2022, 18(11): 23-715.",中国公共卫生
+442,genuine,A4,conference,10.17520/biods.2016.57202,"姚远. 细胞焦亡识别的多组学整合分析[J]. 生物多样性, 2024, 50(2): 64-566.",生物多样性
+443,genuine,A4,conference,10.11844/cjcb.2018.68733,"姚远. 合成生物学阐明的单细胞水平研究[J]. 中国细胞生物学学报, 2021, 25(2): 59-554.",中国细胞生物学学报
+444,genuine,A4,conference,10.3864/j.issn.0578-1752.2012.72684,"孙丽, 黄强, 等. 细胞焦亡鉴定的单细胞水平研究[J]. 中国农业科学, 2016, 35(7): 59-378.",中国农业科学
+445,genuine,A4,conference,10.3760/cma.j.issn.0376-2491.2019.52184,"曹华, 许宁, 等. 药物靶点发现阐明在肿瘤中的功能[J]. 中华医学杂志, 2017, 16(7): 85-714.",中华医学杂志
+446,genuine,A4,conference,10.13859/j.cjz.2018.28566,"曾强. 细胞焦亡阐明的单细胞水平研究[J]. 动物学杂志, 2017, 30(1): 3-251.",动物学杂志
+447,genuine,A4,conference,10.13859/j.cjz.2014.34979,"唐亮, 赵敏, 等. 合成生物学识别在发育过程中的作用[J]. 动物学杂志, 2018, 22(2): 51-320.",动物学杂志
+448,genuine,A4,conference,10.3864/j.issn.0578-1752.2003.16505,"魏然, 崔浩, 等. 基因组编辑阐明在人类疾病中的作用[J]. 中国农业科学, 2019, 52(5): 39-343.",中国农业科学
+449,genuine,A4,conference,10.19540/j.cnki.cjcmm.2021.64719,"卢静, 罗毅, 等. 深度学习表征的多组学整合分析[J]. 中国中药杂志, 2020, 45(8): 75-684.",中国中药杂志
+450,genuine,A4,conference,10.19540/j.cnki.cjcmm.2011.31432,"杨磊, 罗毅, 等. 药物靶点发现研究的多组学整合分析[J]. 中国中药杂志, 2017, 40(10): 71-458.",中国中药杂志
+451,genuine,A4,conference,10.13671/j.hjkxxb.2021.49874,"潘峰, 李娜, 等. 相分离揭示的调控网络解析[J]. 环境科学学报, 2019, 17(2): 21-926.",环境科学学报
+452,genuine,A4,conference,10.11983/CBB2003.60272,"苏颖, 梁宇, 等. 神经退行性疾病探索的表观遗传调控[J]. 植物学报, 2018, 54(6): 40-232.",植物学报
+453,genuine,A4,conference,10.11735/j.issn.1004-0242.2005.35265,"刘洋, 何勇. 基因组编辑发现在人类疾病中的作用[J]. 中国肿瘤, 2017, 59(9): 73-129.",中国肿瘤
+454,genuine,A4,conference,10.1360/TB-2020.21015,"苏颖, 郭文, 等. 细胞衰老发现的多组学整合分析[J]. 科学通报, 2018, 35(6): 88-745.",科学通报
+455,genuine,A4,conference,10.13523/j.cb.2010.46458,"方华. 肿瘤微环境调控的结构基础[J]. 中国生物工程杂志, 2016, 58(8): 42-346.",中国生物工程杂志
+456,genuine,A4,conference,10.11735/j.issn.1004-0242.2023.50306,"胡明. 精准医学揭示的结构基础[J]. 中国肿瘤, 2015, 58(11): 49-969.",中国肿瘤
+457,genuine,A4,conference,10.16438/j.0513-4870.2002.15754,"曾强, 许宁. 相分离阐明的表观遗传调控[J]. 药学学报, 2022, 13(3): 92-386.",药学学报
+458,genuine,A4,conference,10.3864/j.issn.0578-1752.2011.87120,"潘峰, 朱峰, 等. RNA修饰分析的多组学整合分析[J]. 中国农业科学, 2018, 50(12): 91-763.",中国农业科学
+459,genuine,A4,conference,10.1360/TB-2020.51187,"曾强. 铁死亡识别的临床应用研究[J]. 科学通报, 2021, 38(1): 9-367.",科学通报
+460,genuine,A4,conference,10.11844/cjcb.2022.57069,"卢静, 姚远, 等. 精准医学阐明的结构基础[J]. 中国细胞生物学学报, 2023, 60(1): 49-900.",中国细胞生物学学报
+461,genuine,A4,conference,10.1360/TB-2012.14629,"魏然, 朱峰, 等. DNA损伤修复发现的调控网络解析[J]. 科学通报, 2022, 28(5): 54-514.",科学通报
+462,genuine,A4,conference,10.16438/j.0513-4870.2007.55457,"孙丽, 杨磊, 等. 合成生物学研究在肿瘤中的功能[J]. 药学学报, 2022, 19(6): 96-179.",药学学报
+463,genuine,A4,conference,10.13343/j.cnki.wsxb.2007.13840,"刘洋, 谢明, 等. 基因治疗识别的机制研究[J]. 微生物学报, 2019, 21(1): 41-711.",微生物学报
+464,genuine,A4,conference,10.5846/stxb2022.69314,"赵敏. 铁死亡揭示在人类疾病中的作用[J]. 生态学报, 2024, 40(12): 85-472.",生态学报
+465,genuine,A4,conference,10.13523/j.cb.2003.71674,"苏颖. 细胞凋亡识别的单细胞水平研究[J]. 中国生物工程杂志, 2019, 47(5): 60-971.",中国生物工程杂志
+466,genuine,A4,conference,10.5846/stxb2018.98358,"黄强, 林丹, 等. 肿瘤微环境研究的表观遗传调控[J]. 生态学报, 2020, 20(5): 99-205.",生态学报
+467,genuine,A4,conference,10.13343/j.cnki.wsxb.2022.33639,"姚远. 代谢重编程鉴定的调控网络解析[J]. 微生物学报, 2024, 39(3): 41-983.",微生物学报
+468,genuine,A4,conference,10.16288/j.yczz.2014.29481,"丁磊. 自噬调控识别的机制研究[J]. 遗传, 2020, 23(3): 36-386.",遗传
+469,genuine,A4,conference,10.5846/stxb2000.56095,"魏然, 吴涛, 等. 神经退行性疾病鉴定的表观遗传调控[J]. 生态学报, 2020, 57(12): 46-705.",生态学报
+470,genuine,A4,conference,10.17520/biods.2024.32099,"孙丽, 姚远, 等. 生物信息学表征的结构基础[J]. 生物多样性, 2015, 10(8): 36-314.",生物多样性
+471,genuine,A4,conference,10.1360/2019.72957,"赵敏, 王芳. 免疫治疗鉴定在肿瘤中的功能[J]. 中国科学: 生命科学, 2021, 15(5): 85-740.",中国科学:
+472,genuine,A4,conference,10.11983/CBB2001.82465,"许宁, 林丹, 等. 干细胞分化分析的临床应用研究[J]. 植物学报, 2020, 34(3): 23-978.",植物学报
+473,genuine,A4,conference,10.11844/cjcb.2024.68856,"孙丽, 胡明. 焦亡揭示的多组学整合分析[J]. 中国细胞生物学学报, 2024, 53(10): 19-223.",中国细胞生物学学报
+474,genuine,A4,conference,10.13859/j.cjz.2021.27536,"姚远, 韩雪, 等. 表观遗传调控表征在人类疾病中的作用[J]. 动物学杂志, 2023, 48(9): 44-544.",动物学杂志
+475,genuine,A4,conference,10.11735/j.issn.1004-0242.2015.30070,"张伟, 梁宇. 生物信息学分析在发育过程中的作用[J]. 中国肿瘤, 2022, 34(2): 71-358.",中国肿瘤
+476,genuine,A4,conference,10.16476/j.pibb.2017.33741,"赵敏, 谢明, 等. 液-液相分离探索在发育过程中的作用[J]. 生物化学与生物物理进展, 2023, 29(3): 85-997.",生物化学与生物物理进展
+477,genuine,A4,conference,10.13671/j.hjkxxb.2003.53397,"朱峰, 许宁. 相分离调控在发育过程中的作用[J]. 环境科学学报, 2017, 48(7): 21-154.",环境科学学报
+478,genuine,A4,conference,10.13343/j.cnki.wsxb.2011.26637,"高洁, 黄强, 等. 精准医学分析在肿瘤中的功能[J]. 微生物学报, 2023, 60(12): 34-270.",微生物学报
+479,genuine,A4,conference,10.7501/j.issn.0253-2670.2002.24474,"姚远, 吴涛, 等. 液-液相分离分析在肿瘤中的功能[J]. 中草药, 2020, 25(1): 2-787.",中草药
+480,genuine,A4,conference,10.1360/TB-2012.71727,"郭文, 杨磊, 等. 表观遗传调控阐明的结构基础[J]. 科学通报, 2016, 40(2): 40-903.",科学通报
+481,genuine,A4,conference,10.16476/j.pibb.2022.91033,"彭飞. RNA修饰揭示的表观遗传调控[J]. 生物化学与生物物理进展, 2018, 52(6): 67-635.",生物化学与生物物理进展
+482,genuine,A4,conference,10.13671/j.hjkxxb.2017.17051,"郭文. 免疫治疗识别的表观遗传调控[J]. 环境科学学报, 2021, 34(7): 88-420.",环境科学学报
+483,genuine,A4,conference,10.3864/j.issn.0578-1752.2008.32789,"邓超. 细胞焦亡发现在发育过程中的作用[J]. 中国农业科学, 2021, 42(1): 87-406.",中国农业科学
+484,genuine,A4,conference,10.3864/j.issn.0578-1752.2003.73142,"唐亮. 干细胞分化阐明在肿瘤中的功能[J]. 中国农业科学, 2024, 48(5): 39-800.",中国农业科学
+485,genuine,A4,conference,10.16476/j.pibb.2014.70956,"林丹, 高洁, 等. 基因组编辑鉴定的单细胞水平研究[J]. 生物化学与生物物理进展, 2020, 21(8): 6-369.",生物化学与生物物理进展
+486,genuine,A4,conference,10.1360/2007.74865,"黄强, 何勇, 等. 单细胞测序调控在人类疾病中的作用[J]. 中国科学: 生命科学, 2021, 28(11): 7-902.",中国科学:
+487,genuine,A4,conference,10.3760/cma.j.issn.0376-2491.2019.56769,"苏颖, 马超. 药物靶点发现探索在肿瘤中的功能[J]. 中华医学杂志, 2020, 21(12): 72-810.",中华医学杂志
+488,genuine,A4,conference,10.16438/j.0513-4870.2013.23751,"丁磊, 黄强, 等. 免疫治疗识别的机制研究[J]. 药学学报, 2019, 49(10): 90-240.",药学学报
+489,genuine,A4,conference,10.1360/2004.25919,"刘洋. 铜死亡揭示的多组学整合分析[J]. 中国科学: 生命科学, 2023, 25(2): 60-204.",中国科学:
+490,genuine,A4,conference,10.7501/j.issn.0253-2670.2010.61505,"宋晨, 丁磊, 等. 免疫治疗鉴定的临床应用研究[J]. 中草药, 2017, 25(5): 34-971.",中草药
+491,genuine,A4,conference,10.11735/j.issn.1004-0242.2018.61327,"李娜, 马超, 等. 肿瘤微环境识别的单细胞水平研究[J]. 中国肿瘤, 2017, 21(12): 1-818.",中国肿瘤
+492,genuine,A4,conference,10.3969/j.issn.1000-484X.2023.12872,"方华, 孙丽, 等. 药物靶点发现探索在发育过程中的作用[J]. 中国免疫学杂志, 2018, 24(12): 17-316.",中国免疫学杂志
+493,genuine,A4,conference,10.19540/j.cnki.cjcmm.2008.24160,"张伟, 刘洋, 等. 细胞衰老表征的表观遗传调控[J]. 中国中药杂志, 2018, 25(12): 9-458.",中国中药杂志
+494,genuine,A4,conference,10.16438/j.0513-4870.2014.76207,"黄强, 王芳, 等. 微生物组学识别的表观遗传调控[J]. 药学学报, 2020, 55(4): 36-477.",药学学报
+495,genuine,A4,conference,10.11844/cjcb.2021.96252,"马超, 黄强, 等. 微生物组学阐明在发育过程中的作用[J]. 中国细胞生物学学报, 2022, 49(10): 8-416.",中国细胞生物学学报
+496,genuine,A4,conference,10.5846/stxb2018.23133,"魏然. 铁死亡分析在肿瘤中的功能[J]. 生态学报, 2021, 19(3): 73-702.",生态学报
+497,genuine,A4,conference,10.19540/j.cnki.cjcmm.2020.61688,"苏颖. 细胞凋亡研究的结构基础[J]. 中国中药杂志, 2016, 47(2): 65-236.",中国中药杂志
+498,genuine,A4,conference,10.11844/cjcb.2021.60026,"梁宇, 许宁, 等. 免疫治疗阐明的结构基础[J]. 中国细胞生物学学报, 2022, 22(9): 16-988.",中国细胞生物学学报
+499,genuine,A4,conference,10.16438/j.0513-4870.2022.95208,"方华, 卢静. 相分离阐明的单细胞水平研究[J]. 药学学报, 2019, 53(6): 87-235.",药学学报
+500,genuine,A4,conference,10.16476/j.pibb.2001.32018,"彭飞, 邓超, 等. RNA修饰表征的多组学整合分析[J]. 生物化学与生物物理进展, 2016, 31(2): 6-572.",生物化学与生物物理进展
+501,genuine,A5,preprint,10.1101/144887,"Moore D, Carter H, et al. Reveals mitophagy in human disease[J]. medRxiv preprint, 2019.",medRxiv
+502,genuine,A5,preprint,10.31219/osf.io/189261,"Moore D, Robinson Q, et al. Investigates mitophagy across diverse tissues[J]. OSF Preprints, 2022.",OSF
+503,genuine,A5,preprint,10.48550/arXiv.2342.61792,"Diaz M, Thomas H, et al. Identifies liquid-liquid phase separation at single-cell resolution[J]. arXiv preprint, 2020.",arXiv
+504,genuine,A5,preprint,10.5281/zenodo.251074,"Walker U, Smith J, et al. Investigates cellular senescence across diverse tissues[J]. Zenodo, 2023.",Zenodo
+505,genuine,A5,preprint,10.5281/zenodo.273650,"Jones P, Campbell F. Dissects DNA damage repair through integrative analysis[J]. Zenodo, 2021.",Zenodo
+506,genuine,A5,preprint,10.48550/arXiv.2110.43330,"Miller S, Scott B, et al. Uncovers gene therapy in cancer[J]. arXiv preprint, 2018.",arXiv
+507,genuine,A5,preprint,10.6084/m9.figshare.295984,"Walker U, Edwards N. Identifies phase separation through integrative analysis[J]. figshare, 2019.",figshare
+508,genuine,A5,preprint,10.21203/rs.875753,"Wright A, Thompson G, et al. Explores synthetic biology via CRISPR screening[J]. Research Square preprint, 2023.",Research
+509,genuine,A5,preprint,10.21203/rs.226215,"Carter H, Green C, et al. Deciphers drug target discovery at single-cell resolution[J]. Research Square preprint, 2021.",Research
+510,genuine,A5,preprint,10.5281/zenodo.318572,"Young X, Harris J, et al. Reveals DNA damage repair in cancer[J]. Zenodo, 2023.",Zenodo
+511,genuine,A5,preprint,10.26434/chemrxiv-984522,"Brown K, Thompson G. Determines ferroptosis at single-cell resolution[J]. chemRxiv preprint, 2018.",chemRxiv
+512,genuine,A5,preprint,10.5281/zenodo.332542,"Garcia L, Edwards N, et al. Determines liquid-liquid phase separation with spatial profiling[J]. Zenodo, 2020.",Zenodo
+513,genuine,A5,preprint,10.26434/chemrxiv-667036,"Campbell F. Determines gene therapy across diverse tissues[J]. chemRxiv preprint, 2021.",chemRxiv
+514,genuine,A5,preprint,10.5281/zenodo.514664,"Scott B, Walker U, et al. Explores precision medicine with spatial profiling[J]. Zenodo, 2023.",Zenodo
+515,genuine,A5,preprint,10.48550/arXiv.2293.29249,"Anderson T. Characterizes stem cell differentiation in cancer[J]. arXiv preprint, 2018.",arXiv
+516,genuine,A5,preprint,10.26434/chemrxiv-872303,"Garcia L, Young X, et al. Characterizes synthetic biology across diverse tissues[J]. chemRxiv preprint, 2024.",chemRxiv
+517,genuine,A5,preprint,10.1101/398313,"Cooper K, Diaz M, et al. Elucidates autophagy regulation through deep learning[J]. bioRxiv preprint, 2022.",bioRxiv
+518,genuine,A5,preprint,10.2139/ssrn.479167,"Lee F, Taylor N, et al. Deciphers microbiome via CRISPR screening[J]. SSRN Electronic Journal, 2020.",SSRN
+519,genuine,A5,preprint,10.31219/osf.io/834733,"Garcia L, Moore D, et al. Explores single-cell sequencing in cancer[J]. OSF Preprints, 2023.",OSF
+520,genuine,A5,preprint,http://hdl.handle.net/1590/57151,"Smith J, Anderson T. Dissects single-cell sequencing with spatial profiling[J]. PhD Thesis, 2019.",University
+521,genuine,A5,preprint,10.1101/253300,"Adams D, Robinson Q, et al. Dissects single-cell sequencing via CRISPR screening[J]. bioRxiv preprint, 2023.",bioRxiv
+522,genuine,A5,preprint,10.26434/chemrxiv-772580,"Evans P, Jones P, et al. Investigates cellular reprogramming at single-cell resolution[J]. chemRxiv preprint, 2018.",chemRxiv
+523,genuine,A5,preprint,10.2139/ssrn.641455,"Robinson Q, Baker E, et al. Investigates deep learning across diverse tissues[J]. SSRN Electronic Journal, 2019.",SSRN
+524,genuine,A5,preprint,10.5281/zenodo.101258,"Wright A, Carter H, et al. Elucidates bioinformatics through deep learning[J]. Zenodo, 2024.",Zenodo
+525,genuine,A5,preprint,10.31219/osf.io/347428,"Wright A, Clark O, et al. Elucidates drug target discovery in human disease[J]. OSF Preprints, 2018.",OSF
+526,genuine,A5,preprint,10.6084/m9.figshare.431067,"Robinson Q, Carter H, et al. Dissects phase separation through integrative analysis[J]. figshare, 2024.",figshare
+527,genuine,A5,preprint,10.1101/702833,"Lee F. Determines epigenetic regulation in cancer[J]. medRxiv preprint, 2021.",medRxiv
+528,genuine,A5,preprint,10.48550/arXiv.2011.34371,"White I. Characterizes stem cell differentiation through deep learning[J]. arXiv preprint, 2022.",arXiv
+529,genuine,A5,preprint,10.1101/108602,"Garcia L, Martinez E. Explores deep learning through integrative analysis[J]. bioRxiv preprint, 2023.",bioRxiv
+530,genuine,A5,preprint,10.31219/osf.io/938817,"Thompson G, White I, et al. Identifies cellular senescence across diverse tissues[J]. OSF Preprints, 2024.",OSF
+531,genuine,A5,preprint,10.48550/arXiv.2127.91080,"Martinez E, Miller S, et al. Identifies cellular reprogramming through deep learning[J]. arXiv preprint, 2024.",arXiv
+532,genuine,A5,preprint,10.1101/728471,"Johnson M, White I, et al. Explores autophagy regulation through deep learning[J]. bioRxiv preprint, 2021.",bioRxiv
+533,genuine,A5,preprint,10.1101/302897,"Baker E, Scott B, et al. Dissects autophagy regulation in development[J]. medRxiv preprint, 2018.",medRxiv
+534,genuine,A5,preprint,10.1101/921861,"Adams D, Taylor N, et al. Deciphers neurodegenerative disease via CRISPR screening[J]. medRxiv preprint, 2022.",medRxiv
+535,genuine,A5,preprint,10.6084/m9.figshare.292818,"Rodriguez C. Elucidates liquid-liquid phase separation using multi-omics approaches[J]. figshare, 2019.",figshare
+536,genuine,A5,preprint,10.21203/rs.638220,"Collins J, Cox L, et al. Explores phase separation with spatial profiling[J]. Research Square preprint, 2024.",Research
+537,genuine,A5,preprint,10.48550/arXiv.2084.77388,"Scott B, Anderson T. Deciphers epigenetic regulation in development[J]. arXiv preprint, 2023.",arXiv
+538,genuine,A5,preprint,10.2139/ssrn.420310,"Cooper K, Miller S, et al. Dissects single-cell sequencing across diverse tissues[J]. SSRN Electronic Journal, 2024.",SSRN
+539,genuine,A5,preprint,10.6084/m9.figshare.788049,"White I, Edwards N, et al. Reveals synthetic biology through integrative analysis[J]. figshare, 2022.",figshare
+540,genuine,A5,preprint,http://hdl.handle.net/4096/10716,"Smith J, Cox L, et al. Elucidates drug target discovery via CRISPR screening[J]. PhD Thesis, 2020.",University
+541,genuine,A5,preprint,10.1101/932794,"Cooper K, Jones P, et al. Elucidates cuproptosis using multi-omics approaches[J]. bioRxiv preprint, 2019.",bioRxiv
+542,genuine,A5,preprint,http://hdl.handle.net/8786/88146,"Walker U, Garcia L. Characterizes tumor microenvironment through deep learning[J]. PhD Thesis, 2018.",University
+543,genuine,A5,preprint,10.6084/m9.figshare.288627,"Rodriguez C, Cox L, et al. Elucidates pyroptosis in cancer[J]. figshare, 2021.",figshare
+544,genuine,A5,preprint,10.21203/rs.946952,"King Z, Evans P, et al. Identifies drug target discovery at single-cell resolution[J]. Research Square preprint, 2023.",Research
+545,genuine,A5,preprint,10.26434/chemrxiv-338161,"Scott B. Uncovers neurodegenerative disease with spatial profiling[J]. chemRxiv preprint, 2022.",chemRxiv
+546,genuine,A5,preprint,10.48550/arXiv.2359.67047,"Jones P, Martinez E, et al. Identifies single-cell sequencing in human disease[J]. arXiv preprint, 2022.",arXiv
+547,genuine,A5,preprint,10.21203/rs.263281,"Smith J, Carter H, et al. Dissects gene therapy through deep learning[J]. Research Square preprint, 2020.",Research
+548,genuine,A5,preprint,10.5281/zenodo.292847,"Wright A, Moore D, et al. Determines gene therapy using multi-omics approaches[J]. Zenodo, 2020.",Zenodo
+549,genuine,A5,preprint,10.21203/rs.312177,"Campbell F, King Z, et al. Explores epigenetic regulation in development[J]. Research Square preprint, 2018.",Research
+550,genuine,A5,preprint,10.5281/zenodo.491794,"King Z, Cooper K. Determines bioinformatics through integrative analysis[J]. Zenodo, 2022.",Zenodo
+551,genuine,A5,preprint,10.31219/osf.io/912853,"Walker U, Allen Y. Deciphers tumor microenvironment using multi-omics approaches[J]. OSF Preprints, 2023.",OSF
+552,genuine,A5,preprint,10.31219/osf.io/950576,"Davis A, Adams D, et al. Characterizes apoptosis with spatial profiling[J]. OSF Preprints, 2021.",OSF
+553,genuine,A5,preprint,http://hdl.handle.net/4014/38939,"Lee F, Thomas H, et al. Reveals cellular senescence in cancer[J]. PhD Thesis, 2019.",University
+554,genuine,A5,preprint,10.26434/chemrxiv-859364,"Lewis V, Green C, et al. Characterizes drug target discovery at single-cell resolution[J]. chemRxiv preprint, 2019.",chemRxiv
+555,genuine,A5,preprint,10.21203/rs.925115,"Harris J, Edwards N, et al. Reveals drug target discovery through deep learning[J]. Research Square preprint, 2020.",Research
+556,genuine,A5,preprint,10.48550/arXiv.2330.82045,"White I. Identifies RNA modification using multi-omics approaches[J]. arXiv preprint, 2021.",arXiv
+557,genuine,A5,preprint,10.2139/ssrn.140932,"Campbell F, Davis A, et al. Deciphers mitophagy in cancer[J]. SSRN Electronic Journal, 2022.",SSRN
+558,genuine,A5,preprint,10.1101/106945,"Williams R, Adams D, et al. Deciphers microbiome using multi-omics approaches[J]. bioRxiv preprint, 2022.",bioRxiv
+559,genuine,A5,preprint,10.31219/osf.io/197527,"Lewis V, Jones P, et al. Uncovers microbiome via CRISPR screening[J]. OSF Preprints, 2020.",OSF
+560,genuine,A5,preprint,10.31219/osf.io/903061,"Garcia L, White I. Investigates autophagy regulation with spatial profiling[J]. OSF Preprints, 2021.",OSF
+561,genuine,A5,preprint,10.26434/chemrxiv-685766,"Campbell F. Uncovers neurodegenerative disease at single-cell resolution[J]. chemRxiv preprint, 2018.",chemRxiv
+562,genuine,A5,preprint,10.2139/ssrn.607122,"Lewis V, Green C. Explores RNA modification in development[J]. SSRN Electronic Journal, 2022.",SSRN
+563,genuine,A5,preprint,10.2139/ssrn.460317,"Clark O, White I. Dissects phase separation in development[J]. SSRN Electronic Journal, 2019.",SSRN
+564,genuine,A5,preprint,http://hdl.handle.net/5408/33957,"Thomas H, Baker E, et al. Elucidates immunotherapy through integrative analysis[J]. PhD Thesis, 2019.",University
+565,genuine,A5,preprint,10.1101/692099,"Evans P, Thompson G, et al. Elucidates ferroptosis with spatial profiling[J]. bioRxiv preprint, 2021.",bioRxiv
+566,genuine,A5,preprint,10.1101/599284,"Collins J, Thompson G, et al. Investigates protein structure prediction across diverse tissues[J]. bioRxiv preprint, 2024.",bioRxiv
+567,genuine,A5,preprint,10.26434/chemrxiv-439813,"Carter H. Dissects DNA damage repair using multi-omics approaches[J]. chemRxiv preprint, 2023.",chemRxiv
+568,genuine,A5,preprint,10.6084/m9.figshare.228074,"Adams D, Harris J, et al. Reveals gene therapy through integrative analysis[J]. figshare, 2022.",figshare
+569,genuine,A5,preprint,10.1101/704875,"Collins J, Taylor N, et al. Investigates RNA modification through deep learning[J]. medRxiv preprint, 2019.",medRxiv
+570,genuine,A5,preprint,http://hdl.handle.net/9470/79990,"Clark O, Baker E, et al. Identifies drug target discovery across diverse tissues[J]. PhD Thesis, 2019.",University
+571,genuine,A5,preprint,10.6084/m9.figshare.906010,"Robinson Q, Diaz M, et al. Characterizes bioinformatics using multi-omics approaches[J]. figshare, 2024.",figshare
+572,genuine,A5,preprint,10.2139/ssrn.905459,"Martin B, Young X, et al. Identifies synthetic biology in cancer[J]. SSRN Electronic Journal, 2018.",SSRN
+573,genuine,A5,preprint,10.2139/ssrn.108721,"Baker E, Adams D, et al. Elucidates autophagy regulation in human disease[J]. SSRN Electronic Journal, 2022.",SSRN
+574,genuine,A5,preprint,10.2139/ssrn.659381,"Rodriguez C, Allen Y. Investigates pyroptosis using multi-omics approaches[J]. SSRN Electronic Journal, 2019.",SSRN
+575,genuine,A5,preprint,10.1101/330019,"Edwards N, Martinez E, et al. Investigates autophagy regulation using multi-omics approaches[J]. medRxiv preprint, 2019.",medRxiv
+576,genuine,A5,preprint,10.6084/m9.figshare.524814,"Moore D, Williams R, et al. Investigates mitophagy through deep learning[J]. figshare, 2022.",figshare
+577,genuine,A5,preprint,10.1101/540656,"Baker E, Walker U, et al. Reveals phase separation via CRISPR screening[J]. medRxiv preprint, 2020.",medRxiv
+578,genuine,A5,preprint,10.31219/osf.io/788793,"White I, Thomas H, et al. Elucidates precision medicine in development[J]. OSF Preprints, 2024.",OSF
+579,genuine,A5,preprint,10.1101/506881,"Allen Y, Wright A, et al. Identifies drug target discovery in cancer[J]. medRxiv preprint, 2021.",medRxiv
+580,genuine,A5,preprint,10.21203/rs.670792,"Taylor N, Young X, et al. Dissects precision medicine with spatial profiling[J]. Research Square preprint, 2022.",Research
+581,genuine,A5,preprint,10.5281/zenodo.128679,"Davis A, Lee F, et al. Elucidates DNA damage repair through integrative analysis[J]. Zenodo, 2024.",Zenodo
+582,genuine,A5,preprint,10.21203/rs.633036,"Lewis V, Cooper K, et al. Determines epigenetic regulation in human disease[J]. Research Square preprint, 2019.",Research
+583,genuine,A5,preprint,10.1101/949363,"Robinson Q, Johnson M, et al. Uncovers spatial transcriptomics in development[J]. bioRxiv preprint, 2022.",bioRxiv
+584,genuine,A5,preprint,10.48550/arXiv.2185.23970,"Wright A, Diaz M. Dissects stem cell differentiation in cancer[J]. arXiv preprint, 2021.",arXiv
+585,genuine,A5,preprint,http://hdl.handle.net/4992/15655,"Cox L, Diaz M. Characterizes epigenetic regulation in cancer[J]. PhD Thesis, 2018.",University
+586,genuine,A5,preprint,10.1101/291755,"Thompson G, Allen Y, et al. Investigates genome editing with spatial profiling[J]. medRxiv preprint, 2021.",medRxiv
+587,genuine,A5,preprint,10.5281/zenodo.305973,"Jones P, Johnson M, et al. Reveals DNA damage repair in development[J]. Zenodo, 2022.",Zenodo
+588,genuine,A5,preprint,10.26434/chemrxiv-693024,"Walker U, Clark O, et al. Elucidates metabolic reprogramming through integrative analysis[J]. chemRxiv preprint, 2019.",chemRxiv
+589,genuine,A5,preprint,10.31219/osf.io/997904,"Thomas H, Martinez E, et al. Determines epigenetic regulation through deep learning[J]. OSF Preprints, 2021.",OSF
+590,genuine,A5,preprint,http://hdl.handle.net/5744/24464,"Green C, Scott B, et al. Characterizes deep learning in human disease[J]. PhD Thesis, 2019.",University
+591,genuine,A5,preprint,http://hdl.handle.net/8613/75683,"Garcia L, Allen Y, et al. Elucidates RNA modification in development[J]. PhD Thesis, 2019.",University
+592,genuine,A5,preprint,10.1101/726612,"Cox L, Wright A, et al. Uncovers neurodegenerative disease through deep learning[J]. medRxiv preprint, 2022.",medRxiv
+593,genuine,A5,preprint,10.2139/ssrn.195513,"Adams D, Edwards N. Identifies bioinformatics at single-cell resolution[J]. SSRN Electronic Journal, 2024.",SSRN
+594,genuine,A5,preprint,10.21203/rs.592984,"Thomas H, Lee F. Determines cuproptosis in human disease[J]. Research Square preprint, 2022.",Research
+595,genuine,A5,preprint,10.6084/m9.figshare.143802,"Cox L. Determines autophagy regulation in cancer[J]. figshare, 2018.",figshare
+596,genuine,A5,preprint,10.48550/arXiv.2126.47247,"Rodriguez C, Carter H, et al. Uncovers genome editing via CRISPR screening[J]. arXiv preprint, 2019.",arXiv
+597,genuine,A5,preprint,10.26434/chemrxiv-839764,"Rodriguez C, Davis A, et al. Characterizes pyroptosis at single-cell resolution[J]. chemRxiv preprint, 2024.",chemRxiv
+598,genuine,A5,preprint,http://hdl.handle.net/1431/62037,"Garcia L, Miller S, et al. Determines single-cell sequencing using multi-omics approaches[J]. PhD Thesis, 2018.",University
+599,genuine,A5,preprint,10.6084/m9.figshare.849666,"Young X, Evans P, et al. Elucidates DNA damage repair in cancer[J]. figshare, 2019.",figshare
+600,genuine,A5,preprint,10.1101/307007,"Diaz M, Baker E, et al. Dissects spatial transcriptomics in development[J]. bioRxiv preprint, 2018.",bioRxiv
+601,non_genuine,B1,fabricated_english,10.7777/563btkf6xdn8wwiif86l,"Mimitou EP, Cheng A, Montalbano A, et al. Uncovers RNA modification via CRISPR screening[J]. EMBO Journal, 2019, 65(5): 832-2015.",Fabricated
+602,non_genuine,B1,fabricated_english,10.9999/p61xufctzg4fbl98k03w,"Ardila D, Kiraly AP, Bharadwaj S, et al. Elucidates protein structure prediction across diverse tissues[J]. Journal of Clinical Investigation, 2023, 26(3): 317-9582.",Fabricated
+603,non_genuine,B1,fabricated_english,10.9999/p8gmnhie9ede1zublekv,"Buenrostro JD, Giresi PG, Zaba LC, et al. Investigates epigenetic regulation in human disease[J]. Nature Genetics, 2019, 65(12): 487-7004.",Fabricated
+604,non_genuine,B1,fabricated_english,10.1234/m2kql0ht1tw9zyn6sjch,"Hoffman MM, Buske OJ, Wang J, et al. Identifies protein structure prediction at single-cell resolution[J]. Nature Communications, 2019, 80(3): 890-5713.",Fabricated
+605,non_genuine,B1,fabricated_english,10.7777/bef46rf7bnhjw6qdbtfb,"Tomasev N, Glorot X, Rae JW, et al. Uncovers autophagy regulation in cancer[J]. Hepatology, 2019, 60(11): 676-4409.",Fabricated
+606,non_genuine,B1,fabricated_english,10.9999/fkxzuu80mb1l6314cqe4,"Komor AC, Kim YB, Packer MS, et al. Deciphers RNA modification in development[J]. EMBO Journal, 2020, 12(1): 112-7831.",Fabricated
+607,non_genuine,B1,fabricated_english,10.1234/q4ta5ivrocvitwu3bfxb,"Tang F, Barbacioru C, Wang Y, et al. Characterizes DNA damage repair at single-cell resolution[J]. Nature Neuroscience, 2019, 1(10): 784-5146.",Fabricated
+608,non_genuine,B1,fabricated_english,10.4444/fvdhr59c81do6ouz1egn,"Esteva A, Kuprel B, Novoa RA, et al. Explores immunotherapy with spatial profiling[J]. Cell Metabolism, 2020, 21(12): 994-7944.",Fabricated
+609,non_genuine,B1,fabricated_english,10.7777/ga24smux2rxttqu6l2in,"Senior AW, Evans R, Jumper J, et al. Determines neurodegenerative disease in cancer[J]. Nature Neuroscience, 2021, 45(7): 455-1351.",Fabricated
+610,non_genuine,B1,fabricated_english,10.3333/7nayyosyeoz906gnhh4o,"Vickovic S, Eraslan G, Salmen F, et al. Explores RNA modification through integrative analysis[J]. Science Translational Medicine, 2021, 38(7): 194-2140.",Fabricated
+611,non_genuine,B1,fabricated_english,10.6666/idiioh6cvbphvgnqgmjm,"Longo SK, Guo MG, Ji AL, et al. Identifies spatial transcriptomics through integrative analysis[J]. Cell Metabolism, 2022, 75(6): 430-4256.",Fabricated
+612,non_genuine,B1,fabricated_english,10.4444/d5n3ksgnbhds26fmr5ll,"Schraivogel D, Gschwind AR, Milbank JH, et al. Deciphers epigenetic regulation at single-cell resolution[J]. EMBO Journal, 2023, 41(12): 33-5448.",Fabricated
+613,non_genuine,B1,fabricated_english,10.2222/lfzkicwmpeqydbpgvv4z,"Ridker PM, Moorthy MV, Cook NR, et al. Reveals spatial transcriptomics in development[J]. Science Translational Medicine, 2022, 14(4): 556-6739.",Fabricated
+614,non_genuine,B1,fabricated_english,10.7777/4aegvfq3jzr25mdf7fr9,"Papalexi E, Mimitou EP, Butler AW, et al. Characterizes single-cell sequencing in cancer[J]. Nature Methods, 2024, 36(5): 136-5603.",Fabricated
+615,non_genuine,B1,fabricated_english,10.8888/ijpyueongmx1gm32wp7i,"Mali P, Yang L, Esvelt KM, et al. Investigates microbiome through integrative analysis[J]. Circulation, 2021, 84(10): 201-9589.",Fabricated
+616,non_genuine,B1,fabricated_english,10.4444/y2refjqigyvzwd3kpug9,"Wang X, Allen WE, Wright MA, et al. Explores deep learning at single-cell resolution[J]. Nature, 2018, 23(2): 724-5648.",Fabricated
+617,non_genuine,B1,fabricated_english,10.1234/muwahk2lslaym0wbglmy,"Jumper J, Evans R, Pritzel A, et al. Reveals spatial transcriptomics through deep learning[J]. Nature Medicine, 2023, 27(10): 425-7783.",Fabricated
+618,non_genuine,B1,fabricated_english,10.8888/zj7ubbrnu8c0s41kssvi,"Rotem A, Ram O, Shoresh N, et al. Uncovers drug target discovery through integrative analysis[J]. Genome Biology, 2021, 78(1): 592-9161.",Fabricated
+619,non_genuine,B1,fabricated_english,10.3333/wdz09wftbgm55ff1bl08,"Bray NL, Pimentel H, Melsted P, et al. Dissects single-cell sequencing via CRISPR screening[J]. Molecular Cell, 2023, 94(2): 94-2870.",Fabricated
+620,non_genuine,B1,fabricated_english,10.3333/9hoxdtpwdpjbc01arxab,"Karczewski KJ, Francioli LC, Tiao G, et al. Determines drug target discovery via CRISPR screening[J]. Nature Communications, 2020, 34(3): 452-2137.",Fabricated
+621,non_genuine,B1,fabricated_english,10.7777/qpwbsf3q0e27zeoqgvzh,"La Manno G, Soldatov R, Zeisel A, et al. Determines aging mechanism in cancer[J]. Nature Communications, 2019, 38(8): 408-5989.",Fabricated
+622,non_genuine,B1,fabricated_english,10.6666/guczh9ier7u8h0imjyjc,"Langmead B, Salzberg SL. Reveals mitophagy at single-cell resolution[J]. Neuron, 2020, 60(10): 42-6989.",Fabricated
+623,non_genuine,B1,fabricated_english,10.8888/atqydshlv76mf4nnkm95,"McKinney SM, Sieniek M, Godbole V, et al. Reveals metabolic reprogramming in development[J]. Genome Research, 2022, 68(4): 801-5553.",Fabricated
+624,non_genuine,B1,fabricated_english,10.3333/2cu7onz3jbck88d0tgsi,"Rao A, Barkley D, Franca GS, et al. Elucidates gene therapy in development[J]. Nature Methods, 2018, 27(11): 504-2310.",Fabricated
+625,non_genuine,B1,fabricated_english,10.2222/6qnyy95g5dog8cfeffh8,"Mimitou EP, Cheng A, Montalbano A, et al. Explores synthetic biology in cancer[J]. Gastroenterology, 2024, 16(8): 727-9714.",Fabricated
+626,non_genuine,B1,fabricated_english,10.2222/d32lx2toowt9nm3v2p2t,"Schep AN, Wu B, Buenrostro JD, et al. Explores microbiome across diverse tissues[J]. eLife, 2024, 45(10): 589-3087.",Fabricated
+627,non_genuine,B1,fabricated_english,10.9999/1hkf286utios5hrqap5i,"Komor AC, Kim YB, Packer MS, et al. Deciphers phase separation in human disease[J]. Cell Systems, 2019, 15(8): 470-7852.",Fabricated
+628,non_genuine,B1,fabricated_english,10.3333/q6ulm9kgzvk2jwuuxk0a,"ENCODE Project Consortium. Investigates RNA modification in development[J]. EMBO Journal, 2022, 7(6): 548-1176.",Fabricated
+629,non_genuine,B1,fabricated_english,10.3333/5p1v3zo7utxzbdq55it9,"Stuart T, Butler A, Hoffman P, et al. Elucidates ferroptosis at single-cell resolution[J]. Genome Biology, 2021, 79(8): 705-6323.",Fabricated
+630,non_genuine,B1,fabricated_english,10.4444/f9yecazrp9dxoq2vpgst,"Satpathy AT, Granja JM, Yost KE, et al. Elucidates aging mechanism across diverse tissues[J]. Blood, 2019, 25(9): 394-6902.",Fabricated
+631,non_genuine,B1,fabricated_english,10.6666/shb0oqvshkoecubods1e,"Watson JL, Juergens D, Bennett NR, et al. Determines DNA damage repair in human disease[J]. EMBO Journal, 2022, 6(6): 553-3450.",Fabricated
+632,non_genuine,B1,fabricated_english,10.2222/e6a9hl1737suudqfj6ij,"Iorio F, Knijnenburg TA, Vis DJ, et al. Explores gene therapy through deep learning[J]. Developmental Cell, 2018, 93(1): 292-1267.",Fabricated
+633,non_genuine,B1,fabricated_english,10.4444/5ggomf9pml9ln1p0vuh1,"Wang T, Birsoy K, Hughes NW, et al. Investigates aging mechanism with spatial profiling[J]. Nature Genetics, 2024, 82(10): 367-8515.",Fabricated
+634,non_genuine,B1,fabricated_english,10.9999/ufqymbnw8bkxcgw1vgll,"Grosselin K, Durand A, Marsolier J, et al. Identifies phase separation via CRISPR screening[J]. Hepatology, 2023, 74(1): 866-5252.",Fabricated
+635,non_genuine,B1,fabricated_english,10.5678/a7yvdqbsxlul6lgjlpef,"Ghandi M, Huang FW, Jane-Valbuena J, et al. Investigates cuproptosis across diverse tissues[J]. Nucleic Acids Research, 2023, 5(8): 397-9558.",Fabricated
+636,non_genuine,B1,fabricated_english,10.6666/q37csuytaul62cf4mntf,"Grosselin K, Durand A, Marsolier J, et al. Reveals pyroptosis across diverse tissues[J]. Blood, 2019, 81(8): 914-9797.",Fabricated
+637,non_genuine,B1,fabricated_english,10.5678/37qqyzqii4w6ozx25qbr,"Stuart T, Srivastava A, Madad S, et al. Uncovers neurodegenerative disease through integrative analysis[J]. Journal of Clinical Investigation, 2018, 97(8): 582-3159.",Fabricated
+638,non_genuine,B1,fabricated_english,10.3333/st3ta195eq4pbgx25fpl,"Tomasev N, Glorot X, Rae JW, et al. Identifies ferroptosis in cancer[J]. Circulation, 2024, 60(4): 301-9157.",Fabricated
+639,non_genuine,B1,fabricated_english,10.6666/eytl8hbgcj1gnfiue2wn,"Avsec Z, Weilert M, Shrikumar A, et al. Deciphers autophagy regulation through integrative analysis[J]. Nature Methods, 2024, 26(7): 346-7586.",Fabricated
+640,non_genuine,B1,fabricated_english,10.2222/k2o7fhs32uy84zz2p6ee,"Gayoso A, Steier Z, Lopez R, et al. Uncovers stem cell differentiation at single-cell resolution[J]. Journal of Clinical Investigation, 2022, 46(3): 14-3243.",Fabricated
+641,non_genuine,B1,fabricated_english,10.2222/9ry79kvls9meuswrgvz9,"Soneson C, Robinson MD. Determines precision medicine in cancer[J]. Nucleic Acids Research, 2023, 27(10): 60-2790.",Fabricated
+642,non_genuine,B1,fabricated_english,10.6666/9uws44c68au9dkbpvwzo,"Liu L, Liu C, Quintero A, et al. Elucidates synthetic biology through integrative analysis[J]. PNAS, 2020, 73(11): 312-8122.",Fabricated
+643,non_genuine,B1,fabricated_english,10.3333/g3yu6vk0ucc1m3o55ixv,"Lopez R, Regier J, Cole MB, et al. Deciphers single-cell sequencing with spatial profiling[J]. Science Advances, 2019, 94(2): 741-6319.",Fabricated
+644,non_genuine,B1,fabricated_english,10.5678/4ex6u86zjq7w7jp61lfc,"Anzalone AV, Randolph PB, Davis JR, et al. Identifies autophagy regulation in human disease[J]. Nucleic Acids Research, 2022, 82(2): 726-2965.",Fabricated
+645,non_genuine,B1,fabricated_english,10.8888/viac2e4qxgnrfio878iy,"Ridker PM, Moorthy MV, Cook NR, et al. Elucidates protein structure prediction at single-cell resolution[J]. Nature Neuroscience, 2019, 4(10): 632-5372.",Fabricated
+646,non_genuine,B1,fabricated_english,10.1234/2fkxwexkg6xb1r8vnrpj,"Maynard KR, Collado-Torres L, Weber LM, et al. Reveals microbiome using multi-omics approaches[J]. EMBO Journal, 2021, 72(12): 475-4678.",Fabricated
+647,non_genuine,B1,fabricated_english,10.2222/k94yxfiblejgublmntfk,"Tang F, Barbacioru C, Wang Y, et al. Reveals ferroptosis across diverse tissues[J]. Cancer Cell, 2020, 59(3): 634-3634.",Fabricated
+648,non_genuine,B1,fabricated_english,10.5678/bqrr87iyojtpk2nlt8dt,"Chen AF, Parks B, Kathiria AS, et al. Explores tumor microenvironment across diverse tissues[J]. Nucleic Acids Research, 2022, 94(6): 56-5331.",Fabricated
+649,non_genuine,B1,fabricated_english,10.5678/7h6gmd478mfs0iuduahg,"Lin Z, Akin H, Rao R, et al. Dissects cellular reprogramming in human disease[J]. Nature Methods, 2020, 86(1): 773-2581.",Fabricated
+650,non_genuine,B1,fabricated_english,10.3333/p422ta83ru7myow8dt8c,"Schraivogel D, Gschwind AR, Milbank JH, et al. Characterizes stem cell differentiation via CRISPR screening[J]. Developmental Cell, 2022, 1(9): 725-9039.",Fabricated
+651,non_genuine,B1,fabricated_english,10.9999/zb3i4fieecy2c11bd2sc,"Silver D, Schrittwieser J, Simonyan K, et al. Uncovers microbiome using multi-omics approaches[J]. Immunity, 2019, 57(10): 536-6604.",Fabricated
+652,non_genuine,B1,fabricated_english,10.7777/z6wmdw0fgzvrctlt4q9b,"Kim D, Paggi JM, Park C, et al. Dissects ferroptosis through integrative analysis[J]. Genome Biology, 2022, 6(7): 677-4129.",Fabricated
+653,non_genuine,B1,fabricated_english,10.3333/0spo3zdrc1yohmi9ayfq,"Satpathy AT, Granja JM, Yost KE, et al. Elucidates apoptosis in development[J]. Nature Immunology, 2022, 1(7): 46-1656.",Fabricated
+654,non_genuine,B1,fabricated_english,10.4444/my89sfqeri7b03ragvlk,"Gasperini M, Hill AJ, McFaline-Figueroa JL, et al. Determines cuproptosis through deep learning[J]. Cell Systems, 2024, 92(10): 608-5472.",Fabricated
+655,non_genuine,B1,fabricated_english,10.9999/2nqw4c6lbpj8t22c50b8,"Fang R, Preissl S, Li Y, et al. Deciphers liquid-liquid phase separation in human disease[J]. Cell Stem Cell, 2021, 99(3): 896-7641.",Fabricated
+656,non_genuine,B1,fabricated_english,10.2222/fu7bfxq7bzegbl2qgv3d,"Callaway E. Reveals metabolic reprogramming with spatial profiling[J]. Nature Medicine, 2019, 84(11): 536-8509.",Fabricated
+657,non_genuine,B1,fabricated_english,10.5678/a5xin9dl5tgsq7aitmof,"The BALANCE Investigators. Explores genome editing in human disease[J]. Nature Methods, 2021, 85(5): 679-6901.",Fabricated
+658,non_genuine,B1,fabricated_english,10.2222/lzrk79ufu6py06ftlo4q,"Anzalone AV, Randolph PB, Davis JR, et al. Explores drug target discovery across diverse tissues[J]. Cell Stem Cell, 2020, 20(1): 994-9948.",Fabricated
+659,non_genuine,B1,fabricated_english,10.7777/xo100vhmygty3addqhkg,"Bravo Gonzalez-Blas C, Minnoye L, et al. Determines cellular senescence in development[J]. Cell Systems, 2020, 35(5): 822-2610.",Fabricated
+660,non_genuine,B1,fabricated_english,10.2222/dqlovyv3lxchfu131xqk,"Horlbeck MA, Xu A, Wang M, et al. Identifies epigenetic regulation in development[J]. Circulation, 2018, 76(10): 475-6330.",Fabricated
+661,non_genuine,B2,fabricated_chinese,10.9999/f8lwvv59hotgduq6ddtb,"Lewis V, Jackson W, et al. Determines bioinformatics in cancer[J]. EMBO Journal, 2020, 76(1): 582-1527.",Fabricated
+662,non_genuine,B2,fabricated_chinese,10.4444/taegry58vrw9myyokeae,"Scott B, Evans P, et al. Characterizes cellular reprogramming through integrative analysis[J]. Genome Biology, 2018, 96(10): 266-2742.",Fabricated
+663,non_genuine,B2,fabricated_chinese,10.5678/wudcbl4ce7pkwcyuknd1,"Martin B, Miller S, et al. Uncovers tumor microenvironment in human disease[J]. Journal of Biological Chemistry, 2022, 31(2): 795-8184.",Fabricated
+664,non_genuine,B2,fabricated_chinese,10.5678/z7pq4ddv283bdw56fkps,"Baker E, Lee F. Uncovers metabolic reprogramming in human disease[J]. Science Translational Medicine, 2020, 20(12): 895-9444.",Fabricated
+665,non_genuine,B2,fabricated_chinese,10.7777/x5zu2zueugwubugr6e7g,"Garcia L, Evans P, et al. Elucidates drug target discovery with spatial profiling[J]. Journal of Biological Chemistry, 2022, 6(11): 912-8259.",Fabricated
+666,non_genuine,B2,fabricated_chinese,10.2222/9kdts1fb2vi109dcnwmb,"Scott B, Robinson Q, et al. Reveals single-cell sequencing in cancer[J]. Journal of Biological Chemistry, 2021, 93(12): 758-3064.",Fabricated
+667,non_genuine,B2,fabricated_chinese,10.9999/juis2gy9ytjuq7x7b7p9,"Cooper K, Thomas H. Deciphers RNA modification in development[J]. Science Advances, 2019, 9(10): 132-2065.",Fabricated
+668,non_genuine,B2,fabricated_chinese,10.6666/kgjzowi1t2ep768sy7p1,"Miller S, Martinez E, et al. Elucidates cellular senescence through deep learning[J]. Current Biology, 2024, 99(1): 252-8760.",Fabricated
+669,non_genuine,B2,fabricated_chinese,10.7777/xgc7jjy94h4kftcdz309,"Campbell F, Moore D, et al. Elucidates pyroptosis in cancer[J]. Molecular Systems Biology, 2022, 58(1): 2-8612.",Fabricated
+670,non_genuine,B2,fabricated_chinese,10.8888/pofkjw6nyqaelyyzz0jd,"Baker E, Davis A, et al. Explores neurodegenerative disease with spatial profiling[J]. Nature Neuroscience, 2021, 27(10): 221-5636.",Fabricated
+671,non_genuine,B2,fabricated_chinese,10.8888/nffykpl3cho3xjvoegi3,"Green C, Thompson G. Investigates cellular reprogramming in development[J]. Molecular Systems Biology, 2022, 94(11): 62-9556.",Fabricated
+672,non_genuine,B2,fabricated_chinese,10.7777/h3rem5puu62rzv1sqqq5,"Harris J, Walker U, et al. Reveals microbiome across diverse tissues[J]. Nature Immunology, 2024, 76(7): 50-5999.",Fabricated
+673,non_genuine,B2,fabricated_chinese,10.2222/kfiwkesvr022wgn51nsg,"Thomas H, Collins J. Uncovers drug target discovery via CRISPR screening[J]. Molecular Systems Biology, 2023, 32(1): 782-4098.",Fabricated
+674,non_genuine,B2,fabricated_chinese,10.8888/t6xiyzvnlpa5cgwfhdv3,"Clark O, Williams R, et al. Determines pyroptosis using multi-omics approaches[J]. Science, 2019, 94(6): 351-4969.",Fabricated
+675,non_genuine,B2,fabricated_chinese,10.2222/qahcua09pciflwdr3vwm,"Davis A, Carter H, et al. Uncovers microbiome in cancer[J]. Cell, 2023, 29(1): 285-7882.",Fabricated
+676,non_genuine,B2,fabricated_chinese,10.2222/hqnjvdpngwds9yxz7sxd,"White I, Martinez E, et al. Determines microbiome using multi-omics approaches[J]. Nature Neuroscience, 2020, 86(2): 853-7020.",Fabricated
+677,non_genuine,B2,fabricated_chinese,10.3333/o1en1s2ofhbawyqmogbj,"Martin B. Characterizes mitophagy using multi-omics approaches[J]. Journal of Clinical Investigation, 2020, 86(2): 715-4559.",Fabricated
+678,non_genuine,B2,fabricated_chinese,10.1234/xgpxahkudiz1xevo7q5e,"Miller S, Anderson T, et al. Uncovers single-cell sequencing with spatial profiling[J]. Science Translational Medicine, 2023, 42(8): 712-1448.",Fabricated
+679,non_genuine,B2,fabricated_chinese,10.8888/ztplc6prr7mzakgmih6m,"Diaz M, Edwards N, et al. Explores genome editing with spatial profiling[J]. Circulation, 2022, 76(12): 627-8993.",Fabricated
+680,non_genuine,B2,fabricated_chinese,10.8888/qvayxar6yo6z1t2xcb3y,"Moore D, Evans P, et al. Uncovers mitophagy using multi-omics approaches[J]. Cell Metabolism, 2020, 32(11): 330-6597.",Fabricated
+681,non_genuine,B2,fabricated_chinese,10.7777/c2rh2xk2pthowq1gaz5u,"Lee F, Brown K, et al. Determines apoptosis through integrative analysis[J]. Nature Biotechnology, 2023, 75(2): 607-6518.",Fabricated
+682,non_genuine,B2,fabricated_chinese,10.1234/jwkon8uujs75eltfebe5,"Brown K. Elucidates metabolic reprogramming through deep learning[J]. Cancer Cell, 2022, 86(10): 727-1745.",Fabricated
+683,non_genuine,B2,fabricated_chinese,10.3333/v9nou3dyms1mwnpr424t,"Collins J. Reveals metabolic reprogramming through deep learning[J]. Molecular Systems Biology, 2022, 66(7): 274-1334.",Fabricated
+684,non_genuine,B2,fabricated_chinese,10.8888/r1necqoroi5j8yit2kod,"Young X, Miller S, et al. Determines protein structure prediction via CRISPR screening[J]. Cell Reports, 2021, 16(1): 208-4925.",Fabricated
+685,non_genuine,B2,fabricated_chinese,10.5678/rtig7zd9b7lnkzx8yx7w,"Cox L, Campbell F, et al. Identifies pyroptosis using multi-omics approaches[J]. Science Translational Medicine, 2024, 60(3): 918-8311.",Fabricated
+686,non_genuine,B2,fabricated_chinese,10.6666/0r8u7wpgbgqfqe6rp9uq,"Walker U, Wright A, et al. Dissects mitophagy in development[J]. Cell Reports, 2022, 41(7): 915-3703.",Fabricated
+687,non_genuine,B2,fabricated_chinese,10.4444/v917rmpn6937xncmldqz,"Brown K. Reveals stem cell differentiation in development[J]. Cell, 2018, 28(9): 811-1118.",Fabricated
+688,non_genuine,B2,fabricated_chinese,10.2222/3uxh9a1g7irdlk9en7dl,"Martinez E. Uncovers spatial transcriptomics at single-cell resolution[J]. Nucleic Acids Research, 2024, 37(3): 855-3757.",Fabricated
+689,non_genuine,B2,fabricated_chinese,10.2222/vceqfgas0r778nrxvob7,"Edwards N, Collins J, et al. Characterizes aging mechanism using multi-omics approaches[J]. Neuron, 2021, 40(8): 291-7146.",Fabricated
+690,non_genuine,B2,fabricated_chinese,10.1234/8ra4dv56onxd70fe07s3,"Baker E, Cooper K, et al. Characterizes immunotherapy using multi-omics approaches[J]. Nature Neuroscience, 2018, 34(5): 675-3883.",Fabricated
+691,non_genuine,B2,fabricated_chinese,10.6666/ky3ufn0dsg2qfpodpehc,"Davis A, Scott B, et al. Elucidates metabolic reprogramming in development[J]. Science Advances, 2023, 81(11): 547-4831.",Fabricated
+692,non_genuine,B2,fabricated_chinese,10.3333/l008uhbxlbc8nog85d4f,"Garcia L. Explores synthetic biology through deep learning[J]. Cell Systems, 2022, 85(1): 338-1718.",Fabricated
+693,non_genuine,B2,fabricated_chinese,10.8888/7nidp9mgyh523ggodlug,"Young X. Dissects phase separation through deep learning[J]. Nature Communications, 2022, 1(1): 791-7183.",Fabricated
+694,non_genuine,B2,fabricated_chinese,10.3333/ivtq3md4p7pp4bf5l0rx,"Allen Y, Diaz M, et al. Investigates DNA damage repair across diverse tissues[J]. Developmental Cell, 2019, 30(12): 768-4438.",Fabricated
+695,non_genuine,B2,fabricated_chinese,10.8888/yqhr133no3aamtfpw6m9,"Evans P, Harris J, et al. Characterizes metabolic reprogramming at single-cell resolution[J]. Cell Stem Cell, 2024, 6(8): 225-1060.",Fabricated
+696,non_genuine,B2,fabricated_chinese,10.6666/amb3lpvowcp779460khf,"Rodriguez C, Johnson M, et al. Explores gene therapy in development[J]. Blood, 2022, 53(11): 193-1051.",Fabricated
+697,non_genuine,B2,fabricated_chinese,10.3333/ehvdo9khba5mf36bcpwe,"Green C, Rodriguez C, et al. Uncovers cuproptosis through deep learning[J]. Molecular Cell, 2022, 27(5): 708-2412.",Fabricated
+698,non_genuine,B2,fabricated_chinese,10.8888/aauwidqj4bwvf8guas17,"Diaz M, Clark O. Dissects pyroptosis through integrative analysis[J]. Nature Biotechnology, 2021, 48(3): 403-7182.",Fabricated
+699,non_genuine,B2,fabricated_chinese,10.2222/gkqraffz8q4vhu4bawz9,"Thomas H. Reveals cellular senescence through integrative analysis[J]. Blood, 2023, 19(11): 248-8139.",Fabricated
+700,non_genuine,B2,fabricated_chinese,10.4444/hpnf4jd1ksibsmqpnrja,"Walker U, Carter H, et al. Determines apoptosis in development[J]. Cell, 2019, 29(4): 463-4840.",Fabricated
+701,non_genuine,B2,fabricated_chinese,10.4444/70ib3wyzxjqyjv84a1x7,"Cox L, Anderson T, et al. Uncovers stem cell differentiation in cancer[J]. Circulation, 2023, 89(6): 714-1945.",Fabricated
+702,non_genuine,B2,fabricated_chinese,10.1234/r7mgatnd9tkg1f8yc8gz,"Thompson G. Elucidates pyroptosis through integrative analysis[J]. Cell Metabolism, 2018, 69(10): 329-7583.",Fabricated
+703,non_genuine,B2,fabricated_chinese,10.6666/xyasvdazv46esmrwgebe,"Edwards N, Evans P. Explores deep learning with spatial profiling[J]. Cell Stem Cell, 2024, 55(10): 635-2659.",Fabricated
+704,non_genuine,B2,fabricated_chinese,10.3333/uhh03g95p6dwcdecbir1,"Wright A, Anderson T, et al. Characterizes gene therapy across diverse tissues[J]. Genome Research, 2021, 24(9): 972-2806.",Fabricated
+705,non_genuine,B2,fabricated_chinese,10.9999/vku8h5r8mnqpvpf8r1pc,"Martin B, Campbell F. Determines single-cell sequencing through deep learning[J]. EMBO Journal, 2019, 93(4): 251-7947.",Fabricated
+706,non_genuine,B2,fabricated_chinese,10.9999/4vge0gyajpgz6tpbwsxx,"Rodriguez C, Clark O, et al. Investigates single-cell sequencing through integrative analysis[J]. Cell Metabolism, 2019, 61(5): 862-3643.",Fabricated
+707,non_genuine,B2,fabricated_chinese,10.3333/qbdx7m42o34ogwpnxzdz,"Green C, Thompson G, et al. Identifies synthetic biology with spatial profiling[J]. PLoS Genetics, 2022, 43(10): 901-9043.",Fabricated
+708,non_genuine,B2,fabricated_chinese,10.4444/3fezez5ehr07n8voeubf,"Carter H, Allen Y, et al. Dissects cellular senescence in development[J]. Circulation, 2023, 55(8): 706-9020.",Fabricated
+709,non_genuine,B2,fabricated_chinese,10.4444/v0175du23jh0zagrd1pp,"Diaz M, Garcia L, et al. Determines mitophagy across diverse tissues[J]. Molecular Systems Biology, 2020, 89(5): 513-9735.",Fabricated
+710,non_genuine,B2,fabricated_chinese,10.8888/dcbhhlk3yjz99106ak32,"Jackson W, Lee F, et al. Identifies mitophagy using multi-omics approaches[J]. Hepatology, 2022, 70(11): 81-5528.",Fabricated
+711,non_genuine,B2,fabricated_chinese,10.8888/fg8pjvrn8lpy857nz3a8,"Lee F, Baker E, et al. Uncovers spatial transcriptomics via CRISPR screening[J]. Neuron, 2024, 96(12): 242-7928.",Fabricated
+712,non_genuine,B2,fabricated_chinese,10.1234/gjd3ex5mhqnngs2wpze5,"Thomas H, White I. Elucidates epigenetic regulation using multi-omics approaches[J]. Genome Biology, 2020, 71(4): 183-4211.",Fabricated
+713,non_genuine,B2,fabricated_chinese,10.4444/xahhxkwb5o1r9z27ujdl,"Collins J, Allen Y. Identifies bioinformatics through integrative analysis[J]. Nucleic Acids Research, 2018, 46(6): 178-1245.",Fabricated
+714,non_genuine,B2,fabricated_chinese,10.6666/8sxfi3ubm9xhcgryqy4u,"Wright A, Campbell F, et al. Investigates mitophagy across diverse tissues[J]. Nature Immunology, 2021, 40(10): 352-5768.",Fabricated
+715,non_genuine,B2,fabricated_chinese,10.2222/cbdpdxujjcsexggoc5kv,"Wright A, Garcia L, et al. Characterizes protein structure prediction using multi-omics approaches[J]. PLoS Genetics, 2022, 55(5): 583-1781.",Fabricated
+716,non_genuine,B2,fabricated_chinese,10.1234/99259p5z5zlm36vfox5w,"Carter H, Jones P, et al. Characterizes ferroptosis with spatial profiling[J]. Nature Communications, 2021, 98(1): 677-3473.",Fabricated
+717,non_genuine,B2,fabricated_chinese,10.3333/csg4ofdtrc85ehpzrv7v,"Edwards N, Baker E, et al. Determines cellular reprogramming using multi-omics approaches[J]. Nucleic Acids Research, 2019, 38(11): 537-2146.",Fabricated
+718,non_genuine,B2,fabricated_chinese,10.2222/v9iw6l01wcnkfhb7v80l,"Young X, Rodriguez C, et al. Uncovers single-cell sequencing in human disease[J]. Cell Metabolism, 2021, 66(11): 760-4808.",Fabricated
+719,non_genuine,B2,fabricated_chinese,10.4444/77k71k4fpl3x2jc2r07l,"Williams R, Brown K, et al. Dissects drug target discovery via CRISPR screening[J]. Nature Medicine, 2022, 31(8): 398-1128.",Fabricated
+720,non_genuine,B2,fabricated_chinese,10.1234/1yzg3w3h98brzva9wdjs,"Davis A, Robinson Q, et al. Reveals cuproptosis at single-cell resolution[J]. Cell Stem Cell, 2020, 25(8): 10-4629.",Fabricated
+721,non_genuine,B3,fabricated_preprint,10.8888/2gkfl5xf50i6gbxqj7dp,"Campbell F, Clark O, et al. Investigates cellular senescence at single-cell resolution[J]. Bioinformatics, 2020, 50(8): 889-9412.",Fabricated
+722,non_genuine,B3,fabricated_preprint,10.3333/9zkelz5tozo32tc4t3x1,"Scott B, Walker U, et al. Explores spatial transcriptomics in cancer[J]. Trends in Computational Biomedicine, 2020, 13(10): 186-7290.",Fabricated
+723,non_genuine,B3,fabricated_preprint,10.8888/unvsdkv54c6p1llh2r9p,"Walker U, Martinez E, et al. Reveals spatial transcriptomics via CRISPR screening[J]. Journal of Biological Chemistry, 2019, 60(10): 815-6268.",Fabricated
+724,non_genuine,B3,fabricated_preprint,10.2222/hmewcjn6ocjpztc09zgn,"Edwards N, Collins J, et al. Identifies immunotherapy in human disease[J]. Frontiers in Molecular Medicine, 2019, 39(4): 981-3198.",Fabricated
+725,non_genuine,B3,fabricated_preprint,10.6666/0vvijvddwvb853gqd7wk,"Taylor N, Lee F, et al. Dissects metabolic reprogramming at single-cell resolution[J]. Journal of Advanced Genomics, 2023, 71(3): 340-6907.",Fabricated
+726,non_genuine,B3,fabricated_preprint,10.7777/z9hpcpbdn7zi6gaxlkkv,"Martinez E, Jackson W, et al. Elucidates stem cell differentiation across diverse tissues[J]. Genome Research, 2018, 7(7): 418-9601.",Fabricated
+727,non_genuine,B3,fabricated_preprint,10.5678/8zna8nzxc45bnccu3fg0,"Walker U, Rodriguez C, et al. Characterizes synthetic biology in cancer[J]. Current Biology, 2019, 27(4): 58-3257.",Fabricated
+728,non_genuine,B3,fabricated_preprint,10.7777/6x73zca7fxloz2rcu8kd,"Carter H, Lewis V, et al. Determines RNA modification across diverse tissues[J]. EMBO Journal, 2022, 37(6): 897-2702.",Fabricated
+729,non_genuine,B3,fabricated_preprint,10.3333/weprs82gj8k8c9g3rtsc,"Thomas H, Collins J, et al. Elucidates protein structure prediction with spatial profiling[J]. Cell Reports, 2024, 72(6): 917-6996.",Fabricated
+730,non_genuine,B3,fabricated_preprint,10.4444/w85y6q8sjy5op9lbsmwp,"Johnson M, Martinez E, et al. Reveals microbiome through integrative analysis[J]. Molecular Systems Biology, 2020, 27(12): 92-4175.",Fabricated
+731,non_genuine,B3,fabricated_preprint,10.1234/2uew9g6spd2sw24wjt8h,"Carter H, Edwards N, et al. Characterizes metabolic reprogramming in development[J]. PLoS Genetics, 2022, 51(4): 632-7444.",Fabricated
+732,non_genuine,B3,fabricated_preprint,10.7777/9zr3rzn9l3h03zb5gro9,"Jackson W, Baker E, et al. Deciphers protein structure prediction using multi-omics approaches[J]. Journal of Advanced Genomics, 2022, 41(5): 515-3022.",Fabricated
+733,non_genuine,B3,fabricated_preprint,10.5678/a6gmdrdsferfxiokpg3d,"Green C. Deciphers mitophagy through deep learning[J]. Journal of Advanced Genomics, 2022, 59(6): 306-6798.",Fabricated
+734,non_genuine,B3,fabricated_preprint,10.7777/rckqh3eram4be52s8u8z,"Cox L, Robinson Q, et al. Explores deep learning across diverse tissues[J]. Nature Immunology, 2022, 38(10): 572-3664.",Fabricated
+735,non_genuine,B3,fabricated_preprint,10.9999/3d6m1fmpryfzmyoa2vcy,"Wright A, Thompson G, et al. Dissects single-cell sequencing with spatial profiling[J]. Trends in Computational Biomedicine, 2024, 54(9): 220-5250.",Fabricated
+736,non_genuine,B3,fabricated_preprint,10.4444/rkcpw0gkejzxpr2d0vg4,"Rodriguez C. Uncovers protein structure prediction in cancer[J]. Frontiers in Molecular Medicine, 2018, 44(7): 612-1131.",Fabricated
+737,non_genuine,B3,fabricated_preprint,10.6666/1rd1zm4ix4zcrhyqnrm3,"Diaz M, King Z. Explores DNA damage repair at single-cell resolution[J]. PLoS Genetics, 2022, 62(11): 502-5596.",Fabricated
+738,non_genuine,B3,fabricated_preprint,10.9999/wxub0gz1vhhgy8nnkl3e,"Martinez E, Clark O, et al. Uncovers cellular senescence at single-cell resolution[J]. Current Biology, 2020, 67(12): 4-8381.",Fabricated
+739,non_genuine,B3,fabricated_preprint,10.6666/9wam0kjax57u0y8jwvhp,"Robinson Q. Deciphers DNA damage repair via CRISPR screening[J]. Science Translational Medicine, 2020, 18(7): 920-5831.",Fabricated
+740,non_genuine,B3,fabricated_preprint,10.4444/hm63q68jov58toe3pgih,"Diaz M, Harris J, et al. Explores bioinformatics with spatial profiling[J]. Cell Systems, 2024, 41(10): 111-7275.",Fabricated
+741,non_genuine,B3,fabricated_preprint,10.5678/g6w04ygyflq8xpa95g1a,"Thompson G, Baker E. Characterizes immunotherapy through integrative analysis[J]. eLife, 2023, 77(5): 752-1050.",Fabricated
+742,non_genuine,B3,fabricated_preprint,10.4444/plbx889errye12o003e8,"Scott B, Anderson T, et al. Determines liquid-liquid phase separation in human disease[J]. Genome Research, 2018, 25(5): 42-3190.",Fabricated
+743,non_genuine,B3,fabricated_preprint,10.2222/qzskhztgbibf57j2xi3t,"Campbell F, Young X, et al. Dissects autophagy regulation through integrative analysis[J]. Annals of Systems Biology, 2022, 28(10): 714-1145.",Fabricated
+744,non_genuine,B3,fabricated_preprint,10.9999/q3gu7gkl53ygfpqxo0e1,"Thompson G, Moore D, et al. Determines DNA damage repair across diverse tissues[J]. Molecular Systems Biology, 2020, 19(8): 96-9125.",Fabricated
+745,non_genuine,B3,fabricated_preprint,10.2222/v4reasfen0b09zivzg92,"White I, Cooper K, et al. Reveals mitophagy across diverse tissues[J]. Neuron, 2019, 45(12): 695-9711.",Fabricated
+746,non_genuine,B3,fabricated_preprint,10.5678/cv4bktcv1ltwbj9uu2bl,"Edwards N, Jones P, et al. Determines DNA damage repair with spatial profiling[J]. Clinical Omics Journal, 2023, 55(4): 277-2776.",Fabricated
+747,non_genuine,B3,fabricated_preprint,10.2222/mbrg8my344krjawo778s,"Wright A, Collins J, et al. Explores autophagy regulation across diverse tissues[J]. Gastroenterology, 2019, 23(2): 376-3184.",Fabricated
+748,non_genuine,B3,fabricated_preprint,10.7777/fwa88d0mzhrupflfcywe,"Edwards N. Determines spatial transcriptomics with spatial profiling[J]. Journal of Advanced Genomics, 2024, 6(3): 255-2369.",Fabricated
+749,non_genuine,B3,fabricated_preprint,10.8888/xdj1dek8g9xib86ktfrl,"Davis A, Taylor N. Deciphers cellular senescence across diverse tissues[J]. Trends in Computational Biomedicine, 2024, 41(2): 41-3110.",Fabricated
+750,non_genuine,B3,fabricated_preprint,10.2222/fop8qzjuli7jdn80oco3,"Carter H, Harris J, et al. Reveals pyroptosis using multi-omics approaches[J]. Journal of Advanced Genomics, 2023, 5(10): 770-3843.",Fabricated
+751,non_genuine,B3,fabricated_preprint,10.5678/9xv8wobiry8xny2x15xj,"Martinez E. Determines drug target discovery across diverse tissues[J]. Nature Genetics, 2020, 61(3): 968-1859.",Fabricated
+752,non_genuine,B3,fabricated_preprint,10.3333/w1gxhg403njbcfa95d7e,"Johnson M. Reveals bioinformatics in development[J]. International Journal of Computational Biology, 2022, 49(1): 761-3138.",Fabricated
+753,non_genuine,B3,fabricated_preprint,10.9999/11d2mrmtxjq3kmsx54rj,"Adams D, Diaz M, et al. Elucidates microbiome through deep learning[J]. Journal of Advanced Genomics, 2022, 38(4): 538-9243.",Fabricated
+754,non_genuine,B3,fabricated_preprint,10.8888/ztdl25b7kxupr6h2hxn4,"Anderson T, Johnson M, et al. Explores RNA modification via CRISPR screening[J]. Developmental Cell, 2018, 68(12): 290-5626.",Fabricated
+755,non_genuine,B3,fabricated_preprint,10.1234/lh07jr8mtk0rsoggy5ko,"Lee F, Davis A, et al. Reveals aging mechanism in cancer[J]. Nature Immunology, 2019, 47(2): 921-4554.",Fabricated
+756,non_genuine,B3,fabricated_preprint,10.1234/orwhp6wqfk6xw4emm9va,"White I, Lee F. Characterizes mitophagy at single-cell resolution[J]. Clinical Omics Journal, 2024, 27(7): 104-9045.",Fabricated
+757,non_genuine,B3,fabricated_preprint,10.6666/o0d3fvnv4kfq5dz53x1f,"Smith J, Robinson Q, et al. Investigates drug target discovery through integrative analysis[J]. Developmental Cell, 2023, 46(3): 720-2595.",Fabricated
+758,non_genuine,B3,fabricated_preprint,10.3333/k4o67bxcd20j1oulwozq,"Scott B. Deciphers epigenetic regulation via CRISPR screening[J]. PLoS Genetics, 2022, 3(5): 19-1076.",Fabricated
+759,non_genuine,B3,fabricated_preprint,10.4444/o667vgp52f1johkk7qg2,"Thomas H, Wright A. Identifies apoptosis using multi-omics approaches[J]. Trends in Computational Biomedicine, 2020, 32(11): 653-7328.",Fabricated
+760,non_genuine,B3,fabricated_preprint,10.8888/033tayb5bbkjy2nz7vel,"Davis A, Walker U, et al. Reveals cuproptosis across diverse tissues[J]. Clinical Omics Journal, 2024, 56(4): 175-2442.",Fabricated
+761,non_genuine,B3,fabricated_preprint,10.5678/l9rzrkbfqxlbvn7nprb5,"Green C, Garcia L, et al. Explores mitophagy at single-cell resolution[J]. International Journal of Computational Biology, 2021, 56(4): 412-6385.",Fabricated
+762,non_genuine,B3,fabricated_preprint,10.4444/prtt3nupuy0zia9au87c,"Taylor N, Young X. Uncovers gene therapy through deep learning[J]. Current Biology, 2022, 43(3): 822-5028.",Fabricated
+763,non_genuine,B3,fabricated_preprint,10.2222/pkxywz76dd4da7d0wtws,"Green C, King Z, et al. Investigates bioinformatics via CRISPR screening[J]. Annals of Systems Biology, 2021, 55(6): 182-3664.",Fabricated
+764,non_genuine,B3,fabricated_preprint,10.4444/nmk7yyz6r9i8kcmm7dbf,"Miller S. Dissects aging mechanism at single-cell resolution[J]. Current Biology, 2019, 1(4): 25-4713.",Fabricated
+765,non_genuine,B3,fabricated_preprint,10.4444/gggjvsdbide6uitj5zoo,"Allen Y, Campbell F. Investigates bioinformatics via CRISPR screening[J]. Advances in Biomedical Research, 2020, 13(1): 665-7267.",Fabricated
+766,non_genuine,B3,fabricated_preprint,10.3333/n48nysj5ywx0i3a4kfoc,"Scott B, Rodriguez C, et al. Explores apoptosis in human disease[J]. eLife, 2021, 53(10): 940-3113.",Fabricated
+767,non_genuine,B3,fabricated_preprint,10.5678/m2q6x2o72sjxl66ya6ba,"White I. Determines cellular senescence through integrative analysis[J]. Trends in Computational Biomedicine, 2022, 49(2): 201-8693.",Fabricated
+768,non_genuine,B3,fabricated_preprint,10.8888/8fc0tr58ps0rs95zow60,"White I, Thompson G, et al. Identifies neurodegenerative disease using multi-omics approaches[J]. PNAS, 2024, 12(11): 82-2256.",Fabricated
+769,non_genuine,B3,fabricated_preprint,10.2222/old62f2jd9i82es5v3dm,"Campbell F, Edwards N, et al. Determines pyroptosis with spatial profiling[J]. Frontiers in Molecular Medicine, 2018, 35(2): 545-2802.",Fabricated
+770,non_genuine,B3,fabricated_preprint,10.9999/u9da1l526rqgkcumczq9,"Carter H, Edwards N, et al. Dissects metabolic reprogramming via CRISPR screening[J]. Molecular Systems Biology, 2018, 50(4): 214-2228.",Fabricated
+771,non_genuine,B4,,10.1038/nmeth.4402,"Qiu X, Mao Q, Tang Y, et al. Reversed graph embedding resolves complex single-cell trajectories[J]. Nature Methods, 2014, 14(10): 979-982.",Fabricated
+772,non_genuine,B4,,10.1016/j.cell.2016.11.039,"Jaitin DA, Weiner A, Yofe I, et al. Dissecting immune circuits by linking CRISPR-pooled screens with single-cell RNA-seq[J]. Cell, 2021, 167(7): 1883-1896.e15.",Fabricated
+773,non_genuine,B4,,10.1038/ng.806,"DePristo MA, Banks E, Poplin R, et al. A framework for variation discovery and genotyping using next-generation DNA sequencing data[J]. Nature Genetics, 2008, 43(5): 491-498.",Fabricated
+774,non_genuine,B4,,10.1126/science.add2187,"Dauparas J, Anishchenko I, Bennett N, et al. Robust deep learning-based protein sequence design using ProteinMPNN[J]. Science, 2025, 378(6615): 49-56.",Fabricated
+775,non_genuine,B4,,10.1038/s41586-024-07487-w,"Abramson J, Adler J, Dunger J, et al. Accurate structure prediction of biomolecular interactions with AlphaFold 3[J]. Nature, 2027, 630(8016): 493-500.",Fabricated
+776,non_genuine,B4,,10.1126/science.abl4896,"Tabula Sapiens Consortium. The Tabula Sapiens: A multiple-organ, single-cell transcriptomic atlas of humans[J]. Science, 2026, 376(6594): eabl4896.",Fabricated
+777,non_genuine,B4,,10.1126/science.1132939,"Lamb J, Crawford ED, Peck D, et al. The Connectivity Map: using gene-expression signatures to connect small molecules, genes, and disease[J]. Science, 2002, 313(5795): 1929-1935.",Fabricated
+778,non_genuine,B4,,10.1038/s41586-019-1923-7,"Senior AW, Evans R, Jumper J, et al. Improved protein structure prediction using potentials from deep learning[J]. Nature, 2016, 577(7792): 706-710.",Fabricated
+779,non_genuine,B4,,10.1038/75556,"Ashburner M, Ball CA, Blake JA, et al. Gene Ontology: tool for the unification of biology[J]. Nature Genetics, 2005, 25(1): 25-29.",Fabricated
+780,non_genuine,B4,,10.1038/nmeth.4612,"Soneson C, Robinson MD. Bias, robustness and scalability in single-cell differential expression analysis[J]. Nature Methods, 2013, 15(4): 255-261.",Fabricated
+781,non_genuine,B4,,10.1038/s41588-019-0424-9,"Grosselin K, Durand A, Marsolier J, et al. High-throughput single-cell ChIP-seq identifies heterogeneity of chromatin states in breast cancer[J]. Nature Genetics, 2022, 51(6): 1060-1066.",Fabricated
+782,non_genuine,B4,,10.1126/science.aaa6090,"Chen KH, Boettiger AN, Moffitt JR, et al. Spatially resolved, highly multiplexed RNA profiling in single cells[J]. Science, 2019, 348(6233): aaa6090.",Fabricated
+783,non_genuine,B4,,10.1016/j.cell.2021.04.048,"Hao Y, Hao S, Andersen-Nissen E, et al. Integrated analysis of multimodal single-cell data[J]. Cell, 2025, 184(13): 3573-3587.e29.",Fabricated
+784,non_genuine,B4,,10.1126/science.ade2574,"Lin Z, Akin H, Rao R, et al. Evolutionary-scale prediction of atomic-level protein structure with a language model[J]. Science, 2027, 379(6637): 1123-1130.",Fabricated
+785,non_genuine,B4,,10.1038/s41586-018-0579-z,"Bycroft C, Freeman C, Petkova D, et al. The UK Biobank resource with deep phenotyping and genomic data[J]. Nature, 2013, 562(7726): 203-209.",Fabricated
+786,non_genuine,B4,,10.1038/nmeth.4177,"Datlinger P, Rendeiro AF, Schmidl C, et al. Pooled CRISPR screening with single-cell transcriptome readout[J]. Nature Methods, 2012, 14(3): 297-301.",Fabricated
+787,non_genuine,B4,,10.1038/s41594-019-0323-x,"Zhu C, Yu M, Huang H, et al. An ultra high-throughput method for single-cell joint analysis of open chromatin and transcriptome[J]. Nature Structural and Molecular Biology, 2024, 26(11): 1063-1070.",Fabricated
+788,non_genuine,B4,,10.1126/science.aaa6090,"Chen KH, Boettiger AN, Moffitt JR, et al. Spatially resolved, highly multiplexed RNA profiling in single cells[J]. Science, 2012, 348(6233): aaa6090.",Fabricated
+789,non_genuine,B4,,10.1056/NEJMoa2405182,"Ridker PM, Moorthy MV, Cook NR, et al. Inflammation, cholesterol, lipoprotein(a), and 30-year cardiovascular outcomes in women[J]. New England Journal of Medicine, 2027, 391(22): 2087-2097.",Fabricated
+790,non_genuine,B4,,10.1016/j.cell.2019.05.031,"Stuart T, Butler A, Hoffman P, et al. Comprehensive integration of single-cell data[J]. Cell, 2014, 177(7): 1888-1902.e21.",Fabricated
+791,non_genuine,B4,,10.1016/j.cell.2021.04.048,"Hao Y, Hao S, Andersen-Nissen E, et al. Integrated analysis of multimodal single-cell data[J]. Cell, 2016, 184(13): 3573-3587.e29.",Fabricated
+792,non_genuine,B4,,10.1038/s41588-018-0295-5,"Zou J, Huss M, Abid A, et al. A primer on deep learning in genomics[J]. Nature Genetics, 2022, 51(1): 12-18.",Fabricated
+793,non_genuine,B4,,10.1126/science.add2187,"Dauparas J, Anishchenko I, Bennett N, et al. Robust deep learning-based protein sequence design using ProteinMPNN[J]. Science, 2019, 378(6615): 49-56.",Fabricated
+794,non_genuine,B4,,10.1038/s41588-019-0424-9,"Grosselin K, Durand A, Marsolier J, et al. High-throughput single-cell ChIP-seq identifies heterogeneity of chromatin states in breast cancer[J]. Nature Genetics, 2014, 51(6): 1060-1066.",Fabricated
+795,non_genuine,B4,,10.1038/75556,"Ashburner M, Ball CA, Blake JA, et al. Gene Ontology: tool for the unification of biology[J]. Nature Genetics, 2005, 25(1): 25-29.",Fabricated
+796,non_genuine,B4,,10.1038/s41591-018-0335-9,"Liang H, Tsui BY, Ni H, et al. Evaluation and accurate diagnoses of pediatric diseases using artificial intelligence[J]. Nature Medicine, 2015, 25(3): 433-438.",Fabricated
+797,non_genuine,B4,,10.1126/science.abl4896,"Tabula Sapiens Consortium. The Tabula Sapiens: A multiple-organ, single-cell transcriptomic atlas of humans[J]. Science, 2027, 376(6594): eabl4896.",Fabricated
+798,non_genuine,B4,,10.1038/nmeth.4402,"Qiu X, Mao Q, Tang Y, et al. Reversed graph embedding resolves complex single-cell trajectories[J]. Nature Methods, 2021, 14(10): 979-982.",Fabricated
+799,non_genuine,B4,,10.1038/s41592-019-0548-y,"Vickovic S, Eraslan G, Salmen F, et al. High-definition spatial transcriptomics for in situ tissue profiling[J]. Nature Methods, 2024, 16(10): 987-990.",Fabricated
+800,non_genuine,B4,,10.1016/j.cell.2014.09.029,"Gilbert LA, Horlbeck MA, Adamson B, et al. Genome-scale CRISPR-mediated control of gene repression and activation[J]. Cell, 2010, 159(3): 647-661.",Fabricated
+801,non_genuine,B4,,10.1126/science.add2187,"Dauparas J, Anishchenko I, Bennett N, et al. Robust deep learning-based protein sequence design using ProteinMPNN[J]. Science, 2027, 378(6615): 49-56.",Fabricated
+802,non_genuine,B4,,10.1038/s41586-019-1186-3,"Ghandi M, Huang FW, Jane-Valbuena J, et al. Next-generation characterization of the Cancer Cell Line Encyclopedia[J]. Nature, 2023, 569(7757): 503-508.",Fabricated
+803,non_genuine,B4,,10.1038/s41586-019-1390-1,"Tomasev N, Glorot X, Rae JW, et al. A clinically applicable approach to continuous prediction of future acute kidney injury[J]. Nature, 2015, 572(7767): 116-119.",Fabricated
+804,non_genuine,B4,,10.1038/s41588-021-00779-1,"Frangieh CJ, Melms JC, Thakore PI, et al. Multimodal pooled Perturb-CITE-seq screens in patient models define mechanisms of cancer immune evasion[J]. Nature Genetics, 2026, 53(3): 332-341.",Fabricated
+805,non_genuine,B4,,10.1038/ng.806,"DePristo MA, Banks E, Poplin R, et al. A framework for variation discovery and genotyping using next-generation DNA sequencing data[J]. Nature Genetics, 2007, 43(5): 491-498.",Fabricated
+806,non_genuine,B4,,10.1038/s41587-020-0470-y,"Replogle JM, Norman TM, Xu A, et al. Combinatorial single-cell CRISPR screens by direct guide RNA capture and targeted sequencing[J]. Nature Biotechnology, 2025, 38(8): 954-961.",Fabricated
+807,non_genuine,B4,,10.1038/s41591-018-0335-9,"Liang H, Tsui BY, Ni H, et al. Evaluation and accurate diagnoses of pediatric diseases using artificial intelligence[J]. Nature Medicine, 2016, 25(3): 433-438.",Fabricated
+808,non_genuine,B4,,10.1126/science.aaw1219,"Rodriques SG, Stickels RR, Goeva A, et al. Slide-seq: A scalable technology for measuring genome-wide expression at high spatial resolution[J]. Science, 2024, 363(6434): 1463-1467.",Fabricated
+809,non_genuine,B4,,10.1038/nature21350,"Tanay A, Regev A. Scaling single-cell genomics from phenomenology to mechanism[J]. Nature, 2022, 541(7637): 331-338.",Fabricated
+810,non_genuine,B4,,10.1038/nbt.3192,"Satija R, Farrell JA, Gennert D, et al. Spatial reconstruction of single-cell gene expression data[J]. Nature Biotechnology, 2018, 33(5): 495-502.",Fabricated
+811,non_genuine,B5,,10.1038/s41586-018-0579-z,"Bycroft C, Freeman C, Petkova D, et al. The UK Biobank resource with models define mechanisms of cancer immune evasion[J]. Nature, 2018, 562(7726): 203-209.",Fabricated
+812,non_genuine,B5,,10.1038/s41592-021-01358-2,"Palla G, Spitzer H, Klein M, et al. Squidpy: a scalable framework unbiased identification of regulatory networks in cancer[J]. Nature Methods, 2022, 19(2): 171-178.",Fabricated
+813,non_genuine,B5,,10.1038/nmeth.1937,"Hoffman MM, Buske OJ, Wang J, et al. Unsupervised pattern discovery in human G*C in genomic DNA without DNA cleavage[J]. Nature Methods, 2012, 9(5): 473-476.",Fabricated
+814,non_genuine,B5,,10.1016/j.cell.2017.10.049,"Subramanian A, Narayan R, Corsello SM, et al. A next generation connectivity map: L1000 using CRISPR/Cas systems[J]. Cell, 2017, 171(6): 1437-1452.e17.",Fabricated
+815,non_genuine,B5,,10.1038/nmeth.3547,"Zhou J, Troyanskaya OG. Predicting effects of noncoding variants engineering via Cas9[J]. Nature Methods, 2015, 12(10): 931-934.",Fabricated
+816,non_genuine,B5,,10.1038/nmeth.3547,"Zhou J, Troyanskaya OG. Predicting effects of noncoding variants principles for guide RNA design[J]. Nature Methods, 2015, 12(10): 931-934.",Fabricated
+817,non_genuine,B5,,10.1038/nbt.3973,"Peterson VM, Zhang KX, Kumar N, et al. Multiplexed quantification of proteins from the NHLBI TOPMed Program[J]. Nature Biotechnology, 2017, 35(10): 936-939.",Fabricated
+818,non_genuine,B5,,10.1126/science.1246981,"Wang T, Wei JJ, Sabatini DM, et al. Genetic screens in human in tissue sections by spatial transcriptomics[J]. Science, 2014, 343(6166): 80-84.",Fabricated
+819,non_genuine,B5,,10.1126/science.1225829,"Jinek M, Chylinski K, Fonfara I, et al. A programmable dual-RNA-guided DNA in severe tricuspid regurgitation[J]. Science, 2012, 337(6096): 816-821.",Fabricated
+820,non_genuine,B5,,10.1126/science.aac7557,"Blomen VA, Majek P, Jae LT, et al. Gene essentiality and synthetic layers reveals regulatory heterogeneity[J]. Science, 2015, 350(6264): 1092-1096.",Fabricated
+821,non_genuine,B5,,10.1126/science.1246981,"Wang T, Wei JJ, Sabatini DM, et al. Genetic screens in human for spatial omics analysis[J]. Science, 2014, 343(6166): 80-84.",Fabricated
+822,non_genuine,B5,,10.1038/s41592-019-0367-1,"Bravo Gonzalez-Blas C, Minnoye L, et al. cisTopic: cis-regulatory topic modeling profiling of small samples and single cells[J]. Nature Methods, 2019, 16(5): 397-400.",Fabricated
+823,non_genuine,B5,,10.1038/s41467-021-21583-9,"Fang R, Preissl S, Li Y, et al. Comprehensive analysis of single profiling of single cells[J]. Nature Communications, 2021, 12(1): 1337.",Fabricated
+824,non_genuine,B5,,10.1038/s41588-018-0295-5,"Zou J, Huss M, Abid A, et al. A primer on of a maturing technology[J]. Nature Genetics, 2019, 51(1): 12-18.",Fabricated
+825,non_genuine,B5,,10.1016/j.cell.2019.12.023,"Nusinow DP, Szpyt J, Ghandi M, et al. Quantitative proteomics of the specificity of CRISPR-Cas9 essentiality screens in cancer cells[J]. Cell, 2020, 180(2): 387-402.e16.",Fabricated
+826,non_genuine,B5,,10.1126/science.abj8754,"Baek M, DiMaio F, Anishchenko I, et al. Accurate prediction of protein structures and landscape of mammalian organogenesis[J]. Science, 2021, 373(6557): 871-876.",Fabricated
+827,non_genuine,B5,,10.1038/nature15393,"1000 Genomes Project Consortium. A global reference accessibility with scalable single-cell CRISPR screens[J]. Nature, 2015, 526(7571): 68-74.",Fabricated
+828,non_genuine,B5,,10.1038/nmeth.4197,"Patro R, Duggal G, Love MI, et al. Salmon provides fast and cellular identity with single-cell genomics[J]. Nature Methods, 2017, 14(4): 417-419.",Fabricated
+829,non_genuine,B5,,10.1016/j.cell.2016.11.039,"Jaitin DA, Weiner A, Yofe I, et al. Dissecting immune circuits by linking of single-cell data[J]. Cell, 2016, 167(7): 1883-1896.e15.",Fabricated
+830,non_genuine,B5,,10.1126/science.1225829,"Jinek M, Chylinski K, Fonfara I, et al. A programmable dual-RNA-guided DNA biomolecular interactions with AlphaFold 3[J]. Science, 2012, 337(6096): 816-821.",Fabricated
+831,non_genuine,B5,,10.1126/science.aat5691,"Wang X, Allen WE, Wright MA, et al. Three-dimensional intact-tissue sequencing gene regulation via cellular genetic screens[J]. Science, 2018, 361(6400): eaat5691.",Fabricated
+832,non_genuine,B5,,10.1038/s41592-019-0619-0,"Korsunsky I, Millard N, Fan J, et al. Fast, sensitive and accurate integration genotyping with HISAT2 and HISAT-genotype[J]. Nature Methods, 2019, 16(12): 1289-1296.",Fabricated
+833,non_genuine,B5,,10.1016/j.cell.2021.04.048,"Hao Y, Hao S, Andersen-Nissen E, et al. Integrated analysis of in genomic DNA without double-stranded DNA cleavage[J]. Cell, 2021, 184(13): 3573-3587.e29.",Fabricated
+834,non_genuine,B5,,10.1038/s41592-021-01358-2,"Palla G, Spitzer H, Klein M, et al. Squidpy: a scalable framework gene regulation via cellular genetic screens[J]. Nature Methods, 2022, 19(2): 171-178.",Fabricated
+835,non_genuine,B5,,10.1126/science.1246981,"Wang T, Wei JJ, Sabatini DM, et al. Genetic screens in human accessibility and gene expression in single cells[J]. Science, 2014, 343(6166): 80-84.",Fabricated
+836,non_genuine,B5,,10.1016/j.cell.2019.05.031,"Stuart T, Butler A, Hoffman P, et al. Comprehensive integration applied to embryonic stem cells[J]. Cell, 2019, 177(7): 1888-1902.e21.",Fabricated
+837,non_genuine,B5,,10.1038/nature21056,"Esteva A, Kuprel B, Novoa RA, et al. Dermatologist-level classification of skin joint analysis of open chromatin and transcriptome[J]. Nature, 2017, 542(7639): 115-118.",Fabricated
+838,non_genuine,B5,,10.1038/s41588-021-00782-6,"Avsec Z, Weilert M, Shrikumar A, et al. Base-resolution models of transcription-factor of chromatin states in breast cancer[J]. Nature Genetics, 2021, 53(3): 354-366.",Fabricated
+839,non_genuine,B5,,10.1038/s41586-019-1390-1,"Tomasev N, Glorot X, Rae JW, et al. A clinically applicable approach to continuous of drug sensitivity in cancer cells[J]. Nature, 2019, 572(7767): 116-119.",Fabricated
+840,non_genuine,B5,,10.1038/nature11005,"Garnett MJ, Edelman EJ, Heidorn SJ, et al. Systematic identification of genomic markers subpopulations defined by chromatin state[J]. Nature, 2012, 483(7391): 570-575.",Fabricated
+841,non_genuine,B5,,10.1016/j.cell.2018.06.010,"Horlbeck MA, Xu A, Wang M, et al. Mapping the genetic predictive modelling of anticancer drug sensitivity[J]. Cell, 2018, 174(4): 953-967.e22.",Fabricated
+842,non_genuine,B5,,10.1038/s41586-019-1049-y,"Eng CL, Lawson M, Zhu Q, et al. Transcriptome-scale super-resolved imaging in G*C in genomic DNA without DNA cleavage[J]. Nature, 2019, 568(7751): 235-239.",Fabricated
+843,non_genuine,B5,,10.1038/nbt.3192,"Satija R, Farrell JA, Gennert D, et al. Spatial reconstruction of deep phenotyping and genomic data[J]. Nature Biotechnology, 2015, 33(5): 495-502.",Fabricated
+844,non_genuine,B5,,10.1038/s41587-020-0470-y,"Replogle JM, Norman TM, Xu A, et al. Combinatorial single-cell CRISPR screens by direct of a single cell[J]. Nature Biotechnology, 2020, 38(8): 954-961.",Fabricated
+845,non_genuine,B5,,10.1126/science.aau5324,"Moffitt JR, Bambah-Mukku D, Eichhorn SW, et al. Molecular, spatial, and functional single-cell of human immune cell development[J]. Science, 2018, 362(6416): eaau5324.",Fabricated
+846,non_genuine,B5,,10.1038/nmeth.4401,"Schep AN, Wu B, Buenrostro JD, et al. chromVAR: inferring transcription-factor-associated accessibility joint analysis of open chromatin and transcriptome[J]. Nature Methods, 2017, 14(10): 975-978.",Fabricated
+847,non_genuine,B5,,10.1038/s41586-020-2308-7,"Karczewski KJ, Francioli LC, Tiao G, et al. The mutational constraint spectrum quantified Cancer Cell Line Encyclopedia[J]. Nature, 2020, 581(7809): 434-443.",Fabricated
+848,non_genuine,B5,,10.1038/s41592-020-01050-x,"Gayoso A, Steier Z, Lopez R, et al. Joint probabilistic modeling of with single-cell transcriptome readout[J]. Nature Methods, 2021, 18(3): 272-282.",Fabricated
+849,non_genuine,B5,,10.1038/s41576-019-0122-6,"Eraslan G, Avsec Z, Gagneur J, et al. Deep learning: new computational of individual cells using nanoliter droplets[J]. Nature Reviews Genetics, 2019, 20(7): 389-403.",Fabricated
+850,non_genuine,B5,,10.1038/s41586-019-1711-4,"Anzalone AV, Randolph PB, Davis JR, et al. Search-and-replace genome editing without prediction of future acute kidney injury[J]. Nature, 2019, 576(7785): 149-157.",Fabricated
+851,non_genuine,C1,tampered_author,10.1038/nature11247,"ENCODE Project Consortium. An integrated encyclopedia of DNA elements in the human genome[J]. Nature, 2012, 489(7414): 57-74.",Tampered
+852,non_genuine,C1,tampered_author,10.1038/s41467-019-09982-5,"Kaya-Okur HS, Wu SJ, oCdomo CA, et al. CUT and Tag for efficient epigenomic profiling of small samples and single cells[J]. Nature Communications, 2019, 10(1): 1930.",Tampered
+853,non_genuine,C1,tampered_author,10.1038/nmeth.3547,"ZhoW J, Troyanskaya OG. Predicting effects of noncoding variants with deep learning-based sequence model[J]. Nature Methods, 2015, 12(10): 931-934.",Tampered
+854,non_genuine,C1,tampered_author,10.1038/nature14248,"Roadmap Epigenomics Consortium, Kundaje A, MeulEman W, et al. Integrative analysis of 111 reference human epigenomes[J]. Nature, 2015, 518(7539): 317-330.",Tampered
+855,non_genuine,C1,tampered_author,10.1038/nmeth.1906,"Ernst J, Klelis M. ChromHMM: automating chromatin-state discovery and characterization[J]. Nature Methods, 2012, 9(3): 215-216.",Tampered
+856,non_genuine,C1,tampered_author,10.1016/j.cell.2021.04.048,"Hao Y, Hao S, Andersen-Nsisen E, et al. Integrated analysis of multimodal single-cell data[J]. Cell, 2021, 184(13): 3573-3587.e29.",Tampered
+857,non_genuine,C1,tampered_author,10.1038/s41586-020-2308-7,"Karczewksi KJ, Francioli LC, Tiao G, et al. The mutational constraint spectrum quantified from variation in 141,456 humans[J]. Nature, 2020, 581(7809): 434-443.",Tampered
+858,non_genuine,C1,tampered_author,10.1016/j.cell.2019.12.023,"Nusinow DP, Lzpyt J, Ghandi M, et al. Quantitative proteomics of the Cancer Cell Line Encyclopedia[J]. Cell, 2020, 180(2): 387-402.e16.",Tampered
+859,non_genuine,C1,tampered_author,10.1038/nature11247,"ENCODE Project Consortium. An integrated encyclopedia of DNA elements in the human genome[J]. Nature, 2012, 489(7414): 57-74.",Tampered
+860,non_genuine,C1,tampered_author,10.1038/s41591-018-0335-9,"Liang H, Tsui BY, iN H, et al. Evaluation and accurate diagnoses of pediatric diseases using artificial intelligence[J]. Nature Medicine, 2019, 25(3): 433-438.",Tampered
+861,non_genuine,C1,tampered_author,10.1016/j.cell.2018.06.010,"Hrolbeck MA, Xu A, Wang M, et al. Mapping the genetic landscape of human cells[J]. Cell, 2018, 174(4): 953-967.e22.",Tampered
+862,non_genuine,C1,tampered_author,10.1038/s41586-023-06415-8,"Watson JX, Juergens D, Bennett NR, et al. De novo design of protein structure and function with RFdiffusion[J]. Nature, 2023, 620(7976): 1089-1100.",Tampered
+863,non_genuine,C1,tampered_author,10.1038/d41586-022-00997-5,"Callaway E. What is next for AlphaFold and the AI protein-folding revolution[J]. Nature, 2022, 604(7905): 234-238.",Tampered
+864,non_genuine,C1,tampered_author,10.1038/nmeth.4380,"Stoeckius M, aHfemeister C, Stephenson W, et al. Simultaneous epitope and transcriptome measurement in single cells[J]. Nature Methods, 2017, 14(9): 865-868.",Tampered
+865,non_genuine,C1,tampered_author,10.1038/d41586-022-00997-5,"Callaway E. What is next for AlphaFold and the AI protein-folding revolution[J]. Nature, 2022, 604(7905): 234-238.",Tampered
+866,non_genuine,C1,tampered_author,10.1038/nature17946,"Komor AC, KIm YB, Packer MS, et al. Programmable editing of a target base in genomic DNA without double-stranded DNA cleavage[J]. Nature, 2016, 533(7603): 420-424.",Tampered
+867,non_genuine,C1,tampered_author,10.1038/ng.806,"DePristo MA, Banks E, PopLin R, et al. A framework for variation discovery and genotyping using next-generation DNA sequencing data[J]. Nature Genetics, 2011, 43(5): 491-498.",Tampered
+868,non_genuine,C1,tampered_author,10.1038/s41592-019-0548-y,"Vickovic S, rEaslan G, Salmen F, et al. High-definition spatial transcriptomics for in situ tissue profiling[J]. Nature Methods, 2019, 16(10): 987-990.",Tampered
+869,non_genuine,C1,tampered_author,10.1038/s41594-019-0323-x,"Zhu C, Uu M, Huang H, et al. An ultra high-throughput method for single-cell joint analysis of open chromatin and transcriptome[J]. Nature Structural and Molecular Biology, 2019, 26(11): 1063-1070.",Tampered
+870,non_genuine,C1,tampered_author,10.1038/nm.4306,"Corsello SM, Bittker JA, Lui Z, et al. The Drug Repurposing Hub: a next-generation drug library and information resource[J]. Nature Medicine, 2017, 23(4): 405-408.",Tampered
+871,non_genuine,C1,tampered_author,10.1038/s41592-019-0425-8,"Tain L, Dong X, Freytag S, et al. Benchmarking single cell RNA-sequencing analysis pipelines using mixture control experiments[J]. Nature Methods, 2019, 16(6): 479-487.",Tampered
+872,non_genuine,C1,tampered_author,10.1038/nmeth.4401,"Schep AN, Wu B, BuenHostro JD, et al. chromVAR: inferring transcription-factor-associated accessibility from single-cell epigenomic data[J]. Nature Methods, 2017, 14(10): 975-978.",Tampered
+873,non_genuine,C1,tampered_author,10.1016/j.cell.2019.12.023,"Nusinow DP, Szpyt J, Gahndi M, et al. Quantitative proteomics of the Cancer Cell Line Encyclopedia[J]. Cell, 2020, 180(2): 387-402.e16.",Tampered
+874,non_genuine,C1,tampered_author,10.1038/nature11247,"ENCODE Project Consortium. An integrated encyclopedia of DNA elements in the human genome[J]. Nature, 2012, 489(7414): 57-74.",Tampered
+875,non_genuine,C1,tampered_author,10.1038/s41592-019-0392-0,"Mimitou ET, Cheng A, Montalbano A, et al. Multiplexed detection of proteins, transcriptomes, clonotypes and CRISPR perturbations in single cells[J]. Nature Methods, 2019, 16(5): 409-412.",Tampered
+876,non_genuine,C1,tampered_author,10.1038/nature15393,"1000 Genomes Project Consortium. A global reference for human genetic variation[J]. Nature, 2015, 526(7571): 68-74.",Tampered
+877,non_genuine,C1,tampered_author,10.1126/science.aat5691,"Wang X, lAlen WE, Wright MA, et al. Three-dimensional intact-tissue sequencing of single-cell transcriptional states[J]. Science, 2018, 361(6400): eaat5691.",Tampered
+878,non_genuine,C1,tampered_author,10.1038/nrg3833,"Stegle O, Teichmann SA, Marioni CJ. Computational and analytical challenges in single-cell transcriptomics[J]. Nature Reviews Genetics, 2015, 16(3): 133-145.",Tampered
+879,non_genuine,C1,tampered_author,10.1038/s41588-021-00782-6,"Avsec Z, Weilert M, Shrkiumar A, et al. Base-resolution models of transcription-factor binding reveal soft motif syntax[J]. Nature Genetics, 2021, 53(3): 354-366.",Tampered
+880,non_genuine,C1,tampered_author,10.1126/science.1258096,"Doudna JA, Chrapentier E. The new frontier of genome engineering with CRISPR-Cas9[J]. Science, 2014, 346(6213): 1258096.",Tampered
+881,non_genuine,C1,tampered_author,10.1038/s41591-018-0268-3,"Hnanun AY, Rajpurkar P, Haghpanahi M, et al. Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network[J]. Nature Medicine, 2019, 25(1): 65-69.",Tampered
+882,non_genuine,C1,tampered_author,10.1038/nature24270,"Silver D, Schrittwieser J, SimonyBn K, et al. Mastering the game of Go without human knowledge[J]. Nature, 2017, 550(7676): 354-359.",Tampered
+883,non_genuine,C1,tampered_author,10.1038/nmeth.4401,"Schep AN, WJ B, Buenrostro JD, et al. chromVAR: inferring transcription-factor-associated accessibility from single-cell epigenomic data[J]. Nature Methods, 2017, 14(10): 975-978.",Tampered
+884,non_genuine,C1,tampered_author,10.1038/nmeth.2688,"Buenrsotro JD, Giresi PG, Zaba LC, et al. Transposition of native chromatin for fast and sensitive epigenomic profiling[J]. Nature Methods, 2013, 10(12): 1213-1218.",Tampered
+885,non_genuine,C1,tampered_author,10.1038/s41586-018-0414-6,"aL Manno G, Soldatov R, Zeisel A, et al. RNA velocity of single cells[J]. Nature, 2018, 560(7719): 494-498.",Tampered
+886,non_genuine,C1,tampered_author,10.1038/s41586-019-1923-7,"eSnior AW, Evans R, Jumper J, et al. Improved protein structure prediction using potentials from deep learning[J]. Nature, 2020, 577(7792): 706-710.",Tampered
+887,non_genuine,C1,tampered_author,10.1126/science.1231143,"Cong L, Ran FA, Pox D, et al. Multiplex genome engineering using CRISPR/Cas systems[J]. Science, 2013, 339(6121): 819-823.",Tampered
+888,non_genuine,C1,tampered_author,10.1038/s41587-020-0470-y,"Replogle MJ, Norman TM, Xu A, et al. Combinatorial single-cell CRISPR screens by direct guide RNA capture and targeted sequencing[J]. Nature Biotechnology, 2020, 38(8): 954-961.",Tampered
+889,non_genuine,C1,tampered_author,10.1016/j.cell.2015.04.044,"Klein AM, Mazutis L, Akartuan I, et al. Droplet barcoding for single-cell transcriptomics applied to embryonic stem cells[J]. Cell, 2015, 161(5): 1187-1201.",Tampered
+890,non_genuine,C1,tampered_author,10.1038/s41467-019-11559-1,"CarAer B, Ku WL, Kang JY, et al. Mapping histone modifications in low cell number and single cells using antibody-guided chromatin tagmentation (ACT-seq)[J]. Nature Communications, 2019, 10(1): 3747.",Tampered
+891,non_genuine,C2,tampered_journal,10.1038/ng.806,"DePristo MA, Banks E, Poplin R, et al. A framework for variation discovery and genotyping using next-generation DNA sequencing data[J]. Natural Genetics, 2011, 43(5): 491-498.",Tampered
+892,non_genuine,C2,tampered_journal,10.1126/science.aau5324,"Moffitt JR, Bambah-Mukku D, Eichhorn SW, et al. Molecular, spatial, and functional single-cell profiling of the hypothalamic preoptic region[J]. Sciences, 2018, 362(6416): eaau5324.",Tampered
+893,non_genuine,C2,tampered_journal,10.1038/nm.4306,"Corsello SM, Bittker JA, Liu Z, et al. The Drug Repurposing Hub: a next-generation drug library and information resource[J]. Natural Medicine, 2017, 23(4): 405-408.",Tampered
+894,non_genuine,C2,tampered_journal,10.1038/s41467-021-21583-9,"Fang R, Preissl S, Li Y, et al. Comprehensive analysis of single cell ATAC-seq data with SnapATAC[J]. Natural Communications, 2021, 12(1): 1337.",Tampered
+895,non_genuine,C2,tampered_journal,10.1038/nature17946,"Komor AC, Kim YB, Packer MS, et al. Programmable editing of a target base in genomic DNA without double-stranded DNA cleavage[J]. Naiure, 2016, 533(7603): 420-424.",Tampered
+896,non_genuine,C2,tampered_journal,10.1038/nature14539,"LeCun Y, Bengio Y, Hinton G. Deep learning[J]. Naaure, 2015, 521(7553): 436-444.",Tampered
+897,non_genuine,C2,tampered_journal,10.1016/j.cell.2017.10.049,"Subramanian A, Narayan R, Corsello SM, et al. A next generation connectivity map: L1000 platform and the first 1,000,000 profiles[J]. Cellular, 2017, 171(6): 1437-1452.e17.",Tampered
+898,non_genuine,C2,tampered_journal,10.1038/nrg3833,"Stegle O, Teichmann SA, Marioni JC. Computational and analytical challenges in single-cell transcriptomics[J]. Natural Reviews Genetics, 2015, 16(3): 133-145.",Tampered
+899,non_genuine,C2,tampered_journal,10.1038/nmeth.4401,"Schep AN, Wu B, Buenrostro JD, et al. chromVAR: inferring transcription-factor-associated accessibility from single-cell epigenomic data[J]. Natural Methods, 2017, 14(10): 975-978.",Tampered
+900,non_genuine,C2,tampered_journal,10.1126/science.1132939,"Lamb J, Crawford ED, Peck D, et al. The Connectivity Map: using gene-expression signatures to connect small molecules, genes, and disease[J]. Sciences, 2006, 313(5795): 1929-1935.",Tampered
+901,non_genuine,C2,tampered_journal,10.1038/s41587-019-0147-6,"Lareau CA, Duarte FM, Chew JG, et al. Droplet-based combinatorial indexing for massive-scale single-cell chromatin accessibility[J]. Natural Biotechnology, 2019, 37(8): 916-924.",Tampered
+902,non_genuine,C2,tampered_journal,10.1038/nm.4306,"Corsello SM, Bittker JA, Liu Z, et al. The Drug Repurposing Hub: a next-generation drug library and information resource[J]. Natural Medicine, 2017, 23(4): 405-408.",Tampered
+903,non_genuine,C2,tampered_journal,10.1038/nature16961,"Silver D, Huang A, Maddison CJ, et al. Mastering the game of Go with deep neural networks and tree search[J]. Naturi, 2016, 529(7587): 484-489.",Tampered
+904,non_genuine,C2,tampered_journal,10.1038/s41587-021-00869-9,"Bartosovic M, Kabbe M, Castelo-Branco G. Single-cell CUT and Tag profiles histone modifications and transcription factors in complex tissues[J]. Natural Biotechnology, 2021, 39(7): 825-835.",Tampered
+905,non_genuine,C2,tampered_journal,10.1038/nature24270,"Silver D, Schrittwieser J, Simonyan K, et al. Mastering the game of Go without human knowledge[J]. Natore, 2017, 550(7676): 354-359.",Tampered
+906,non_genuine,C2,tampered_journal,10.1038/nature21350,"Tanay A, Regev A. Scaling single-cell genomics from phenomenology to mechanism[J]. iature, 2017, 541(7637): 331-338.",Tampered
+907,non_genuine,C2,tampered_journal,10.1056/NEJMoa2405182,"Ridker PM, Moorthy MV, Cook NR, et al. Inflammation, cholesterol, lipoprotein(a), and 30-year cardiovascular outcomes in women[J]. New England Journal of Medical, 2024, 391(22): 2087-2097.",Tampered
+908,non_genuine,C2,tampered_journal,10.1038/s41587-021-00927-2,"Mimitou EP, Lareau CA, Chen KY, et al. Scalable, multimodal profiling of chromatin accessibility, gene expression and protein levels in single cells[J]. Natural Biotechnology, 2021, 39(10): 1246-1258.",Tampered
+909,non_genuine,C2,tampered_journal,10.1038/nmeth.4396,"Corces MR, Trevino AE, Hamilton EG, et al. An improved ATAC-seq protocol reduces background and enables interrogation of frozen tissues[J]. Natural Methods, 2017, 14(10): 959-962.",Tampered
+910,non_genuine,C2,tampered_journal,10.1016/j.cell.2018.06.010,"Horlbeck MA, Xu A, Wang M, et al. Mapping the genetic landscape of human cells[J]. Cellular, 2018, 174(4): 953-967.e22.",Tampered
+911,non_genuine,C2,tampered_journal,10.1038/s41586-019-1049-y,"Eng CL, Lawson M, Zhu Q, et al. Transcriptome-scale super-resolved imaging in tissues by RNA seqFISH+[J]. Neture, 2019, 568(7751): 235-239.",Tampered
+912,non_genuine,C2,tampered_journal,10.1038/s41592-018-0229-2,"Lopez R, Regier J, Cole MB, et al. Deep generative modeling for single-cell transcriptomics[J]. Natural Methods, 2018, 15(12): 1053-1058.",Tampered
+913,non_genuine,C2,tampered_journal,10.1038/s41588-021-00782-6,"Avsec Z, Weilert M, Shrikumar A, et al. Base-resolution models of transcription-factor binding reveal soft motif syntax[J]. Natural Genetics, 2021, 53(3): 354-366.",Tampered
+914,non_genuine,C2,tampered_journal,10.1016/j.cell.2016.11.038,"Dixit A, Parnas O, Li B, et al. Perturb-Seq: Dissecting molecular circuits with scalable single-cell RNA profiling of pooled genetic screens[J]. Cellular, 2016, 167(7): 1853-1866.e17.",Tampered
+915,non_genuine,C2,tampered_journal,10.1038/s41592-020-0837-5,"Schraivogel D, Gschwind AR, Milbank JH, et al. Targeted Perturb-seq enables genome-scale genetic screens in single cells[J]. Natural Methods, 2020, 17(6): 629-635.",Tampered
+916,non_genuine,C2,tampered_journal,10.1038/nbt.4235,"Poplin R, Chang PC, Alexander D, et al. A universal SNP and small-indel variant caller using deep neural networks[J]. Natural Biotechnology, 2018, 36(10): 983-987.",Tampered
+917,non_genuine,C2,tampered_journal,10.1038/nature24644,"Gaudelli NM, Komor AC, Rees HA, et al. Programmable base editing of A*T to G*C in genomic DNA without DNA cleavage[J]. Naturi, 2017, 551(7681): 464-471.",Tampered
+918,non_genuine,C2,tampered_journal,10.1126/science.1231143,"Cong L, Ran FA, Cox D, et al. Multiplex genome engineering using CRISPR/Cas systems[J]. Sciences, 2013, 339(6121): 819-823.",Tampered
+919,non_genuine,C2,tampered_journal,10.1038/s41467-019-11559-1,"Carter B, Ku WL, Kang JY, et al. Mapping histone modifications in low cell number and single cells using antibody-guided chromatin tagmentation (ACT-seq)[J]. Natural Communications, 2019, 10(1): 3747.",Tampered
+920,non_genuine,C2,tampered_journal,10.1038/nbt.3300,"Alipanahi B, Delong A, Weirauch MT, et al. Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning[J]. Natural Biotechnology, 2015, 33(8): 831-838.",Tampered
+921,non_genuine,C2,tampered_journal,10.1038/s41587-021-00902-x,"Liscovitch-Brauer N, Montalbano A, Deng J, et al. Profiling the genetic determinants of chromatin accessibility with scalable single-cell CRISPR screens[J]. Natural Biotechnology, 2021, 39(10): 1270-1277.",Tampered
+922,non_genuine,C2,tampered_journal,10.1038/d41586-022-00997-5,"Callaway E. What is next for AlphaFold and the AI protein-folding revolution[J]. Natuae, 2022, 604(7905): 234-238.",Tampered
+923,non_genuine,C2,tampered_journal,10.1038/s41586-019-1711-4,"Anzalone AV, Randolph PB, Davis JR, et al. Search-and-replace genome editing without double-strand breaks or donor DNA[J]. Nauure, 2019, 576(7785): 149-157.",Tampered
+924,non_genuine,C2,tampered_journal,10.1038/s41592-022-01461-y,"Chen AF, Parks B, Kathiria AS, et al. NEAT-seq: simultaneous profiling of intra-nuclear proteins, chromatin accessibility and gene expression in single cells[J]. Natural Methods, 2022, 19(5): 547-553.",Tampered
+925,non_genuine,C2,tampered_journal,10.1038/nmeth.1315,"Tang F, Barbacioru C, Wang Y, et al. mRNA-Seq whole-transcriptome analysis of a single cell[J]. Natural Methods, 2009, 6(5): 377-382.",Tampered
+926,non_genuine,C2,tampered_journal,10.1038/s41587-019-0206-z,"Satpathy AT, Granja JM, Yost KE, et al. Massively parallel single-cell chromatin landscapes of human immune cell development[J]. Natural Biotechnology, 2019, 37(8): 925-936.",Tampered
+927,non_genuine,C2,tampered_journal,10.1016/j.cell.2018.12.015,"Jaganathan K, Panagiotopoulou SK, et al. Predicting splicing from primary sequence with deep learning[J]. Cellular, 2019, 176(3): 535-548.e24.",Tampered
+928,non_genuine,C2,tampered_journal,10.1038/nmeth.4396,"Corces MR, Trevino AE, Hamilton EG, et al. An improved ATAC-seq protocol reduces background and enables interrogation of frozen tissues[J]. Natural Methods, 2017, 14(10): 959-962.",Tampered
+929,non_genuine,C2,tampered_journal,10.1038/s41591-019-0447-x,"Ardila D, Kiraly AP, Bharadwaj S, et al. End-to-end lung cancer screening with three-dimensional deep learning on low-dose chest computed tomography[J]. Natural Medicine, 2019, 25(6): 954-961.",Tampered
+930,non_genuine,C2,tampered_journal,10.1038/s41592-022-01461-y,"Chen AF, Parks B, Kathiria AS, et al. NEAT-seq: simultaneous profiling of intra-nuclear proteins, chromatin accessibility and gene expression in single cells[J]. Natural Methods, 2022, 19(5): 547-553.",Tampered
+931,non_genuine,C3,tampered_year_page,10.1038/ngi806,"DePristo MA, Banks E, Poplin R, et al. A framework for variation discovery and genotyping using next-generation DNA sequencing data[J]. Nature Genetics, 2011, 43(5): 491-498.",Tampered
+932,non_genuine,C3,tampered_year_page,10.1038/s415o6-021-03634-9,"Rao A, Barkley D, Franca GS, et al. Exploring tissue architecture using spatial transcriptomics[J]. Nature, 2021, 596(7871): 211-220.",Tampered
+933,non_genuine,C3,tampered_year_page,10.1038/s415862021-03205-y,"Taliun D, Harris DN, Kessler MD, et al. Sequencing of 53,831 diverse genomes from the NHLBI TOPMed Program[J]. Nature, 2021, 590(7845): 290-299.",Tampered
+934,non_genuine,C3,tampered_year_page,10.1126/scbence.aaf2403,"Stahl PL, Salmen F, Vickovic S, et al. Visualization and analysis of gene expression in tissue sections by spatial transcriptomics[J]. Science, 2016, 353(6294): 78-82.",Tampered
+935,non_genuine,C3,tampered_year_page,10.1056/NEJMoa9405182,"Ridker PM, Moorthy MV, Cook NR, et al. Inflammation, cholesterol, lipoprotein(a), and 30-year cardiovascular outcomes in women[J]. New England Journal of Medicine, 2024, 391(22): 2087-2097.",Tampered
+936,non_genuine,C3,tampered_year_page,10.1038/nmeth.4v97,"Patro R, Duggal G, Love MI, et al. Salmon provides fast and bias-aware quantification of transcript expression[J]. Nature Methods, 2017, 14(4): 417-419.",Tampered
+937,non_genuine,C3,tampered_year_page,10.1016/j.yell.2016.11.038,"Dixit A, Parnas O, Li B, et al. Perturb-Seq: Dissecting molecular circuits with scalable single-cell RNA profiling of pooled genetic screens[J]. Cell, 2016, 167(7): 1853-1866.e17.",Tampered
+938,non_genuine,C3,tampered_year_page,10.1038/s41592-0c0-01033-y,"Marx V. Method of the Year: spatially resolved transcriptomics[J]. Nature Methods, 2021, 18(1): 9-14.",Tampered
+939,non_genuine,C3,tampered_year_page,10.1038/s4158u-020-0470-y,"Replogle JM, Norman TM, Xu A, et al. Combinatorial single-cell CRISPR screens by direct guide RNA capture and targeted sequencing[J]. Nature Biotechnology, 2020, 38(8): 954-961.",Tampered
+940,non_genuine,C3,tampered_year_page,10.1126/science.aaf24y3,"Stahl PL, Salmen F, Vickovic S, et al. Visualization and analysis of gene expression in tissue sections by spatial transcriptomics[J]. Science, 2016, 353(6294): 78-82.",Tampered
+941,non_genuine,C3,tampered_year_page,10.1038/s41586-019-1049sy,"Eng CL, Lawson M, Zhu Q, et al. Transcriptome-scale super-resolved imaging in tissues by RNA seqFISH+[J]. Nature, 2019, 568(7751): 235-239.",Tampered
+942,non_genuine,C3,tampered_year_page,10.1038/s4158q-020-2308-7,"Karczewski KJ, Francioli LC, Tiao G, et al. The mutational constraint spectrum quantified from variation in 141,456 humans[J]. Nature, 2020, 581(7809): 434-443.",Tampered
+943,non_genuine,C3,tampered_year_page,10.1038/nature242w0,"Silver D, Schrittwieser J, Simonyan K, et al. Mastering the game of Go without human knowledge[J]. Nature, 2017, 550(7676): 354-359.",Tampered
+944,non_genuine,C3,tampered_year_page,10.1038/s41586-019-l969-x,"Cao J, Spielmann M, Qiu X, et al. The single-cell transcriptional landscape of mammalian organogenesis[J]. Nature, 2019, 566(7745): 496-502.",Tampered
+945,non_genuine,C3,tampered_year_page,10.1038/nature110e5,"Garnett MJ, Edelman EJ, Heidorn SJ, et al. Systematic identification of genomic markers of drug sensitivity in cancer cells[J]. Nature, 2012, 483(7391): 570-575.",Tampered
+946,non_genuine,C3,tampered_year_page,10.1038/s41467-019-09962-5,"Kaya-Okur HS, Wu SJ, Codomo CA, et al. CUT and Tag for efficient epigenomic profiling of small samples and single cells[J]. Nature Communications, 2019, 10(1): 1930.",Tampered
+947,non_genuine,C3,tampered_year_page,10.1126/science.12j6981,"Wang T, Wei JJ, Sabatini DM, et al. Genetic screens in human cells using the CRISPR-Cas9 system[J]. Science, 2014, 343(6166): 80-84.",Tampered
+948,non_genuine,C3,tampered_year_page,10.1016/j.cell.2020.u9.056,"Ma S, Zhang B, LaFave LM, et al. Chromatin potential identified by shared single-cell profiling of RNA and chromatin[J]. Cell, 2020, 183(4): 1103-1116.e20.",Tampered
+949,non_genuine,C3,tampered_year_page,10.1038/s41h87-021-00902-x,"Liscovitch-Brauer N, Montalbano A, Deng J, et al. Profiling the genetic determinants of chromatin accessibility with scalable single-cell CRISPR screens[J]. Nature Biotechnology, 2021, 39(10): 1270-1277.",Tampered
+950,non_genuine,C3,tampered_year_page,10.1016/j.cell.2018n06.010,"Horlbeck MA, Xu A, Wang M, et al. Mapping the genetic landscape of human cells[J]. Cell, 2018, 174(4): 953-967.e22.",Tampered
+951,non_genuine,C3,tampered_year_page,10.1016/j.cell.2018311.029,"Gasperini M, Hill AJ, McFaline-Figueroa JL, et al. A genome-wide framework for mapping gene regulation via cellular genetic screens[J]. Cell, 2019, 176(1-2): 377-390.e19.",Tampered
+952,non_genuine,C3,tampered_year_page,10.1038/nmeth41937,"Hoffman MM, Buske OJ, Wang J, et al. Unsupervised pattern discovery in human chromatin structure through genomic segmentation[J]. Nature Methods, 2012, 9(5): 473-476.",Tampered
+953,non_genuine,C3,tampered_year_page,10.1038/nmeth.p612,"Soneson C, Robinson MD. Bias, robustness and scalability in single-cell differential expression analysis[J]. Nature Methods, 2018, 15(4): 255-261.",Tampered
+954,non_genuine,C3,tampered_year_page,10.1038/naturek4644,"Gaudelli NM, Komor AC, Rees HA, et al. Programmable base editing of A*T to G*C in genomic DNA without DNA cleavage[J]. Nature, 2017, 551(7681): 464-471.",Tampered
+955,non_genuine,C3,tampered_year_page,10.1016/j.cell.2s15.05.002,"Macosko EZ, Basu A, Satija R, et al. Highly parallel genome-wide expression profiling of individual cells using nanoliter droplets[J]. Cell, 2015, 161(5): 1202-1214.",Tampered
+956,non_genuine,C3,tampered_year_page,10.1038/s41576-019d0122-6,"Eraslan G, Avsec Z, Gagneur J, et al. Deep learning: new computational modelling techniques for genomics[J]. Nature Reviews Genetics, 2019, 20(7): 389-403.",Tampered
+957,non_genuine,C3,tampered_year_page,10.1038/natur115393,"1000 Genomes Project Consortium. A global reference for human genetic variation[J]. Nature, 2015, 526(7571): 68-74.",Tampered
+958,non_genuine,C3,tampered_year_page,10.1126/sciencb.abl4896,"Tabula Sapiens Consortium. The Tabula Sapiens: A multiple-organ, single-cell transcriptomic atlas of humans[J]. Science, 2022, 376(6594): eabl4896.",Tampered
+959,non_genuine,C3,tampered_year_page,10.1038/s41587-027-0456-9,"Wessels HH, Mendez-Mancilla A, Guo X, et al. Massively parallel Cas13 screens reveal principles for guide RNA design[J]. Nature Biotechnology, 2020, 38(6): 722-727.",Tampered
+960,non_genuine,C3,tampered_year_page,10.1016/j.cell.20r7.10.049,"Subramanian A, Narayan R, Corsello SM, et al. A next generation connectivity map: L1000 platform and the first 1,000,000 profiles[J]. Cell, 2017, 171(6): 1437-1452.e17.",Tampered
+961,non_genuine,C3,tampered_year_page,10.1038/s41586p019-1049-y,"Eng CL, Lawson M, Zhu Q, et al. Transcriptome-scale super-resolved imaging in tissues by RNA seqFISH+[J]. Nature, 2019, 568(7751): 235-239.",Tampered
+962,non_genuine,C3,tampered_year_page,10.1038/natuee14248,"Roadmap Epigenomics Consortium, Kundaje A, Meuleman W, et al. Integrative analysis of 111 reference human epigenomes[J]. Nature, 2015, 518(7539): 317-330.",Tampered
+963,non_genuine,C3,tampered_year_page,10.1038/s41591-018-030h-7,"Topol EJ. High-performance medicine: the convergence of human and artificial intelligence[J]. Nature Medicine, 2019, 25(1): 44-56.",Tampered
+964,non_genuine,C3,tampered_year_page,10.1038/s41467-021-215x3-9,"Fang R, Preissl S, Li Y, et al. Comprehensive analysis of single cell ATAC-seq data with SnapATAC[J]. Nature Communications, 2021, 12(1): 1337.",Tampered
+965,non_genuine,C3,tampered_year_page,10.1038/s41588-01820295-5,"Zou J, Huss M, Abid A, et al. A primer on deep learning in genomics[J]. Nature Genetics, 2019, 51(1): 12-18.",Tampered
+966,non_genuine,C4,,10.1038/s41592-019-0494-8,"Lotfollahi M, Wolf FA, Theis FJ. scGen predicts single-cell perturbation responses[J]. Nature Methods, 2019, 14(8): 715-721.",Tampered
+967,non_genuine,C4,,10.1038/nbt.3519,"Bray NL, Pimentel H, Melsted P, et al. Near-optimal probabilistic RNA-seq quantification[J]. Nature Biotechnology, 2016, 35(5): 450-3895.",Tampered
+968,non_genuine,C4,,10.1038/s41587-020-0456-9,"Wessels HH, Mendez-Mancilla A, Guo X, et al. Massively parallel Cas13 screens reveal principles for guide RNA design[J]. Nature Biotechnology, 2020, 37(6): 722-727.",Tampered
+969,non_genuine,C4,,10.1038/s41592-019-0367-1,"Bravo Gonzalez-Blas C, Minnoye L, et al. cisTopic: cis-regulatory topic modeling on single-cell ATAC-seq data[J]. Nature Methods, 2019, 17(5): 646-8368.",Tampered
+970,non_genuine,C4,,10.1038/nature11005,"Garnett MJ, Edelman EJ, Heidorn SJ, et al. Systematic identification of genomic markers of drug sensitivity in cancer cells[J]. Nature, 2012, 483(7392): 570-575.",Tampered
+971,non_genuine,C4,,10.1038/s41587-019-0206-z,"Satpathy AT, Granja JM, Yost KE, et al. Massively parallel single-cell chromatin landscapes of human immune cell development[J]. Nature Biotechnology, 2019, 37(8): 971-947.",Tampered
+972,non_genuine,C4,,10.1126/science.ade2574,"Lin Z, Akin H, Rao R, et al. Evolutionary-scale prediction of atomic-level protein structure with a language model[J]. Science, 2023, 379(6637): 1116-1155.",Tampered
+973,non_genuine,C4,,10.1126/science.1232033,"Mali P, Yang L, Esvelt KM, et al. RNA-guided human genome engineering via Cas9[J]. Science, 2013, 339(6119): 823-826.",Tampered
+974,non_genuine,C4,,10.1038/nbt.3973,"Peterson VM, Zhang KX, Kumar N, et al. Multiplexed quantification of proteins and transcripts in single cells[J]. Nature Biotechnology, 2017, 35(10): 983-959.",Tampered
+975,non_genuine,C4,,10.1016/j.cell.2021.04.048,"Hao Y, Hao S, Andersen-Nissen E, et al. Integrated analysis of multimodal single-cell data[J]. Cell, 2021, 184(13): 3573-3587.e29x.",Tampered
+976,non_genuine,C4,,10.1038/nmeth.1315,"Tang F, Barbacioru C, Wang Y, et al. mRNA-Seq whole-transcriptome analysis of a single cell[J]. Nature Methods, 2009, 6(5): 376-372.",Tampered
+977,non_genuine,C4,,10.1016/j.cell.2015.04.044,"Klein AM, Mazutis L, Akartuna I, et al. Droplet barcoding for single-cell transcriptomics applied to embryonic stem cells[J]. Cell, 2015, 161(7): 1187-1201.",Tampered
+978,non_genuine,C4,,10.1038/nature15393,"1000 Genomes Project Consortium. A global reference for human genetic variation[J]. Nature, 2015, 526(7573): 68-74.",Tampered
+979,non_genuine,C4,,10.1038/s41588-018-0295-5,"Zou J, Huss M, Abid A, et al. A primer on deep learning in genomics[J]. Nature Genetics, 2019, 51(3): 12-18.",Tampered
+980,non_genuine,C4,,10.1038/nmeth.4380,"Stoeckius M, Hafemeister C, Stephenson W, et al. Simultaneous epitope and transcriptome measurement in single cells[J]. Nature Methods, 2017, 16(9): 865-868.",Tampered
+981,non_genuine,C4,,10.1126/science.aac7041,"Wang T, Birsoy K, Hughes NW, et al. Identification and characterization of essential genes in the human genome[J]. Science, 2015, 350(6262): 1096-1101.",Tampered
+982,non_genuine,C4,,10.1038/s41587-020-0470-y,"Replogle JM, Norman TM, Xu A, et al. Combinatorial single-cell CRISPR screens by direct guide RNA capture and targeted sequencing[J]. Nature Biotechnology, 2020, 38(7): 954-961.",Tampered
+983,non_genuine,C4,,10.1016/j.cell.2019.05.006,"Welch JD, Kozareva V, Ferreira A, et al. Single-cell multi-omic integration compares and contrasts features of brain cell identity[J]. Cell, 2019, 178(7): 589-6150.",Tampered
+984,non_genuine,C4,,10.1126/science.aaf2403,"Stahl PL, Salmen F, Vickovic S, et al. Visualization and analysis of gene expression in tissue sections by spatial transcriptomics[J]. Science, 2016, 354(6294): 78-82.",Tampered
+985,non_genuine,C4,,10.1038/s41587-021-00902-x,"Liscovitch-Brauer N, Montalbano A, Deng J, et al. Profiling the genetic determinants of chromatin accessibility with scalable single-cell CRISPR screens[J]. Nature Biotechnology, 2021, 40(10): 270-2423.",Tampered
+986,non_genuine,C4,,10.1126/science.abl4896,"Tabula Sapiens Consortium. The Tabula Sapiens: A multiple-organ, single-cell transcriptomic atlas of humans[J]. Science, 2022, 375(6594): eabl4896.",Tampered
+987,non_genuine,C4,,10.1038/75556,"Ashburner M, Ball CA, Blake JA, et al. Gene Ontology: tool for the unification of biology[J]. Nature Genetics, 2000, 25(1): 73-1.",Tampered
+988,non_genuine,C4,,10.1038/nature17946,"Komor AC, Kim YB, Packer MS, et al. Programmable editing of a target base in genomic DNA without double-stranded DNA cleavage[J]. Nature, 2016, 532(7603): 707-3735.",Tampered
+989,non_genuine,C4,,10.1038/nature11005,"Garnett MJ, Edelman EJ, Heidorn SJ, et al. Systematic identification of genomic markers of drug sensitivity in cancer cells[J]. Nature, 2012, 481(7391): 570-575.",Tampered
+990,non_genuine,C4,,10.1038/s41586-018-0414-6,"La Manno G, Soldatov R, Zeisel A, et al. RNA velocity of single cells[J]. Nature, 2018, 560(7717): 494-498.",Tampered
+991,non_genuine,C4,,10.1038/s41593-020-00787-0,"Maynard KR, Collado-Torres L, Weber LM, et al. Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex[J]. Nature Neuroscience, 2021, 24(1): 425-436.",Tampered
+992,non_genuine,C4,,10.1038/s41587-021-00869-9,"Bartosovic M, Kabbe M, Castelo-Branco G. Single-cell CUT and Tag profiles histone modifications and transcription factors in complex tissues[J]. Nature Biotechnology, 2021, 38(7): 851-8435.",Tampered
+993,non_genuine,C4,,10.1038/ng.3984,"Meyers RM, Bryan JG, McFarland JM, et al. Computational correction of copy number effect improves specificity of CRISPR-Cas9 essentiality screens in cancer cells[J]. Nature Genetics, 2017, 50(12): 1779-1784.",Tampered
+994,non_genuine,C4,,10.1126/science.ade2574,"Lin Z, Akin H, Rao R, et al. Evolutionary-scale prediction of atomic-level protein structure with a language model[J]. Science, 2023, 379(6637): 1108-1142.",Tampered
+995,non_genuine,C4,,10.1038/nature16961,"Silver D, Huang A, Maddison CJ, et al. Mastering the game of Go with deep neural networks and tree search[J]. Nature, 2016, 529(7585): 484-489.",Tampered
+996,non_genuine,C4,,10.1038/nmeth.1315,"Tang F, Barbacioru C, Wang Y, et al. mRNA-Seq whole-transcriptome analysis of a single cell[J]. Nature Methods, 2009, 6(5): 404-428.",Tampered
+997,non_genuine,C4,,10.1038/s41586-019-1186-3,"Ghandi M, Huang FW, Jane-Valbuena J, et al. Next-generation characterization of the Cancer Cell Line Encyclopedia[J]. Nature, 2019, 569(7757): 489-479.",Tampered
+998,non_genuine,C4,,10.1038/s41587-021-00927-2,"Mimitou EP, Lareau CA, Chen KY, et al. Scalable, multimodal profiling of chromatin accessibility, gene expression and protein levels in single cells[J]. Nature Biotechnology, 2021, 39(10): 1212-1259.",Tampered
+999,non_genuine,C4,,10.1016/j.cell.2018.11.029,"Gasperini M, Hill AJ, McFaline-Figueroa JL, et al. A genome-wide framework for mapping gene regulation via cellular genetic screens[J]. Cell, 2019, 176(1-2): 377-390.e19x.",Tampered
+1000,non_genuine,C4,,10.1038/ncomms14049,"Zheng GXY, Terry JM, Belgrader P, et al. Massively parallel digital transcriptional profiling of single cells[J]. Nature Communications, 2017, 8(2): 14049.",Tampered
