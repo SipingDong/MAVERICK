@@ -1,8 +1,6 @@
 # MAVERICK: Validation Dataset and Analysis Code
 
 > **MAVERICK: Breaking the FPR–FNR Seesaw in LLM Output Verification Through Strategy-Differentiated Multi-Agent Consensus**
->
-> Dong Bo, Xiao Jingjing, Li Hao. Submitted to *Nature Machine Intelligence*.
 
 ## Contents
 
