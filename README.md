@@ -1,4 +1,4 @@
-# MAVERICK: Validation Dataset and Analysis Code
+# MAVERICK: Validation Dataset and Analysis Code (v8, N=5094)
 
 > **MAVERICK: Breaking the FPR–FNR Seesaw in LLM Output Verification Through Strategy-Differentiated Multi-Agent Consensus**
 
@@ -8,26 +8,46 @@
 MAVERICK_deposit/
 ├── README.md
 ├── dataset/
-│   ├── MAVERICK_validation_dataset.csv    # N=1,000 references with gold-standard labels
-│   └── MAVERICK_validation_dataset.json   # Same data in JSON
+│   ├── MAVERICK_validation_dataset.csv    # N=5,094 references with gold-standard labels
+│   ├── MAVERICK_validation_dataset.json   # Same data in JSON
+│   └── legacy_v1_N1000/                   # Archived v1 dataset (N=1,000), kept for reference
 └── code/
-    └── reproduce_analysis.py              # Single entry point: reproduces all paper statistics
+    ├── reproduce_analysis.py              # Single entry point: reproduces all paper statistics
+    └── convert_master_to_deposit.py       # Master dataset (jsonl) → deposit CSV/JSON converter
 ```
 
 ## Dataset
 
-N=1,000 references in GB/T 7714-2025 format, each annotated with:
+N=5,094 references, each annotated with:
 
 | Field | Description |
 |-------|-------------|
-| `id` | Reference number (1–1000) |
+| `id` | Unique reference ID (M0000–M5093) |
 | `truth` | `genuine` or `non_genuine` |
-| `category` | Subcategory (A1–A5 genuine, B1–B3 fabricated, C1–C3 tampered) |
+| `category` | `authentic` / `fabricated` / `tampered` / `wild` |
+| `subtype` | Finer subcategory (where applicable) |
 | `doi` | DOI string (where applicable) |
-| `reference` | Full GB/T 7714-2025 formatted citation |
-| `source` | Verification source |
+| `reference` | Full citation, verbatim |
+| `source` | Verification source / notes |
 
-**Composition:** 550 genuine + 450 non-genuine (300 fabricated + 150 tampered).
+**Composition (gold labels):**
+
+| Category | Count |
+|----------|-------|
+| authentic | 2,788 |
+| fabricated | 1,280 |
+| tampered | 602 |
+| wild | 424 |
+| **Total** | **5,094** |
+
+## Results (from the v8 summary report, 26 verification batches)
+
+- **Unambiguous verdict rate: 93.4%** (4,757/5,094; genuine 2,670 + fabricated 1,585 + tampered 502)
+- **Fabricated-reference detection: 100%** (1,280/1,280, zero misses)
+- **System-level FPR: 0%** — 95% CI upper bound **0.059%** (Clopper-Pearson, N=5,094)
+- **System-level FNR ≈ 0%** (verifier-error definition)
+- **p³ theorem**: FPR_sys = p_A×p_B×p_C = 2.4×10⁻⁵ under conditional independence; worst-case correlated bound 3.4×10⁻⁵
+- **Gaussian copula sensitivity**: ρ=0.1 → 3.7×, ρ=0.3 → 21.7× inflation vs independence
 
 ## Reproducing Results
 
@@ -35,13 +55,12 @@ N=1,000 references in GB/T 7714-2025 format, each annotated with:
 python code/reproduce_analysis.py
 ```
 
-Outputs all statistics reported in the paper:
-- **Fleiss' κ = 0.9704** — three-agent agreement (Landis & Koch: almost perfect)
-- **System-level FPR = 0%** — 95% CI upper bound: 0.66% (Clopper-Pearson)
-- **System-level FNR = 3.3%** — 18/550 escalated for human review
-- **Error independence** — Φ coefficients, Fisher's exact tests, Monte Carlo power
-- **Spearman-Brown prophecy** — diminishing reliability returns from k > 3
-- **p³ theorem** — numerical verification (≤ 2.4×10⁻⁵)
+Outputs all statistics reported in the paper (v8):
+- Dataset composition (read directly from the released CSV)
+- Verifier verdict distribution
+- System-level FPR / FNR with Clopper-Pearson 95% CI
+- p³ theorem numerical verification
+- Error-correlation (Gaussian copula) sensitivity analysis
 
 Dependencies: `numpy`, `scipy`.
 
