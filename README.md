@@ -70,4 +70,4 @@ MIT License.
 
 ## Citation
 
-If you use this dataset or code, please cite the MAVERICK paper (DOI forthcoming).
+If you use this dataset or code, please cite the MAVERICK paper. Dataset deposited at Zenodo: [10.5281/zenodo.21975064](https://doi.org/10.5281/zenodo.21975064).
