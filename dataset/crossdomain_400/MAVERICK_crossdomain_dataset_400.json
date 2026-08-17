@@ -1,0 +1,3219 @@
+{
+  "dataset": "MAVERICK Cross-Domain Validation Dataset (N=400)",
+  "version": "400",
+  "record_count": 400,
+  "description": "Companion dataset for the Extended Data cross-domain validation experiments of the MAVERICK paper. Four sources (US legal, CN legal, US clinical, CN clinical), each N=100 with 50 genuine / 30 manipulated / 20 in-the-wild, gold-standard verified programmatically via authoritative primary-key lookup.",
+  "label_legend": {
+    "category": {
+      "genuine": "verified genuine record (primary key hits authoritative registry)",
+      "manipulated": "single-field tampered record (primary key not found -> false)",
+      "in_the_wild": "synthetic-wild hallucinated record (primary key not found -> false)"
+    },
+    "truth": {
+      "genuine": "true",
+      "non-genuine": "false"
+    }
+  },
+  "records": [
+    {
+      "id": "US-L-001",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "44 U.S.C. § 3501 (Purposes).",
+      "primary_key": "44-3501"
+    },
+    {
+      "id": "US-L-002",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See 17 U.S.C. § 102 (2018) — Subject matter of copyright: In general.",
+      "primary_key": "17-102"
+    },
+    {
+      "id": "US-L-003",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See 42 U.S.C. § 1983 (2018).",
+      "primary_key": "42-1983"
+    },
+    {
+      "id": "US-L-004",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See generally 15 U.S.C. § 1 (West 2022) (providing the statutory basis).",
+      "primary_key": "15-1"
+    },
+    {
+      "id": "US-L-005",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See 28 U.S.C. §2255.",
+      "primary_key": "28-2255"
+    },
+    {
+      "id": "US-L-006",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See 42 U.S.C. § 12101 (2018).",
+      "primary_key": "42-12101"
+    },
+    {
+      "id": "US-L-007",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See 5 U.S.C. § 552 (West 2022) — Public information; agency rules, opinions, orders, records, and proceedings.",
+      "primary_key": "05-552"
+    },
+    {
+      "id": "US-L-008",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See 29 U.S.C. §151.",
+      "primary_key": "29-151"
+    },
+    {
+      "id": "US-L-009",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See 28 U.S.C. § 1291 (2018) — Final decisions of district courts.",
+      "primary_key": "28-1291"
+    },
+    {
+      "id": "US-L-010",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "Section 621 of 29 U.S.C., 29 U.S.C. § 621 (West 2022).",
+      "primary_key": "29-621"
+    },
+    {
+      "id": "US-L-011",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See 42 U.S.C. §2000d — Prohibition against exclusion from participation in, denial of benefits of, and discrimination under federally assisted programs on ground of race, color, or national origin.",
+      "primary_key": "42-2000d"
+    },
+    {
+      "id": "US-L-012",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "Under 28 U.S.C. §1332, “Diversity of citizenship; amount in controversy; costs,” a plaintiff may seek redress.",
+      "primary_key": "28-1332"
+    },
+    {
+      "id": "US-L-013",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "18 U.S.C. §922 (Unlawful acts).",
+      "primary_key": "18-922"
+    },
+    {
+      "id": "US-L-014",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "Section 1681 of 20 U.S.C., 20 U.S.C. § 1681.",
+      "primary_key": "20-1681"
+    },
+    {
+      "id": "US-L-015",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "Section 1232g of 20 U.S.C., 20 U.S.C. §1232g.",
+      "primary_key": "20-1232g"
+    },
+    {
+      "id": "US-L-016",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See 47 U.S.C. § 151 (2018) — Purposes of chapter; Federal Communications Commission created.",
+      "primary_key": "47-151"
+    },
+    {
+      "id": "US-L-017",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See 18 U.S.C. §1344.",
+      "primary_key": "18-1344"
+    },
+    {
+      "id": "US-L-018",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "35 U.S.C. § 101 (2018) (Inventions patentable).",
+      "primary_key": "35-101"
+    },
+    {
+      "id": "US-L-019",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See generally 18 U.S.C. § 956 (providing the statutory basis).",
+      "primary_key": "18-956"
+    },
+    {
+      "id": "US-L-020",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See 7 U.S.C. §7755.",
+      "primary_key": "07-7755"
+    },
+    {
+      "id": "US-L-021",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "Section 50309 of 46 U.S.C., 46 U.S.C. § 50309 (2018).",
+      "primary_key": "46-50309"
+    },
+    {
+      "id": "US-L-022",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See 10 U.S.C. § 4102 (2018).",
+      "primary_key": "10-4102"
+    },
+    {
+      "id": "US-L-023",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "Section 288b of 42 U.S.C., 42 U.S.C. § 288b (2018).",
+      "primary_key": "42-288b"
+    },
+    {
+      "id": "US-L-024",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "40 U.S.C. §3705 (Safety programs).",
+      "primary_key": "40-3705"
+    },
+    {
+      "id": "US-L-025",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "Section 3115 of 16 U.S.C., 16 U.S.C. § 3115 (2018).",
+      "primary_key": "16-3115"
+    },
+    {
+      "id": "US-L-026",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "22 U.S.C. §1451 (Assignment of Government employees to requesting countries; governing regulations).",
+      "primary_key": "22-1451"
+    },
+    {
+      "id": "US-L-027",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "42 U.S.C. §1862o–2 (Reporting of research results).",
+      "primary_key": "42-1862o–2"
+    },
+    {
+      "id": "US-L-028",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See generally 43 U.S.C. § 50–1 (West 2022) (providing the statutory basis).",
+      "primary_key": "43-50–1"
+    },
+    {
+      "id": "US-L-029",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See generally 42 U.S.C. § 7509a (West 2022) (providing the statutory basis).",
+      "primary_key": "42-7509a"
+    },
+    {
+      "id": "US-L-030",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See 39 U.S.C. § 3629 (West 2022) — Reduced rates for voter registration purposes.",
+      "primary_key": "39-3629"
+    },
+    {
+      "id": "US-L-031",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "Section 509 of 47 U.S.C., 47 U.S.C. § 509.",
+      "primary_key": "47-509"
+    },
+    {
+      "id": "US-L-032",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See 33 U.S.C. § 2606 (West 2022).",
+      "primary_key": "33-2606"
+    },
+    {
+      "id": "US-L-033",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See generally 28 U.S.C. § 2350 (2018) (providing the statutory basis).",
+      "primary_key": "28-2350"
+    },
+    {
+      "id": "US-L-034",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See 40 U.S.C. § 3177 — Use of photovoltaic energy in public buildings.",
+      "primary_key": "40-3177"
+    },
+    {
+      "id": "US-L-035",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See generally 10 U.S.C. § 223a (2018) (providing the statutory basis).",
+      "primary_key": "10-223a"
+    },
+    {
+      "id": "US-L-036",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See 5 U.S.C. §8440f.",
+      "primary_key": "05-8440f"
+    },
+    {
+      "id": "US-L-037",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See generally 15 U.S.C. § 78q–2 (providing the statutory basis).",
+      "primary_key": "15-78q–2"
+    },
+    {
+      "id": "US-L-038",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See generally 38 U.S.C. § 8109 (West 2022) (providing the statutory basis).",
+      "primary_key": "38-8109"
+    },
+    {
+      "id": "US-L-039",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See 36 U.S.C. § 90101 (2018) — Organization.",
+      "primary_key": "36-90101"
+    },
+    {
+      "id": "US-L-040",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See 38 U.S.C. § 8241 (2018).",
+      "primary_key": "38-8241"
+    },
+    {
+      "id": "US-L-041",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "15 U.S.C. § 8515 (West 2022) (Weather research and development planning).",
+      "primary_key": "15-8515"
+    },
+    {
+      "id": "US-L-042",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See 13 U.S.C. § 302.",
+      "primary_key": "13-302"
+    },
+    {
+      "id": "US-L-043",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "Section 3507 of 50 U.S.C., 50 U.S.C. §3507.",
+      "primary_key": "50-3507"
+    },
+    {
+      "id": "US-L-044",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See generally 4 U.S.C. § 122 (West 2022) (providing the statutory basis).",
+      "primary_key": "04-122"
+    },
+    {
+      "id": "US-L-045",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See 5 U.S.C. § 3349a — Presidential inaugural transitions.",
+      "primary_key": "05-3349a"
+    },
+    {
+      "id": "US-L-046",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See generally 16 U.S.C. § 202a (providing the statutory basis).",
+      "primary_key": "16-202a"
+    },
+    {
+      "id": "US-L-047",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "Section 2905 of 14 U.S.C., 14 U.S.C. § 2905 (West 2022).",
+      "primary_key": "14-2905"
+    },
+    {
+      "id": "US-L-048",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "Section 4210 of 12 U.S.C., 12 U.S.C. § 4210.",
+      "primary_key": "12-4210"
+    },
+    {
+      "id": "US-L-049",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See 16 U.S.C. § 939c (West 2022).",
+      "primary_key": "16-939c"
+    },
+    {
+      "id": "US-L-050",
+      "source": "US-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "See generally 7 U.S.C. §9204 (providing the statutory basis).",
+      "primary_key": "07-9204"
+    },
+    {
+      "id": "US-L-051",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "See 16 U.S.C. § 260 (West 2022) — Establishment; description of area.",
+      "primary_key": "16-261->16-260"
+    },
+    {
+      "id": "US-L-052",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "Under 42 U.S.C. § 400, “Disability provisions inapplicable if benefit rights impaired,” a plaintiff may seek redress.",
+      "primary_key": "42-420->42-400"
+    },
+    {
+      "id": "US-L-053",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "Under 16 U.S.C. §3646, “Savings provision,” a plaintiff may seek redress.",
+      "primary_key": "16-3643->16-3646"
+    },
+    {
+      "id": "US-L-054",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "Under 51 U.S.C. §40110, “Aviation weather research,” a plaintiff may seek redress.",
+      "primary_key": "51-40115->51-40110"
+    },
+    {
+      "id": "US-L-055",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "See 7 U.S.C. §2350 — Form of papers filed.",
+      "primary_key": "07-2352->07-2350"
+    },
+    {
+      "id": "US-L-056",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "See 30 U.S.C. § 220 (West 2022) — Preference right to permits or leases of claimants of lands bona fide entered as agricultural land; terms and conditions.",
+      "primary_key": "30-229->30-220"
+    },
+    {
+      "id": "US-L-057",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "See 10 U.S.C. §1421 — Annuities in addition to other payments.",
+      "primary_key": "10-1441->10-1421"
+    },
+    {
+      "id": "US-L-058",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "Section 4100 of 14 U.S.C., 14 U.S.C. § 4100 (West 2022).",
+      "primary_key": "14-4103->14-4100"
+    },
+    {
+      "id": "US-L-059",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "See 42 U.S.C. §1406c — Expenses of uncompensated advisers serving United States Housing Authority away from home.",
+      "primary_key": "42-1406b->42-1406c"
+    },
+    {
+      "id": "US-L-060",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "Section 7321 of 46 U.S.C., 46 U.S.C. §7321.",
+      "primary_key": "46-7311->46-7321"
+    },
+    {
+      "id": "US-L-061",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "See 15 U.S.C. §423d — Acceptance and disposition of gifts.",
+      "primary_key": "16-423d->15-423d"
+    },
+    {
+      "id": "US-L-062",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "25 U.S.C. § 4959 (Taxes on failures by hospital organizations).",
+      "primary_key": "26-4959->25-4959"
+    },
+    {
+      "id": "US-L-063",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "See 47 U.S.C. §1469b — Auditing of transactions of territorial and local governments.",
+      "primary_key": "48-1469b->47-1469b"
+    },
+    {
+      "id": "US-L-064",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "See 24 U.S.C. § 312.",
+      "primary_key": "25-312->24-312"
+    },
+    {
+      "id": "US-L-065",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "See generally 42 U.S.C. § 1460 (West 2022) (providing the statutory basis).",
+      "primary_key": "43-1460->42-1460"
+    },
+    {
+      "id": "US-L-066",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "Under 29 U.S.C. § 189 (West 2022), “Rules and regulations; boundary lines; State rights unaffected; taxation,” a plaintiff may seek redress.",
+      "primary_key": "30-189->29-189"
+    },
+    {
+      "id": "US-L-067",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "Section 580j of 15 U.S.C., 15 U.S.C. § 580j (2018).",
+      "primary_key": "16-580j->15-580j"
+    },
+    {
+      "id": "US-L-068",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "See 42 U.S.C. § 763 — Deposits in Louisiana applicable to resurveys.",
+      "primary_key": "43-763->42-763"
+    },
+    {
+      "id": "US-L-069",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "See 21 U.S.C. § 285 (West 2022) — Acceptance of membership by United States in Asian Development Bank.",
+      "primary_key": "22-285->21-285"
+    },
+    {
+      "id": "US-L-070",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "See 30 U.S.C. §568 — Acceptance of donations by Secretary.",
+      "primary_key": "29-568->30-568"
+    },
+    {
+      "id": "US-L-071",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "Under 49 U.S.C. § 49109 (2018), “The Nonstop flights,” a plaintiff may seek redress.",
+      "primary_key": "49-49109"
+    },
+    {
+      "id": "US-L-072",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "See 28a U.S.C. § 703 — Bases of the an Expert’s Opinion Testimony.",
+      "primary_key": "28a-703"
+    },
+    {
+      "id": "US-L-073",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "Under 10 U.S.C. § 7456 (2018), “Use of the certain gifts,” a plaintiff may seek redress.",
+      "primary_key": "10-7456"
+    },
+    {
+      "id": "US-L-074",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "See 36 U.S.C. § 154707 — Exclusive right to name, seals, emblems, or badges.",
+      "primary_key": "36-154707"
+    },
+    {
+      "id": "US-L-075",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "Under 16 U.S.C. § 3507 (West 2022), “Priority of the laws,” a plaintiff may seek redress.",
+      "primary_key": "16-3507"
+    },
+    {
+      "id": "US-L-076",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "See 7 U.S.C. § 51a — Extension of the classification facilities to cotton growers.",
+      "primary_key": "07-51a"
+    },
+    {
+      "id": "US-L-077",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "Under 16 U.S.C. § 1457 (West 2022), “The Public hearings,” a plaintiff may seek redress.",
+      "primary_key": "16-1457"
+    },
+    {
+      "id": "US-L-078",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "See 20 U.S.C. § 112 — Enforcement of the section 111.",
+      "primary_key": "20-112"
+    },
+    {
+      "id": "US-L-079",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "See 16 U.S.C. § 255 — Effect on existing homestead, mineral, etc., entries; revision of the boundaries.",
+      "primary_key": "16-255"
+    },
+    {
+      "id": "US-L-080",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "Under 44 U.S.C. § 2114 (2018), “Preservation of audio or visual records,” a plaintiff may seek redress.",
+      "primary_key": "44-2114"
+    },
+    {
+      "id": "US-L-081",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "Section 61234 of Title 26 of the United States Code (Federal Digital Privacy Protection Act of 2021).",
+      "primary_key": "26-61234"
+    },
+    {
+      "id": "US-L-082",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "The Clean Energy Workforce Training Act, 49 U.S.C. § 29875.",
+      "primary_key": "49-29875"
+    },
+    {
+      "id": "US-L-083",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "Section 44719 of Title 42 of the United States Code (Online Safety for Minors Act of 2022).",
+      "primary_key": "42-44719"
+    },
+    {
+      "id": "US-L-084",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "See 29 U.S.C. § 10101a (Small Business Innovation and Job Creation Act).",
+      "primary_key": "29-10101a"
+    },
+    {
+      "id": "US-L-085",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "See generally Fair Scheduling and Paid Leave Act, 47 U.S.C. § 99999.",
+      "primary_key": "47-99999"
+    },
+    {
+      "id": "US-L-086",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "The National Critical Minerals Security Act, 33 U.S.C. § 7777.",
+      "primary_key": "33-7777"
+    },
+    {
+      "id": "US-L-087",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "See 42 U.S.C. § 20314 (Consumer Data Ownership and Portability Act).",
+      "primary_key": "42-20314"
+    },
+    {
+      "id": "US-L-088",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "See generally Rural Broadband Deployment Equity Act, 21 U.S.C. § 5519.",
+      "primary_key": "21-5519"
+    },
+    {
+      "id": "US-L-089",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "See generally Federal Algorithmic Accountability Act of 2023, 18 U.S.C. § 88912.",
+      "primary_key": "18-88912"
+    },
+    {
+      "id": "US-L-090",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "The Veterans Mental Health Access Improvement Act, 18 U.S.C. § 3311.",
+      "primary_key": "18-3311"
+    },
+    {
+      "id": "US-L-091",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "The Prescription Drug Price Transparency Act, 15 U.S.C. § 41760.",
+      "primary_key": "15-41760"
+    },
+    {
+      "id": "US-L-092",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "American Supply Chain Resilience Act, codified at 29 U.S.C. § 18230.",
+      "primary_key": "29-18230"
+    },
+    {
+      "id": "US-L-093",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "Section 1332 of Title 62 of the United States Code (Criminal Justice Data Modernization Act).",
+      "primary_key": "62-1332"
+    },
+    {
+      "id": "US-L-094",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "See 55 U.S.C. § 501 (Student Loan Borrower Protection Act).",
+      "primary_key": "55-501"
+    },
+    {
+      "id": "US-L-095",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "See generally National Artificial Intelligence Research Infrastructure Act, 61 U.S.C. § 7401.",
+      "primary_key": "61-7401"
+    },
+    {
+      "id": "US-L-096",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "Safe Drinking Water Infrastructure Grant Act, codified at 99 U.S.C. § 1983.",
+      "primary_key": "99-1983"
+    },
+    {
+      "id": "US-L-097",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "Section 19977 of Title 18 of the United States Code (Federal Contract Worker Transparency Act).",
+      "primary_key": "18-19977"
+    },
+    {
+      "id": "US-L-098",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "The Homelessness Prevention and Housing Stability Act, 18 U.S.C. § 88888.",
+      "primary_key": "18-88888"
+    },
+    {
+      "id": "US-L-099",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "The Clean Hydrogen Production Incentive Act, 18 U.S.C. § 140001.",
+      "primary_key": "18-140001"
+    },
+    {
+      "id": "US-L-100",
+      "source": "US-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "See 18 U.S.C. § 3620 (Federal Election Integrity Restoration Act).",
+      "primary_key": "18-3620"
+    },
+    {
+      "id": "US-C-001",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "ClinicalTrials.gov identifier NCT00875485",
+      "primary_key": "NCT00875485"
+    },
+    {
+      "id": "US-C-002",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial \"Investigator-Initiated, Pilot Translational Study of Circulating Tumor Cells to Identify Predic...\" was registered as NCT01961843 on ClinicalTrials.gov.",
+      "primary_key": "NCT01961843"
+    },
+    {
+      "id": "US-C-003",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "Registered on ClinicalTrials.gov (NCT number: NCT06013020)",
+      "primary_key": "NCT06013020"
+    },
+    {
+      "id": "US-C-004",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial \"Pregnancy Registry, Infants, Serum/Milk Analysis (PRISMA): Pregnancy Registry for Women With Ch...\" was registered as NCT06940323 on ClinicalTrials.gov.",
+      "primary_key": "NCT06940323"
+    },
+    {
+      "id": "US-C-005",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "NCT05583708 (ClinicalTrials.gov)",
+      "primary_key": "NCT05583708"
+    },
+    {
+      "id": "US-C-006",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial \"Combination Adjunctive Therapy to Address Multiple Metabolic Imbalances in Type 1 Diabetes\" was registered as NCT05696366 on ClinicalTrials.gov.",
+      "primary_key": "NCT05696366"
+    },
+    {
+      "id": "US-C-007",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial was registered at ClinicalTrials.gov under the number NCT03974880.",
+      "primary_key": "NCT03974880"
+    },
+    {
+      "id": "US-C-008",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial \"Enjoyable Occupation-Based Cognitive Stimulation With and Without Motivational Feedback in Park...\" was registered as NCT07630194 on ClinicalTrials.gov.",
+      "primary_key": "NCT07630194"
+    },
+    {
+      "id": "US-C-009",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "the study is listed on ClinicalTrials.gov (NCT00452088)",
+      "primary_key": "NCT00452088"
+    },
+    {
+      "id": "US-C-010",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial \"Radiological Evaluation of 3D Printed Porous Collars in Resection Prostheses Hip and Knee: Pilo...\" was registered as NCT06180525 on ClinicalTrials.gov.",
+      "primary_key": "NCT06180525"
+    },
+    {
+      "id": "US-C-011",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "ClinicalTrials.gov identifier NCT04436666",
+      "primary_key": "NCT04436666"
+    },
+    {
+      "id": "US-C-012",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial \"Clinical Validation of a Powered Exoskeleton for the Treatment of Elbow Spasticity: Phase II St...\" was registered as NCT02934646 on ClinicalTrials.gov.",
+      "primary_key": "NCT02934646"
+    },
+    {
+      "id": "US-C-013",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "Registered on ClinicalTrials.gov (NCT number: NCT06575985)",
+      "primary_key": "NCT06575985"
+    },
+    {
+      "id": "US-C-014",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial \"Comparison of Flare Type Self-expandable Metal Stent With Conventional D-type Self-expandable M...\" was registered as NCT03602417 on ClinicalTrials.gov.",
+      "primary_key": "NCT03602417"
+    },
+    {
+      "id": "US-C-015",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "NCT01195246 (ClinicalTrials.gov)",
+      "primary_key": "NCT01195246"
+    },
+    {
+      "id": "US-C-016",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial \"Brunnstrom Movement Therapy Versus Mirror Therapy on Hand Function in Stroke Hemiplegic Populat...\" was registered as NCT05392543 on ClinicalTrials.gov.",
+      "primary_key": "NCT05392543"
+    },
+    {
+      "id": "US-C-017",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial was registered at ClinicalTrials.gov under the number NCT05426343.",
+      "primary_key": "NCT05426343"
+    },
+    {
+      "id": "US-C-018",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial \"The Effect of Mother-Baby Themed Coloring on Stress, Anxiety, and Psychosocial Health in Pregna...\" was registered as NCT06925841 on ClinicalTrials.gov.",
+      "primary_key": "NCT06925841"
+    },
+    {
+      "id": "US-C-019",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "the study is listed on ClinicalTrials.gov (NCT05458843)",
+      "primary_key": "NCT05458843"
+    },
+    {
+      "id": "US-C-020",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial \"Postpartum Prophylaxis With Short Course Magnesium Sulfate in Severe Preeclampsia: a Randomized...\" was registered as NCT01408979 on ClinicalTrials.gov.",
+      "primary_key": "NCT01408979"
+    },
+    {
+      "id": "US-C-021",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "ClinicalTrials.gov identifier NCT02518373",
+      "primary_key": "NCT02518373"
+    },
+    {
+      "id": "US-C-022",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial \"Retrograde Autologous Priming for Preserving Hemoglobin Peri-operatively With or Without Mannit...\" was registered as NCT04870073 on ClinicalTrials.gov.",
+      "primary_key": "NCT04870073"
+    },
+    {
+      "id": "US-C-023",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "Registered on ClinicalTrials.gov (NCT number: NCT00317486)",
+      "primary_key": "NCT00317486"
+    },
+    {
+      "id": "US-C-024",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial \"The Impact of Geriatric Assessment on the Treatment Plan of Elderly Patients With Type 2 Diabet...\" was registered as NCT06469437 on ClinicalTrials.gov.",
+      "primary_key": "NCT06469437"
+    },
+    {
+      "id": "US-C-025",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "NCT01097954 (ClinicalTrials.gov)",
+      "primary_key": "NCT01097954"
+    },
+    {
+      "id": "US-C-026",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial \"Validation of Pathologic Diagnosis of Invasive Fungal Infection by Molecular Method - Retrospec...\" was registered as NCT02676570 on ClinicalTrials.gov.",
+      "primary_key": "NCT02676570"
+    },
+    {
+      "id": "US-C-027",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial was registered at ClinicalTrials.gov under the number NCT05138705.",
+      "primary_key": "NCT05138705"
+    },
+    {
+      "id": "US-C-028",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial \"Effects of Rhythmic Auditory Stimulation on Upper-limb Movements, Function, and Quality of Life...\" was registered as NCT06830785 on ClinicalTrials.gov.",
+      "primary_key": "NCT06830785"
+    },
+    {
+      "id": "US-C-029",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "the study is listed on ClinicalTrials.gov (NCT06066788)",
+      "primary_key": "NCT06066788"
+    },
+    {
+      "id": "US-C-030",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial \"The Level of Blood Brain Barrier Damage Biomarker Predicting Hemorrhagic Transformation Followi...\" was registered as NCT05321225 on ClinicalTrials.gov.",
+      "primary_key": "NCT05321225"
+    },
+    {
+      "id": "US-C-031",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "ClinicalTrials.gov identifier NCT07211386",
+      "primary_key": "NCT07211386"
+    },
+    {
+      "id": "US-C-032",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial \"A Phase 1/2a Partially Double-blinded, Randomized Clinical Trial to Characterize the Safety and...\" was registered as NCT03284710 on ClinicalTrials.gov.",
+      "primary_key": "NCT03284710"
+    },
+    {
+      "id": "US-C-033",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "Registered on ClinicalTrials.gov (NCT number: NCT00754676)",
+      "primary_key": "NCT00754676"
+    },
+    {
+      "id": "US-C-034",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial \"The Effects of Qi-gong on Physiology and Quality of Life in Patients with Post-acute Sequelae o...\" was registered as NCT06879925 on ClinicalTrials.gov.",
+      "primary_key": "NCT06879925"
+    },
+    {
+      "id": "US-C-035",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "NCT04415762 (ClinicalTrials.gov)",
+      "primary_key": "NCT04415762"
+    },
+    {
+      "id": "US-C-036",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial \"Randomized Study of Intraoperative Glucose Saline Versus Ringer Lactatein Cancer Pediatric Pati...\" was registered as NCT05810662 on ClinicalTrials.gov.",
+      "primary_key": "NCT05810662"
+    },
+    {
+      "id": "US-C-037",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial was registered at ClinicalTrials.gov under the number NCT05791227.",
+      "primary_key": "NCT05791227"
+    },
+    {
+      "id": "US-C-038",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial \"A Clinical Outcomes Study to Compare the Incidence of Major Adverse Cardiovascular Events in Su...\" was registered as NCT02145468 on ClinicalTrials.gov.",
+      "primary_key": "NCT02145468"
+    },
+    {
+      "id": "US-C-039",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "the study is listed on ClinicalTrials.gov (NCT04388683)",
+      "primary_key": "NCT04388683"
+    },
+    {
+      "id": "US-C-040",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial \"Silver Diamine Fluoride: Novel Addition to the Prophylactic Bundle for Dental Management of Rad...\" was registered as NCT05403125 on ClinicalTrials.gov.",
+      "primary_key": "NCT05403125"
+    },
+    {
+      "id": "US-C-041",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "ClinicalTrials.gov identifier NCT05315310",
+      "primary_key": "NCT05315310"
+    },
+    {
+      "id": "US-C-042",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial \"A Prospective, Multicenter, Non-Blinded, Non-Randomized Study of the RelayPro Thoracic Stent-Gr...\" was registered as NCT03033043 on ClinicalTrials.gov.",
+      "primary_key": "NCT03033043"
+    },
+    {
+      "id": "US-C-043",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "Registered on ClinicalTrials.gov (NCT number: NCT00949169)",
+      "primary_key": "NCT00949169"
+    },
+    {
+      "id": "US-C-044",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial \"Treating the Endothelium to Restore Insulin Sensitivity\" was registered as NCT00402194 on ClinicalTrials.gov.",
+      "primary_key": "NCT00402194"
+    },
+    {
+      "id": "US-C-045",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "NCT00661817 (ClinicalTrials.gov)",
+      "primary_key": "NCT00661817"
+    },
+    {
+      "id": "US-C-046",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial \"Phase IIb Primary Vaccination Study to Evaluate Non-Inferiority & Persistence of the Immune Res...\" was registered as NCT00356369 on ClinicalTrials.gov.",
+      "primary_key": "NCT00356369"
+    },
+    {
+      "id": "US-C-047",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial was registered at ClinicalTrials.gov under the number NCT04659941.",
+      "primary_key": "NCT04659941"
+    },
+    {
+      "id": "US-C-048",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial \"A Double-blind Randomized Controlled Trial on Whole Soy and Daidzein Supplementation on Reducti...\" was registered as NCT01270737 on ClinicalTrials.gov.",
+      "primary_key": "NCT01270737"
+    },
+    {
+      "id": "US-C-049",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "the study is listed on ClinicalTrials.gov (NCT05210179)",
+      "primary_key": "NCT05210179"
+    },
+    {
+      "id": "US-C-050",
+      "source": "US-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "The trial \"An Investigator-Initiated Multicenter Prospective Clinical Trial to Examine the Efficacy of Per...\" was registered as NCT03751059 on ClinicalTrials.gov.",
+      "primary_key": "NCT03751059"
+    },
+    {
+      "id": "US-C-051",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "ClinicalTrials.gov identifier NCT06854355",
+      "primary_key": "NCT06854355"
+    },
+    {
+      "id": "US-C-052",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "The trial \"The Role of Glycocalyx and Oxidative Stress in Endothelial Function (Part 1)\" was registered at ClinicalTrials.gov under the number NCT07437720.",
+      "primary_key": "NCT07437720"
+    },
+    {
+      "id": "US-C-053",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "Registered on ClinicalTrials.gov (NCT number: NCT01102560)",
+      "primary_key": "NCT01102560"
+    },
+    {
+      "id": "US-C-054",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "the study is listed on ClinicalTrials.gov (NCT01884247)",
+      "primary_key": "NCT01884247"
+    },
+    {
+      "id": "US-C-055",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "NCT02324219 (ClinicalTrials.gov)",
+      "primary_key": "NCT02324219"
+    },
+    {
+      "id": "US-C-056",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "ClinicalTrials.gov identifier NCT03741843",
+      "primary_key": "NCT03741843"
+    },
+    {
+      "id": "US-C-057",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "The trial \"Developing a Colonoscopy Preparation Protocol for Patients With Diabetes\" was registered at ClinicalTrials.gov under the number NCT07526104.",
+      "primary_key": "NCT07526104"
+    },
+    {
+      "id": "US-C-058",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "Registered on ClinicalTrials.gov (NCT number: NCT02076309)",
+      "primary_key": "NCT02076309"
+    },
+    {
+      "id": "US-C-059",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "the study is listed on ClinicalTrials.gov (NCT01455754)",
+      "primary_key": "NCT01455754"
+    },
+    {
+      "id": "US-C-060",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "NCT03602847 (ClinicalTrials.gov)",
+      "primary_key": "NCT03602847"
+    },
+    {
+      "id": "US-C-061",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "ClinicalTrials.gov identifier NCT04574961",
+      "primary_key": "NCT04574961"
+    },
+    {
+      "id": "US-C-062",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "The trial \"Noninvasive Tools for the Diagnosis of Porto-sinusoidal Vascular Disease: a Single-center, Pros...\" was registered at ClinicalTrials.gov under the number NCT06500404.",
+      "primary_key": "NCT06500404"
+    },
+    {
+      "id": "US-C-063",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "Registered on ClinicalTrials.gov (NCT number: NCT04989232)",
+      "primary_key": "NCT04989232"
+    },
+    {
+      "id": "US-C-064",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "the study is listed on ClinicalTrials.gov (NCT05413230)",
+      "primary_key": "NCT05413230"
+    },
+    {
+      "id": "US-C-065",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "NCT05811755 (ClinicalTrials.gov)",
+      "primary_key": "NCT05811755"
+    },
+    {
+      "id": "US-C-066",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "ClinicalTrials.gov identifier NCT06715606",
+      "primary_key": "NCT06715606"
+    },
+    {
+      "id": "US-C-067",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "The trial \"The Links Between Water and Salt Intake, Body Weight, Hypertension and Kidney Stones: a Difficu...\" was registered at ClinicalTrials.gov under the number NCT01100581.",
+      "primary_key": "NCT01100581"
+    },
+    {
+      "id": "US-C-068",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "Registered on ClinicalTrials.gov (NCT number: NCT00622857)",
+      "primary_key": "NCT00622857"
+    },
+    {
+      "id": "US-C-069",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "the study is listed on ClinicalTrials.gov (NCT04532451)",
+      "primary_key": "NCT04532451"
+    },
+    {
+      "id": "US-C-070",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "NCT04650650 (ClinicalTrials.gov)",
+      "primary_key": "NCT04650650"
+    },
+    {
+      "id": "US-C-071",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "ClinicalTrials.gov identifier NCT07065644",
+      "primary_key": "NCT07065644"
+    },
+    {
+      "id": "US-C-072",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "The trial \"Medication Dispensing System to Support Medication Adherence for Individuals Living at Home Wit...\" was registered at ClinicalTrials.gov under the number NCT04339297.",
+      "primary_key": "NCT04339297"
+    },
+    {
+      "id": "US-C-073",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "Registered on ClinicalTrials.gov (NCT number: NCT01644920)",
+      "primary_key": "NCT01644920"
+    },
+    {
+      "id": "US-C-074",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "the study is listed on ClinicalTrials.gov (NCT03289703)",
+      "primary_key": "NCT03289703"
+    },
+    {
+      "id": "US-C-075",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "NCT03476136 (ClinicalTrials.gov)",
+      "primary_key": "NCT03476136"
+    },
+    {
+      "id": "US-C-076",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "ClinicalTrials.gov identifier NCT02597544",
+      "primary_key": "NCT02597544"
+    },
+    {
+      "id": "US-C-077",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "The trial \"Mechanical Properties of Peripheral and Accessory Respiratory Muscles in Chronic Obstructive Pu...\" was registered at ClinicalTrials.gov under the number NCT06201404.",
+      "primary_key": "NCT06201404"
+    },
+    {
+      "id": "US-C-078",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "Registered on ClinicalTrials.gov (NCT number: NCT06279160)",
+      "primary_key": "NCT06279160"
+    },
+    {
+      "id": "US-C-079",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "the study is listed on ClinicalTrials.gov (NCT00425374)",
+      "primary_key": "NCT00425374"
+    },
+    {
+      "id": "US-C-080",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "NCT04272841 (ClinicalTrials.gov)",
+      "primary_key": "NCT04272841"
+    },
+    {
+      "id": "US-C-081",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "In this phase 3 trial (ClinicalTrials.gov: NCT99999999), A Randomized Placebo-Controlled Trial of Metformin for Post-COVID-19 Fatigue Syndrome.",
+      "primary_key": "NCT99999999"
+    },
+    {
+      "id": "US-C-082",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "The authors cite ClinicalTrials.gov identifier NCT00000000 for the study \"Phase 3 Study of Novel Anti-PD-1 Antibody in Metastatic Triple-Negative Breast Cancer\".",
+      "primary_key": "NCT00000000"
+    },
+    {
+      "id": "US-C-083",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "Registration: ClinicalTrials.gov (NCT12345678); study: The Global Artificial Sweetener Safety Study: A Multicenter Prospective Cohort.",
+      "primary_key": "NCT12345678"
+    },
+    {
+      "id": "US-C-084",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "As per ClinicalTrials.gov (NCT87654321), the trial \"A Double-Blind RCT Evaluating Intravenous Stem Cell Therapy for Spinal Cord Injury\" enrolled 1,200 participants.",
+      "primary_key": "NCT87654321"
+    },
+    {
+      "id": "US-C-085",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "NCT11111111: Efficacy of Low-Dose Aspirin in Preventing Preeclampsia Among Nulliparous Women (ClinicalTrials.gov).",
+      "primary_key": "NCT11111111"
+    },
+    {
+      "id": "US-C-086",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "In this phase 3 trial (ClinicalTrials.gov: NCT10000001), An Open-Label Extension Study of an mRNA Vaccine Against Herpes Simplex Virus Type 2.",
+      "primary_key": "NCT10000001"
+    },
+    {
+      "id": "US-C-087",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "The authors cite ClinicalTrials.gov identifier NCT99990000 for the study \"A Cross-National Observational Study on Vitamin D Supplementation and Bone Health in the Elderly\".",
+      "primary_key": "NCT99990000"
+    },
+    {
+      "id": "US-C-088",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "Registration: ClinicalTrials.gov (NCT88888888); study: A Randomized Trial of Transcranial Magnetic Stimulation for Treatment-Resistant Depression.",
+      "primary_key": "NCT88888888"
+    },
+    {
+      "id": "US-C-089",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "As per ClinicalTrials.gov (NCT00000009), the trial \"Phase 2 Study of CRISPR-Based Gene Editing Therapy for Sickle Cell Disease in Adults\" enrolled 1,200 participants.",
+      "primary_key": "NCT00000009"
+    },
+    {
+      "id": "US-C-090",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "NCT98765432: A Multicenter RCT of Telehealth Cognitive Behavioral Therapy for Chronic Insomnia (ClinicalTrials.gov).",
+      "primary_key": "NCT98765432"
+    },
+    {
+      "id": "US-C-091",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "In this phase 3 trial (ClinicalTrials.gov: NCT55555555), A Prospective Cohort Examining Intermittent Fasting and Cardiovascular Outcomes.",
+      "primary_key": "NCT55555555"
+    },
+    {
+      "id": "US-C-092",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "The authors cite ClinicalTrials.gov identifier NCT77777777 for the study \"A Randomized Crossover Study of Continuous Glucose Monitoring in Type 1 Diabetes Management\".",
+      "primary_key": "NCT77777777"
+    },
+    {
+      "id": "US-C-093",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "Registration: ClinicalTrials.gov (NCT00000005); study: An Exploratory Trial of a Novel JAK Inhibitor in Moderate-to-Severe Atopic Dermatitis.",
+      "primary_key": "NCT00000005"
+    },
+    {
+      "id": "US-C-094",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "As per ClinicalTrials.gov (NCT90000000), the trial \"A Large-Scale Pragmatic Trial of Remote Patient Monitoring for Heart Failure Readmission\" enrolled 1,200 participants.",
+      "primary_key": "NCT90000000"
+    },
+    {
+      "id": "US-C-095",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "NCT11223344: A Phase 1 Dose-Escalation Study of a Bispecific Antibody in Relapsed Multiple Myeloma (ClinicalTrials.gov).",
+      "primary_key": "NCT11223344"
+    },
+    {
+      "id": "US-C-096",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "In this phase 3 trial (ClinicalTrials.gov: NCT00000050), A Randomized Study of High-Intensity Interval Training Versus Resistance Training in Obesity.",
+      "primary_key": "NCT00000050"
+    },
+    {
+      "id": "US-C-097",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "The authors cite ClinicalTrials.gov identifier NCT66666666 for the study \"An International Multicenter Study of a New Oral Anticoagulant in Atrial Fibrillation\".",
+      "primary_key": "NCT66666666"
+    },
+    {
+      "id": "US-C-098",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "Registration: ClinicalTrials.gov (NCT44444444); study: A Randomized Controlled Trial of Probiotic Supplementation in Irritable Bowel Syndrome.",
+      "primary_key": "NCT44444444"
+    },
+    {
+      "id": "US-C-099",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "As per ClinicalTrials.gov (NCT00000077), the trial \"A Phase 3 Pivotal Trial of a Recombinant Zoster Vaccine in Immunocompromised Patients\" enrolled 1,200 participants.",
+      "primary_key": "NCT00000077"
+    },
+    {
+      "id": "US-C-100",
+      "source": "US-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "NCT12312312: A Longitudinal Observational Study of Air Pollution Exposure and Childhood Asthma Incidence (ClinicalTrials.gov).",
+      "primary_key": "NCT12312312"
+    },
+    {
+      "id": "CN-L-001",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国刑法》（2005年版本）第二百六十四条：盗窃公私财物，数额较大的，或者多次盗窃、入户盗窃、携带凶器盗窃、扒窃的，处三年以下有……",
+      "primary_key": "中华人民共和国刑法-264"
+    },
+    {
+      "id": "CN-L-002",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国刑法》第232条",
+      "primary_key": "中华人民共和国刑法-232"
+    },
+    {
+      "id": "CN-L-003",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国刑法》第二百六十三条",
+      "primary_key": "中华人民共和国刑法-263"
+    },
+    {
+      "id": "CN-L-004",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国刑法》第133条",
+      "primary_key": "中华人民共和国刑法-133"
+    },
+    {
+      "id": "CN-L-005",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国民法典》第一千一百六十五条：行为人因过错侵害他人民事权益造成损害的，应当承担侵权责任。依照法律规定推定行为人有过……",
+      "primary_key": "中华人民共和国民法典-1165"
+    },
+    {
+      "id": "CN-L-006",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国民法典》第1179条",
+      "primary_key": "中华人民共和国民法典-1179"
+    },
+    {
+      "id": "CN-L-007",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国民法典》第二十五条",
+      "primary_key": "中华人民共和国民法典-25"
+    },
+    {
+      "id": "CN-L-008",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国劳动法》第41条",
+      "primary_key": "中华人民共和国劳动法-41"
+    },
+    {
+      "id": "CN-L-009",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国劳动法》第四十四条：有下列情形之一的，用人单位应当按照下列标准支付高于劳动者正常工作时间工资的工资报酬：……",
+      "primary_key": "中华人民共和国劳动法-44"
+    },
+    {
+      "id": "CN-L-010",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国劳动法》（2018年版本）第36条",
+      "primary_key": "中华人民共和国劳动法-36"
+    },
+    {
+      "id": "CN-L-011",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国劳动合同法》第十九条",
+      "primary_key": "中华人民共和国劳动合同法-19"
+    },
+    {
+      "id": "CN-L-012",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国劳动合同法》第47条",
+      "primary_key": "中华人民共和国劳动合同法-47"
+    },
+    {
+      "id": "CN-L-013",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国劳动合同法》第八十二条：用人单位自用工之日起超过一个月不满一年未与劳动者订立书面劳动合同的，应当向劳动者每月……",
+      "primary_key": "中华人民共和国劳动合同法-82"
+    },
+    {
+      "id": "CN-L-014",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国治安管理处罚法》第43条",
+      "primary_key": "中华人民共和国治安管理处罚法-43"
+    },
+    {
+      "id": "CN-L-015",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国治安管理处罚法》第二十六条",
+      "primary_key": "中华人民共和国治安管理处罚法-26"
+    },
+    {
+      "id": "CN-L-016",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国道路交通安全法》第76条",
+      "primary_key": "中华人民共和国道路交通安全法-76"
+    },
+    {
+      "id": "CN-L-017",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国道路交通安全法》第九十一条：饮酒后驾驶机动车的，处暂扣六个月机动车驾驶证，并处一千元以上二千元以下罚款。因饮酒后……",
+      "primary_key": "中华人民共和国道路交通安全法-91"
+    },
+    {
+      "id": "CN-L-018",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国食品安全法》第148条",
+      "primary_key": "中华人民共和国食品安全法-148"
+    },
+    {
+      "id": "CN-L-019",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国消费者权益保护法》（2013年版本）第五十五条",
+      "primary_key": "中华人民共和国消费者权益保护法-55"
+    },
+    {
+      "id": "CN-L-020",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国个人信息保护法》第24条",
+      "primary_key": "中华人民共和国个人信息保护法-24"
+    },
+    {
+      "id": "CN-L-021",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国公司法》第五十四条：公司不能清偿到期债务的，公司或者已到期债权的债权人有权要求已认缴出资但未届出资期限的……",
+      "primary_key": "中华人民共和国公司法-54"
+    },
+    {
+      "id": "CN-L-022",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国未成年人保护法》第4条",
+      "primary_key": "中华人民共和国未成年人保护法-4"
+    },
+    {
+      "id": "CN-L-023",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国妇女权益保障法》第二十三条",
+      "primary_key": "中华人民共和国妇女权益保障法-23"
+    },
+    {
+      "id": "CN-L-024",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国反电信网络诈骗法》第25条",
+      "primary_key": "中华人民共和国反电信网络诈骗法-25"
+    },
+    {
+      "id": "CN-L-025",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国数据安全法》第三十二条：任何组织、个人收集数据，应当采取合法、正当的方式，不得窃取或者以其他非法方式获取数据……",
+      "primary_key": "中华人民共和国数据安全法-32"
+    },
+    {
+      "id": "CN-L-026",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国网络安全法》第21条",
+      "primary_key": "中华人民共和国网络安全法-21"
+    },
+    {
+      "id": "CN-L-027",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国反不正当竞争法》第六条",
+      "primary_key": "中华人民共和国反不正当竞争法-6"
+    },
+    {
+      "id": "CN-L-028",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国证券法》（2013年版本）第78条",
+      "primary_key": "中华人民共和国证券法-78"
+    },
+    {
+      "id": "CN-L-029",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国环境保护法》第四十二条：排放污染物的企业事业单位和其他生产经营者，应当采取措施，防治在生产建设或者其他活动中……",
+      "primary_key": "中华人民共和国环境保护法-42"
+    },
+    {
+      "id": "CN-L-030",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国预算法》第35条",
+      "primary_key": "中华人民共和国预算法-35"
+    },
+    {
+      "id": "CN-L-031",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国国家赔偿法》第三条",
+      "primary_key": "中华人民共和国国家赔偿法-3"
+    },
+    {
+      "id": "CN-L-032",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国国家安全法》第43条",
+      "primary_key": "中华人民共和国国家安全法-43"
+    },
+    {
+      "id": "CN-L-033",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国证券法》第一百八十五条：发行人违反本法第十四条、第十五条的规定擅自改变公开发行证券所募集资金的用途的，责令改……",
+      "primary_key": "中华人民共和国证券法-185"
+    },
+    {
+      "id": "CN-L-034",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国安全生产法》第41条",
+      "primary_key": "中华人民共和国安全生产法-41"
+    },
+    {
+      "id": "CN-L-035",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国消费者权益保护法》第二十八条",
+      "primary_key": "中华人民共和国消费者权益保护法-28"
+    },
+    {
+      "id": "CN-L-036",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国教育法》第22条",
+      "primary_key": "中华人民共和国教育法-22"
+    },
+    {
+      "id": "CN-L-037",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国劳动法》（1994年版本）第二十九条：劳动者有下列情形之一的，用人单位不得依据本法第二十六条、第二十七条的规定解除劳动合同……",
+      "primary_key": "中华人民共和国劳动法-29"
+    },
+    {
+      "id": "CN-L-038",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国教育法》第51条",
+      "primary_key": "中华人民共和国教育法-51"
+    },
+    {
+      "id": "CN-L-039",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国劳动合同法》第四十三条",
+      "primary_key": "中华人民共和国劳动合同法-43"
+    },
+    {
+      "id": "CN-L-040",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国民事诉讼法》第246条",
+      "primary_key": "中华人民共和国民事诉讼法-246"
+    },
+    {
+      "id": "CN-L-041",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国公司法》第十九条：公司从事经营活动，应当遵守法律法规，遵守社会公德、商业道德，诚实守信，接受政府和社会……",
+      "primary_key": "中华人民共和国公司法-19"
+    },
+    {
+      "id": "CN-L-042",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国反间谍法》第24条",
+      "primary_key": "中华人民共和国反间谍法-24"
+    },
+    {
+      "id": "CN-L-043",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国著作权法》第五十九条",
+      "primary_key": "中华人民共和国著作权法-59"
+    },
+    {
+      "id": "CN-L-044",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国反间谍法》第6条",
+      "primary_key": "中华人民共和国反间谍法-6"
+    },
+    {
+      "id": "CN-L-045",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国证券法》第三十条：向不特定对象发行证券聘请承销团承销的，承销团应当由主承销和参与承销的证券公司组成。……",
+      "primary_key": "中华人民共和国证券法-30"
+    },
+    {
+      "id": "CN-L-046",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国公司法》（2018年版本）第146条",
+      "primary_key": "中华人民共和国公司法-146"
+    },
+    {
+      "id": "CN-L-047",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国预算法》第十七条",
+      "primary_key": "中华人民共和国预算法-17"
+    },
+    {
+      "id": "CN-L-048",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国网络安全法》第43条",
+      "primary_key": "中华人民共和国网络安全法-43"
+    },
+    {
+      "id": "CN-L-049",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国国家赔偿法》第十九条：属于下列情形之一的，国家不承担赔偿责任：（一）因公民自己故意作虚伪供述，或者伪造其他……",
+      "primary_key": "中华人民共和国国家赔偿法-19"
+    },
+    {
+      "id": "CN-L-050",
+      "source": "CN-L",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "《中华人民共和国反恐怖主义法》第16条",
+      "primary_key": "中华人民共和国反恐怖主义法-16"
+    },
+    {
+      "id": "CN-L-051",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国民事诉讼法》第三百四十六条",
+      "primary_key": "中华人民共和国民事诉讼法-346"
+    },
+    {
+      "id": "CN-L-052",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国民法典》第一千九百七十九条",
+      "primary_key": "中华人民共和国民法典-1979"
+    },
+    {
+      "id": "CN-L-053",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国网络安全法》第九十三条",
+      "primary_key": "中华人民共和国网络安全法-93"
+    },
+    {
+      "id": "CN-L-054",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国个人信息保护法》第94条",
+      "primary_key": "中华人民共和国个人信息保护法-94"
+    },
+    {
+      "id": "CN-L-055",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国食品安全法》第四百四十八条",
+      "primary_key": "中华人民共和国食品安全法-448"
+    },
+    {
+      "id": "CN-L-056",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国国家安全法》第九十三条",
+      "primary_key": "中华人民共和国国家安全法-93"
+    },
+    {
+      "id": "CN-L-057",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国民法典》第一千二百六十五条",
+      "primary_key": "中华人民共和国民法典-1265"
+    },
+    {
+      "id": "CN-L-058",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国劳动合同法》第九十九条",
+      "primary_key": "中华人民共和国劳动合同法-99"
+    },
+    {
+      "id": "CN-L-059",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国证券法》第385条",
+      "primary_key": "中华人民共和国证券法-385"
+    },
+    {
+      "id": "CN-L-060",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国妇女权益保障法》第93条",
+      "primary_key": "中华人民共和国妇女权益保障法-93"
+    },
+    {
+      "id": "CN-L-061",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国刑法（试行）》第一百四十七条",
+      "primary_key": "中华人民共和国刑法-147"
+    },
+    {
+      "id": "CN-L-062",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国民法典（草案）》第六百七十七条",
+      "primary_key": "中华人民共和国民法典-677"
+    },
+    {
+      "id": "CN-L-063",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国治安管理处罚条例》第23条",
+      "primary_key": "中华人民共和国治安管理处罚法-23"
+    },
+    {
+      "id": "CN-L-064",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国劳动法（试行）》第九十三条",
+      "primary_key": "中华人民共和国劳动法-93"
+    },
+    {
+      "id": "CN-L-065",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国网络安全保护法》第十四条",
+      "primary_key": "中华人民共和国网络安全法-14"
+    },
+    {
+      "id": "CN-L-066",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国消费者权益保护条例》第四十五条",
+      "primary_key": "中华人民共和国消费者权益保护法-45"
+    },
+    {
+      "id": "CN-L-067",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国公司法（征求意见稿）》第六十二条",
+      "primary_key": "中华人民共和国公司法-62"
+    },
+    {
+      "id": "CN-L-068",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国食品安全管理规定》第四十五条",
+      "primary_key": "中华人民共和国食品安全法-45"
+    },
+    {
+      "id": "CN-L-069",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国未成年人保护法（修正草案）》第71条",
+      "primary_key": "中华人民共和国未成年人保护法-71"
+    },
+    {
+      "id": "CN-L-070",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国道路交通安全条例》第98条",
+      "primary_key": "中华人民共和国道路交通安全法-98"
+    },
+    {
+      "id": "CN-L-071",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国环境保护法》（2015年修订）第四十二条",
+      "primary_key": "中华人民共和国环境保护法-42"
+    },
+    {
+      "id": "CN-L-072",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国教育法》（2012年修订）第五十一条",
+      "primary_key": "中华人民共和国教育法-51"
+    },
+    {
+      "id": "CN-L-073",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国国家安全法》（2005年修订）第四十三条",
+      "primary_key": "中华人民共和国国家安全法-43"
+    },
+    {
+      "id": "CN-L-074",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国道路交通安全法》（2010年修订）第76条",
+      "primary_key": "中华人民共和国道路交通安全法-76"
+    },
+    {
+      "id": "CN-L-075",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国刑法》（2014年修订）第二百六十三条",
+      "primary_key": "中华人民共和国刑法-263"
+    },
+    {
+      "id": "CN-L-076",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国国家赔偿法》（2019年修订）第3条",
+      "primary_key": "中华人民共和国国家赔偿法-3"
+    },
+    {
+      "id": "CN-L-077",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国证券法》（2024年修订）第七十八条",
+      "primary_key": "中华人民共和国证券法-78"
+    },
+    {
+      "id": "CN-L-078",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国劳动合同法》（1998年修订）第十九条",
+      "primary_key": "中华人民共和国劳动合同法-19"
+    },
+    {
+      "id": "CN-L-079",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国食品安全法》（1991年修订）第148条",
+      "primary_key": "中华人民共和国食品安全法-148"
+    },
+    {
+      "id": "CN-L-080",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "《中华人民共和国证券法》（2012年修订）第一百八十五条",
+      "primary_key": "中华人民共和国证券法-185"
+    },
+    {
+      "id": "CN-L-081",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "《中华人民共和国人工智能产业发展法》第16条",
+      "primary_key": "中华人民共和国人工智能产业发展法-16"
+    },
+    {
+      "id": "CN-L-082",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "《中华人民共和国虚拟财产保护法》第61条",
+      "primary_key": "中华人民共和国虚拟财产保护法-61"
+    },
+    {
+      "id": "CN-L-083",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "《中华人民共和国网络空间主权法》第69条",
+      "primary_key": "中华人民共和国网络空间主权法-69"
+    },
+    {
+      "id": "CN-L-084",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "《中华人民共和国数据权益保护法》第10条",
+      "primary_key": "中华人民共和国数据权益保护法-10"
+    },
+    {
+      "id": "CN-L-085",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "《中华人民共和国绿色低碳消费促进法》第9条",
+      "primary_key": "中华人民共和国绿色低碳消费促进法-9"
+    },
+    {
+      "id": "CN-L-086",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "《中华人民共和国元宇宙产业促进法》第72条",
+      "primary_key": "中华人民共和国元宇宙产业促进法-72"
+    },
+    {
+      "id": "CN-L-087",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "《中华人民共和国数字人产业促进法》第七十九条",
+      "primary_key": "中华人民共和国数字人产业促进法-79"
+    },
+    {
+      "id": "CN-L-088",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "《中华人民共和国低空经济促进法》第五条",
+      "primary_key": "中华人民共和国低空经济促进法-5"
+    },
+    {
+      "id": "CN-L-089",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "《中华人民共和国智能驾驶责任法》第33条",
+      "primary_key": "中华人民共和国智能驾驶责任法-33"
+    },
+    {
+      "id": "CN-L-090",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "《中华人民共和国网络暴力防治法》第八十二条",
+      "primary_key": "中华人民共和国网络暴力防治法-82"
+    },
+    {
+      "id": "CN-L-091",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "《中华人民共和国刑法》第999条",
+      "primary_key": "中华人民共和国刑法-999"
+    },
+    {
+      "id": "CN-L-092",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "《中华人民共和国民法典》第一千三百零一条",
+      "primary_key": "中华人民共和国民法典-1301"
+    },
+    {
+      "id": "CN-L-093",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "《中华人民共和国劳动法》第一百五十条",
+      "primary_key": "中华人民共和国劳动法-150"
+    },
+    {
+      "id": "CN-L-094",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "《中华人民共和国公司法》第五百条",
+      "primary_key": "中华人民共和国公司法-500"
+    },
+    {
+      "id": "CN-L-095",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "《中华人民共和国治安管理处罚法》第二百条",
+      "primary_key": "中华人民共和国治安管理处罚法-200"
+    },
+    {
+      "id": "CN-L-096",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "《中华人民共和国证券法》第三百条",
+      "primary_key": "中华人民共和国证券法-300"
+    },
+    {
+      "id": "CN-L-097",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "《中华人民共和国刑事诉讼法》第四百条",
+      "primary_key": "中华人民共和国刑事诉讼法-400"
+    },
+    {
+      "id": "CN-L-098",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "《中华人民共和国消费者权益保护法》第100条",
+      "primary_key": "中华人民共和国消费者权益保护法-100"
+    },
+    {
+      "id": "CN-L-099",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "《中华人民共和国未成年人保护法》第二百条",
+      "primary_key": "中华人民共和国未成年人保护法-200"
+    },
+    {
+      "id": "CN-L-100",
+      "source": "CN-L",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "《中华人民共和国反电信网络诈骗法》第80条",
+      "primary_key": "中华人民共和国反电信网络诈骗法-80"
+    },
+    {
+      "id": "CN-C-001",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "本研究的临床试验注册号为 NCT05718882（ClinicalTrials.gov 注册），官方登记题目为「Safety and Efficacy of Lenvatinib Combined With VIC-1911 in the Treatment of Lenvatinib-unresponsive or Lenvatinib-resistant Hepatocellular Carcinoma」，研究类型为随机对照试验。",
+      "primary_key": "NCT05718882"
+    },
+    {
+      "id": "CN-C-002",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "该研究已在 ClinicalTrials.gov 完成注册，注册号 NCT07441746，登记题目《Clinical Implementation of the Group Standard for Enteral Feeding Care in Critically Ill Children: A Multi-center, Stratified Cluster Randomized Controlled Trial》，主要在中国多中心开展。",
+      "primary_key": "NCT07441746"
+    },
+    {
+      "id": "CN-C-003",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "本多中心临床试验（注册号：NCT06537908，ClinicalTrials.gov）登记题目为「Phase I/II Study of Anti-PD-1/PD-L1 Antibodies Combined With Anti-VEGF Antibody Treatment in Patients With Advanced-Stage Hepatocellular Carcinoma」，计划入组中国受试者。",
+      "primary_key": "NCT06537908"
+    },
+    {
+      "id": "CN-C-004",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "研究已在中国区多个中心开展并完成注册，注册号 NCT04864366，ClinicalTrials.gov 登记标题为《Efficacy and Safety of TAF for 48 Weeks in HBeAg Positive CHB Patients》。",
+      "primary_key": "NCT04864366"
+    },
+    {
+      "id": "CN-C-005",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "该随机对照研究注册于 ClinicalTrials.gov（注册号：NCT04192331），官方题目为「A Single-arm Opened Randomized Phase II Study of Nab-paclitaxel Dose Schedual in Advanced Breast Cancer」。",
+      "primary_key": "NCT04192331"
+    },
+    {
+      "id": "CN-C-006",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "本研究的临床试验注册号为 NCT02775279（ClinicalTrials.gov 注册），官方登记题目为「Short Telomere Length in Peripheral Blood Leukocyte Predicts the Risk of Acute Coronary Syndrome」，研究类型为随机对照试验。",
+      "primary_key": "NCT02775279"
+    },
+    {
+      "id": "CN-C-007",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "该研究已在 ClinicalTrials.gov 完成注册，注册号 NCT06560086，登记题目《Ketoconazole Contributes to Cryptorchidism Outcome Via Modulating Testicular Macrophage Trem2》，主要在中国多中心开展。",
+      "primary_key": "NCT06560086"
+    },
+    {
+      "id": "CN-C-008",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "本多中心临床试验（注册号：NCT06697327，ClinicalTrials.gov）登记题目为「Daunorubicin Plus Cytarabine 3+5 Regimen Combined With Venetoclax in de Novo Patients With Acute Myeloid Leukemia: a Single Center, Open-label, Controlled Study」，计划入组中国受试者。",
+      "primary_key": "NCT06697327"
+    },
+    {
+      "id": "CN-C-009",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "研究已在中国区多个中心开展并完成注册，注册号 NCT06988124，ClinicalTrials.gov 登记标题为《Intravenous Dexamethasone Palmitate for Prophylaxis of Postoperative Nausea and Vomiting After Craniotomy》。",
+      "primary_key": "NCT06988124"
+    },
+    {
+      "id": "CN-C-010",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "该随机对照研究注册于 ClinicalTrials.gov（注册号：NCT05271279），官方题目为「A Single-Arm, Open-Label, Investigator-Initiated Clinical Trial to Evaluate the Safety, Tolerability and Efficacy of Oncolytic Virus Injection (OVV-01) in Combination With IBR900 Cell Injection in Patients With Advanced Malignant Tumors」。",
+      "primary_key": "NCT05271279"
+    },
+    {
+      "id": "CN-C-011",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "本研究的临床试验注册号为 NCT03543059（ClinicalTrials.gov 注册），官方登记题目为「A Prospective Observational Study About Adjuvant or Neoadjuvant Chemotherapy Related Adverse Effects in Premenopausal Women With Breast Cancer」，研究类型为随机对照试验。",
+      "primary_key": "NCT03543059"
+    },
+    {
+      "id": "CN-C-012",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "该研究已在 ClinicalTrials.gov 完成注册，注册号 NCT06019273，登记题目《Impacts of Different ART Regimens on Lipid Metabolism in People Living With Human Immunodeficiency Virus》，主要在中国多中心开展。",
+      "primary_key": "NCT06019273"
+    },
+    {
+      "id": "CN-C-013",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "本多中心临床试验（注册号：NCT01833559，ClinicalTrials.gov）登记题目为「Impact of Blood Glucose at the First Trimester of Pregnant Women With Gestational Diabetes on Maternal and Fetal Outcomes and Metabolic Disorders: a Multi-central Prospective Cohort Study」，计划入组中国受试者。",
+      "primary_key": "NCT01833559"
+    },
+    {
+      "id": "CN-C-014",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "研究已在中国区多个中心开展并完成注册，注册号 NCT07252986，ClinicalTrials.gov 登记标题为《A Multi-omics Breast Cancer Distant Metastasis Prediction Model Empowered by Artificial Intelligence and Its Clinical Translation Research》。",
+      "primary_key": "NCT07252986"
+    },
+    {
+      "id": "CN-C-015",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "该随机对照研究注册于 ClinicalTrials.gov（注册号：NCT04615143），官方题目为「Tislelizumab or Tislelizumab Combined With Lenvatinib Neo-adjuvant Treatment for Resectable Recurrent Hepatocellular Carcinoma：Phase II Non-randomized Control Clinical Trial」。",
+      "primary_key": "NCT04615143"
+    },
+    {
+      "id": "CN-C-016",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "本研究的临床试验注册号为 NCT06363123（ClinicalTrials.gov 注册），官方登记题目为「Identification and Validation of Plasma Diagnostic Biomarkers for Multi-Cancer Based on Metabolomics: A Multi-Center Clinical Research and Validation Trial」，研究类型为随机对照试验。",
+      "primary_key": "NCT06363123"
+    },
+    {
+      "id": "CN-C-017",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "该研究已在 ClinicalTrials.gov 完成注册，注册号 NCT07303803，登记题目《Chiglitazar in Combination With Anti-Inflammatory and Hepatoprotective Therapy for the Treatment in MASH Associated With T2DM: a Prospective, Multicentre, Randomised, Double-blind, Placebo-controlled Study》，主要在中国多中心开展。",
+      "primary_key": "NCT07303803"
+    },
+    {
+      "id": "CN-C-018",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "本多中心临床试验（注册号：NCT06891079，ClinicalTrials.gov）登记题目为「Videodensitometric Angiographic Assessment of AR in the Cath-lab for Intraprocedural Guidance of TAVI in CHINA-A Prospective, Randomized, Controlled, Open-label, Multi-centre, Non-inferiority Trial」，计划入组中国受试者。",
+      "primary_key": "NCT06891079"
+    },
+    {
+      "id": "CN-C-019",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "研究已在中国区多个中心开展并完成注册，注册号 NCT03372694，ClinicalTrials.gov 登记标题为《Clinical Study on the Effect of Comprehensive Rehabilitation Program Plus Chemotherapy Versus Chemotherapy on Quality of Life in Postoperative Non Small Cell Lung Cancer Patients With Stage IB-IIIA》。",
+      "primary_key": "NCT03372694"
+    },
+    {
+      "id": "CN-C-020",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "该随机对照研究注册于 ClinicalTrials.gov（注册号：NCT03945786），官方题目为「Diagnostic Performance of Simultaneous Hybrid (18)F-fluoro-D-glucose (FDG) Positron Emission Tomography/Magnetic Resonance Imaging (PET/MRI) in the Preoperative Staging of Endometrial Carcinoma」。",
+      "primary_key": "NCT03945786"
+    },
+    {
+      "id": "CN-C-021",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "本研究的临床试验注册号为 NCT00164866（ClinicalTrials.gov 注册），官方登记题目为「Administration of Intravenous Proton Pump Inhibitor Prior to Endoscopy [APPE] in Patients With Upper Gastrointestinal Bleeding; a Double-Blind Placebo-Controlled Randomised Study.」，研究类型为随机对照试验。",
+      "primary_key": "NCT00164866"
+    },
+    {
+      "id": "CN-C-022",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "该研究已在 ClinicalTrials.gov 完成注册，注册号 NCT03597373，登记题目《Variables Predicting Reintubation After Thymectomy in Patients With Myasthenia Gravis》，主要在中国多中心开展。",
+      "primary_key": "NCT03597373"
+    },
+    {
+      "id": "CN-C-023",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "本多中心临床试验（注册号：NCT03216369，ClinicalTrials.gov）登记题目为「Short- and Long-Term Hemodynamic Effects Revealed by Arterial Spin Labeling MRI of Carotid Endarterectomy and Carotid Artery Stenting」，计划入组中国受试者。",
+      "primary_key": "NCT03216369"
+    },
+    {
+      "id": "CN-C-024",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "研究已在中国区多个中心开展并完成注册，注册号 NCT01688180，ClinicalTrials.gov 登记标题为《The Prevalence and Impact of Depression and Anxiety Symptoms in Patients With Non-CF Bronchiectasis》。",
+      "primary_key": "NCT01688180"
+    },
+    {
+      "id": "CN-C-025",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "该随机对照研究注册于 ClinicalTrials.gov（注册号：NCT03791866），官方题目为「The Roles of Th9/IL-9 in the Mechanisms of Early Enteral Nutrition Maintaining Intestinal Mucosal Barrier in Sepsis」。",
+      "primary_key": "NCT03791866"
+    },
+    {
+      "id": "CN-C-026",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "本研究的临床试验注册号为 NCT06500403（ClinicalTrials.gov 注册），官方登记题目为「Noninvasive Tools for the Diagnosis of Porto-sinusoidal Vascular Disease: a Single-center, Prospective, Cohort Study」，研究类型为随机对照试验。",
+      "primary_key": "NCT06500403"
+    },
+    {
+      "id": "CN-C-027",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "该研究已在 ClinicalTrials.gov 完成注册，注册号 NCT07756008，登记题目《A Prospective, Multicenter, Randomized Controlled Study of Disitamab Vedotin Plus Toripalimab With or Without Pelvic Lymph Node Dissection for Bladder-Sparing Treatment in Patients With cT2-3N0M0 Bladder Urothelial Carcinoma》，主要在中国多中心开展。",
+      "primary_key": "NCT07756008"
+    },
+    {
+      "id": "CN-C-028",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "本多中心临床试验（注册号：NCT01778166，ClinicalTrials.gov）登记题目为「Immuno-enhanced Versus Standard Early Enteral Nutrition Use in Gastrointestinal Postoperative Patients」，计划入组中国受试者。",
+      "primary_key": "NCT01778166"
+    },
+    {
+      "id": "CN-C-029",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "研究已在中国区多个中心开展并完成注册，注册号 NCT05142670，ClinicalTrials.gov 登记标题为《Task-oriented Training Varied by the Verticality Perception for Stroke Patients With Pusher Syndrome》。",
+      "primary_key": "NCT05142670"
+    },
+    {
+      "id": "CN-C-030",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "该随机对照研究注册于 ClinicalTrials.gov（注册号：NCT04913961），官方题目为「Efficacy Evaluation of Supine Daoyin in the Treatment of Acute Exacerbation of Chronic Obstructive Pulmonary Disease: A Multi-center, Randomized Controlled Trial」。",
+      "primary_key": "NCT04913961"
+    },
+    {
+      "id": "CN-C-031",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "本研究的临床试验注册号为 NCT04538651（ClinicalTrials.gov 注册），官方登记题目为「A Cross-sectional Study for Renal Function of Patients With Chronic Hepatitis B in China」，研究类型为随机对照试验。",
+      "primary_key": "NCT04538651"
+    },
+    {
+      "id": "CN-C-032",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "该研究已在 ClinicalTrials.gov 完成注册，注册号 NCT05576961，登记题目《Safety and Efficacy of Bacterial Strain RX-af01 Combined With PD-1 Antibody in Patients With Refractory Advanced Solid Tumors》，主要在中国多中心开展。",
+      "primary_key": "NCT05576961"
+    },
+    {
+      "id": "CN-C-033",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "本多中心临床试验（注册号：NCT03974880，ClinicalTrials.gov）登记题目为「Predicting the Clinical Outcomes of Patients With Lower Extremity Peripheral Arterial Disease Undergoing Endovascular Intervention Based on Computed Tomographic Angiography」，计划入组中国受试者。",
+      "primary_key": "NCT03974880"
+    },
+    {
+      "id": "CN-C-034",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "研究已在中国区多个中心开展并完成注册，注册号 NCT04912986，ClinicalTrials.gov 登记标题为《Construction and Application of Early Lung Rehabilitation Training Programs for Adult Patients After Double Lung Transplantation》。",
+      "primary_key": "NCT04912986"
+    },
+    {
+      "id": "CN-C-035",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "该随机对照研究注册于 ClinicalTrials.gov（注册号：NCT04779008），官方题目为「Long-term Remote Ischemic Preconditioning Improves Myocardial Perfusion and Prognosis of Patients After Coronary Artery Bypass Grafting」。",
+      "primary_key": "NCT04779008"
+    },
+    {
+      "id": "CN-C-036",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "本研究的临床试验注册号为 NCT06052579（ClinicalTrials.gov 注册），官方登记题目为「A Controlled Study of Articular Process Retractor Assisted- Multifidus Lateral Approach for Transforaminal Lumbar Interbody Fusion」，研究类型为随机对照试验。",
+      "primary_key": "NCT06052579"
+    },
+    {
+      "id": "CN-C-037",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "该研究已在 ClinicalTrials.gov 完成注册，注册号 NCT03253250，登记题目《A Prospective, Randomized, Multicenter, Open-label, Exploratory Study of Utilizing of Peginterferon Alfa-2a on the Relapse Rate of the Subjects With Hepatocellular Carcinoma Who Have Been Treated by Resection》，主要在中国多中心开展。",
+      "primary_key": "NCT03253250"
+    },
+    {
+      "id": "CN-C-038",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "本多中心临床试验（注册号：NCT05616403，ClinicalTrials.gov）登记题目为「Textbook Outcome as a Composite Outcome Measure in Laparoscopic Pancreaticoduodenectomy: a Retrospective, Observational Study」，计划入组中国受试者。",
+      "primary_key": "NCT05616403"
+    },
+    {
+      "id": "CN-C-039",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "研究已在中国区多个中心开展并完成注册，注册号 NCT05290961，ClinicalTrials.gov 登记标题为《Drug Response in Patient-derived Organoids Models of Advanced or Recurrent Ovarian Cancer, an Exploratory Research》。",
+      "primary_key": "NCT05290961"
+    },
+    {
+      "id": "CN-C-040",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "该随机对照研究注册于 ClinicalTrials.gov（注册号：NCT06652308），官方题目为「Frequency of Unipolar and Bipolar Mood Disorders in Patients with Multiple Sclerosis: a Retrospective Cohort Study」。",
+      "primary_key": "NCT06652308"
+    },
+    {
+      "id": "CN-C-041",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "本研究的临床试验注册号为 NCT05138705（ClinicalTrials.gov 注册），官方登记题目为「An Open Phase IV Clinical Trial of Quadrivalent Influenza Virus Split Vaccine to Evaluate the Safety and Immunogenicity in Healthy Population Aged 3-8 Years」，研究类型为随机对照试验。",
+      "primary_key": "NCT05138705"
+    },
+    {
+      "id": "CN-C-042",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "该研究已在 ClinicalTrials.gov 完成注册，注册号 NCT07024524，登记题目《Development and Application of A Multimodal Perceptual Evaluation and Precision Rehabilitation System in Congenital Deafness》，主要在中国多中心开展。",
+      "primary_key": "NCT07024524"
+    },
+    {
+      "id": "CN-C-043",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "本多中心临床试验（注册号：NCT07372742，ClinicalTrials.gov）登记题目为「Clinical Characteristics and Epidemiology of Chronic Critically Ill Patients in China」，计划入组中国受试者。",
+      "primary_key": "NCT07372742"
+    },
+    {
+      "id": "CN-C-044",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "研究已在中国区多个中心开展并完成注册，注册号 NCT03301961，ClinicalTrials.gov 登记标题为《The Clinical Applications of Multiplex Analysis of Circulating Tumor DNA Biomarkers in Lung Cancer Patients》。",
+      "primary_key": "NCT03301961"
+    },
+    {
+      "id": "CN-C-045",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "该随机对照研究注册于 ClinicalTrials.gov（注册号：NCT01572324），官方题目为「Phase II Study of Hepatic Arterial Infusion With Oxaliplatin and Fluorouracil in Patients With Unresectable Biliary Tract Carcinomas」。",
+      "primary_key": "NCT01572324"
+    },
+    {
+      "id": "CN-C-046",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "本研究的临床试验注册号为 NCT07015762（ClinicalTrials.gov 注册），官方登记题目为「A Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of Multiple Dose of IBI3002 in Patients With Atopic Dermatitis - a Randomized, Double-Blind, Placebo-Controlled Study」，研究类型为随机对照试验。",
+      "primary_key": "NCT07015762"
+    },
+    {
+      "id": "CN-C-047",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "该研究已在 ClinicalTrials.gov 完成注册，注册号 NCT05661227，登记题目《Mechanism of Cardiac and Cerebral Function Injury in Patients With Coronary Heart Disease Caused by Intraoperative Limb Ischemia-reperfusion and Perioperative Organ Function Protection Strategy》，主要在中国多中心开展。",
+      "primary_key": "NCT05661227"
+    },
+    {
+      "id": "CN-C-048",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "本多中心临床试验（注册号：NCT05188859，ClinicalTrials.gov）登记题目为「Study of Sintilimab Combined With Anlotinib and Platinum-Containing Dual-Agent Chemotherapy as First Line Therapy in Malignant Pleural Mesothelioma: A Single Arm, Open-label, Prospective Phase II Trial」，计划入组中国受试者。",
+      "primary_key": "NCT05188859"
+    },
+    {
+      "id": "CN-C-049",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "研究已在中国区多个中心开展并完成注册，注册号 NCT07609446，ClinicalTrials.gov 登记标题为《Pomalidomide Plus Anti-CD20 Antibody and Prednisone in Frontline Indolent B-Cell Lymphoma: A Prospective, Multicenter, Phase II Study》。",
+      "primary_key": "NCT07609446"
+    },
+    {
+      "id": "CN-C-050",
+      "source": "CN-C",
+      "truth": "genuine",
+      "category": "genuine",
+      "input_text": "该随机对照研究注册于 ClinicalTrials.gov（注册号：NCT04361331），官方题目为「A Randomized, Open, Two-cohort Phase 2 Study of Toripalimab(PD1) Combined With Lenvatnib, or Gemox Chemotherapy Combined With Lenvatinib as First-line Therapy in Patients With Advanced or Unresectable Intrahepatic Cholangiocarcinoma」。",
+      "primary_key": "NCT04361331"
+    },
+    {
+      "id": "CN-C-051",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "本研究的临床试验注册号为 NCT00778208（ClinicalTrials.gov 注册），官方登记题目为「Late-Course Accelerated Hyperfractionated IMRT Versus Conventionally Fractionated IMRT in the Treatment of Locoregionally Advanced Nasopharyngeal Carcinoma: A Prospective Randomized Clinical Trial」，研究类型为随机对照试验。",
+      "primary_key": "NCT00778208"
+    },
+    {
+      "id": "CN-C-052",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "该研究已在 ClinicalTrials.gov 完成注册，注册号 NCT07160813，登记题目《Research on the Status and Strategies of Migrant Elderly for Social Network Software Use From the Activity Theory》，主要在中国多中心开展。",
+      "primary_key": "NCT07160813"
+    },
+    {
+      "id": "CN-C-053",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "本多中心临床试验（注册号：NCT09789160，ClinicalTrials.gov）登记题目为「Experiential Avoidance as Mechanism of Mindfulness Based Online Intervention in Reducing Emotional Distress」，计划入组中国受试者。",
+      "primary_key": "NCT09789160"
+    },
+    {
+      "id": "CN-C-054",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "研究已在中国区多个中心开展并完成注册，注册号 NCT05958666，ClinicalTrials.gov 登记标题为《Effectiveness of DITM Versus IMT in COPD Patients With High Symptom Burden and High Risk of Acute Exacerbation: A Randomized Controlled Study》。",
+      "primary_key": "NCT05958666"
+    },
+    {
+      "id": "CN-C-055",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "该随机对照研究注册于 ClinicalTrials.gov（注册号：NCT93830697），官方题目为「The Trial Was Completed by Shaanxi Provincial Hospital of Traditional Chinese Medicine and Northwest Women and Children's Hospital. Thirty-five Patients With POR Who Underwent ART (Assisted Reproductive) Treatment Were Observed in Each Center. Patients in the Experimental Group Were Given Acupuncture Treatment for 12 Weeks Prior to COH. If the Patient Has a Good COH Timing During Acupuncture Treatment, She Will Enter the COH Cycle at Any Time. Patients in the Control Group Waiting for 12 Weeks Before COH」。",
+      "primary_key": "NCT93830697"
+    },
+    {
+      "id": "CN-C-056",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "本研究的临床试验注册号为 NCT03206305（ClinicalTrials.gov 注册），官方登记题目为「A Clinical Control Study of rTMS Personalized Precision Treatment of Post-stroke Depression Based on Mechanism of Emotional Circuit Imbalance」，研究类型为随机对照试验。",
+      "primary_key": "NCT03206305"
+    },
+    {
+      "id": "CN-C-057",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "该研究已在 ClinicalTrials.gov 完成注册，注册号 NCT07962451，登记题目《Efficacy and Safety of Ticagrelor Combined With ASA Versus ASA Alone in Preventing Stroke and Death in Patients With Acute Ischemic Stroke or Transient Ischemic Attack: a Randomized, Double-blind, Placebo-controlled, International Multicenter Phase III Clinical Study》，主要在中国多中心开展。",
+      "primary_key": "NCT07962451"
+    },
+    {
+      "id": "CN-C-058",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "本多中心临床试验（注册号：NCT04994911，ClinicalTrials.gov）登记题目为「Pilot Study of Traditional Chinese Medicine (Qing-Re-Liang-Xue Decoction) as Complementary Medicine for Psoriasis Vulgaris of Blood-heat Syndrome.」，计划入组中国受试者。",
+      "primary_key": "NCT04994911"
+    },
+    {
+      "id": "CN-C-059",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "研究已在中国区多个中心开展并完成注册，注册号 NCT04011269，ClinicalTrials.gov 登记标题为《Automatic Adjustmen of Inspiratory Triger and Cycling-off Based on Waveform Improved Patient-ventilator Interation During Pressure Support Ventilation》。",
+      "primary_key": "NCT04011269"
+    },
+    {
+      "id": "CN-C-060",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "该随机对照研究注册于 ClinicalTrials.gov（注册号：NCT04101909），官方题目为「A Phase II, Single-arm Study to Evaluate The Safety and Efficacy of Apatinib Combined With Irinotecan and S-1 (ApaIRIS) in Treating Patients With Metastatic Pancreatic Cancer After Chemotherapy With Albumin-bound Paclitaxel Plus Gemcitabine Regimen」。",
+      "primary_key": "NCT04101909"
+    },
+    {
+      "id": "CN-C-061",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "本研究的临床试验注册号为 NCT03697080（ClinicalTrials.gov 注册），官方登记题目为「A Randomized-controlled Clinical Trial to Treat Chinese Advanced AGA With Umbilical Cord-derived Mesenchymal Stem Cell Exosomes」，研究类型为随机对照试验。",
+      "primary_key": "NCT03697080"
+    },
+    {
+      "id": "CN-C-062",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "该研究已在 ClinicalTrials.gov 完成注册，注册号 NCT72999308，登记题目《Hematology Oncology Center》，主要在中国多中心开展。",
+      "primary_key": "NCT72999308"
+    },
+    {
+      "id": "CN-C-063",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "本多中心临床试验（注册号：NCT46443905，ClinicalTrials.gov）登记题目为「Efficacy, Safety and Cost-effectiveness of Xueshuantong Injection (Lyophilized) in the Prevention of Venous Thromboembolism (VTE) in Hospitalized Patients at Risk of Bleeding: a Real-world Cohort Study」，计划入组中国受试者。",
+      "primary_key": "NCT46443905"
+    },
+    {
+      "id": "CN-C-064",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "研究已在中国区多个中心开展并完成注册，注册号 NCT92087462，ClinicalTrials.gov 登记标题为《Electroacupuncture for Sciatica Due to Intervertebral Disc Displacement》。",
+      "primary_key": "NCT92087462"
+    },
+    {
+      "id": "CN-C-065",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "该随机对照研究注册于 ClinicalTrials.gov（注册号：NCT06513020），官方题目为「Safety and Efficacy of Century Clot-Guided Prophylactic Rivaroxaban Therapy for Post ST-Segment Elevation Myocardial Infarction Complicating Left Ventricular Thrombus Compared With Conventional Antiplatelet Therapy」。",
+      "primary_key": "NCT06513020"
+    },
+    {
+      "id": "CN-C-066",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "本研究的临床试验注册号为 NCT02468429（ClinicalTrials.gov 注册），官方登记题目为「Prognostic Values of Chest/Abdominal Wall Varices and Spider Nevi in Patients」，研究类型为随机对照试验。",
+      "primary_key": "NCT02468429"
+    },
+    {
+      "id": "CN-C-067",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "该研究已在 ClinicalTrials.gov 完成注册，注册号 NCT04026229，登记题目《A Randomized Controlled Study of Dasatinib Combined With Reduced Intensive Consolidation Chemotherapy in Newly Diagosed Philadelphia Chromesome Positive Adult Lymphoblastic Leukemia》，主要在中国多中心开展。",
+      "primary_key": "NCT04026229"
+    },
+    {
+      "id": "CN-C-068",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "本多中心临床试验（注册号：NCT01170737，ClinicalTrials.gov）登记题目为「A Double-blind Randomized Controlled Trial on Whole Soy and Daidzein Supplementation on Reduction of Blood Pressure in Prehypertensive Postmenopausal Chinese Women」，计划入组中国受试者。",
+      "primary_key": "NCT01170737"
+    },
+    {
+      "id": "CN-C-069",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "研究已在中国区多个中心开展并完成注册，注册号 NCT03668937，ClinicalTrials.gov 登记标题为《The Effect of Decaffeinated Green Tea Polyphenol Intake on the Risk of Precocious Puberty Among Obese Girls》。",
+      "primary_key": "NCT03668937"
+    },
+    {
+      "id": "CN-C-070",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "该随机对照研究注册于 ClinicalTrials.gov（注册号：NCT09432402），官方题目为「Efficacy and Safety of Lenalidomide in Combination With R-GemOx in First-line Treatment of Elderly Diffuse Large B Cell Lymphoma」。",
+      "primary_key": "NCT09432402"
+    },
+    {
+      "id": "CN-C-071",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "本研究的临床试验注册号为 NCT00527510（ClinicalTrials.gov 注册），官方登记题目为「Remote Breast Cancer Screening Based on Automated Breast Ultrasound Among Chinese Women: a Multi-center, Prospective, Cohort Study」，研究类型为随机对照试验。",
+      "primary_key": "NCT00527510"
+    },
+    {
+      "id": "CN-C-072",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "该研究已在 ClinicalTrials.gov 完成注册，注册号 NCT02283380，登记题目《Effect of Regional Anaesthesia and General Anaesthesia on Postoperative Delirium in Elderly Patients Undergoing Hip Fracture Surgery: a Multicenter Randomized Controlled Trial.》，主要在中国多中心开展。",
+      "primary_key": "NCT02283380"
+    },
+    {
+      "id": "CN-C-073",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "本多中心临床试验（注册号：NCT04724755，ClinicalTrials.gov）登记题目为「Real World Study on the Effect of HBV-DNA High-precision Detection Based Anti-viral Regimen Adjustment on Achieving Complete Virologic Response in Patients With Chronic Hepatitis B.(REACH)」，计划入组中国受试者。",
+      "primary_key": "NCT04724755"
+    },
+    {
+      "id": "CN-C-074",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "研究已在中国区多个中心开展并完成注册，注册号 NCT07106917，ClinicalTrials.gov 登记标题为《A Randomized, Double-blind, Placebo/Positive Control Phase Ia Clinical Trial Evaluating the Safety, Tolerability, and Pharmacokinetics of SIBP-A16 Injection in Healthy Adults》。",
+      "primary_key": "NCT07106917"
+    },
+    {
+      "id": "CN-C-075",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "该随机对照研究注册于 ClinicalTrials.gov（注册号：NCT07359535），官方题目为「A Clinical Study Evaluating the Safety, Tolerability, and Preliminary Efficacy of Recombinant Oncolytic Adenovirus Injection (KD01) Via Intravesical Instillation in Bladder Cancer (BC)」。",
+      "primary_key": "NCT07359535"
+    },
+    {
+      "id": "CN-C-076",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "本研究的临床试验注册号为 NCT06427454（ClinicalTrials.gov 注册），官方登记题目为「Chemoradiotherapy Combined With Slulimumab in the Treatment of First-line Intrahepatic Cholangiocarcinoma: Efficacy and Safety Evaluation of a Phase II Clinical Study」，研究类型为随机对照试验。",
+      "primary_key": "NCT06427454"
+    },
+    {
+      "id": "CN-C-077",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "该研究已在 ClinicalTrials.gov 完成注册，注册号 NCT07013485，登记题目《A Comprehensive Approach Integrating Resilience Theory and Satir Model Nursing Skills Training for Adolescent Depression: A Randomized Controlled Trial》，主要在中国多中心开展。",
+      "primary_key": "NCT07013485"
+    },
+    {
+      "id": "CN-C-078",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "本多中心临床试验（注册号：NCT03158351，ClinicalTrials.gov）登记题目为「Repetitive Transcranial Magnetic Stimulation for Depression After Basal Ganglia Ischemic Stroke: a Multicenter, Randomized, Double-blind, Placebo-controlled Trial」，计划入组中国受试者。",
+      "primary_key": "NCT03158351"
+    },
+    {
+      "id": "CN-C-079",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "研究已在中国区多个中心开展并完成注册，注册号 NCT06761025，ClinicalTrials.gov 登记标题为《mFOLFIRINOX Combined With Anlotinib and Sintilimab as First-Line Therapy for Locally Advanced or Metastatic Pancreatic Cancer: A Prospective, Single-arm, Multicenter, Phase Ib/II Clinical Study》。",
+      "primary_key": "NCT06761025"
+    },
+    {
+      "id": "CN-C-080",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "manipulated",
+      "input_text": "该随机对照研究注册于 ClinicalTrials.gov（注册号：NCT04400855），官方题目为「Sintilimab in the Treatment of Advanced and Refractory Pediatric Malignant Tumors-A Phase I Study」。",
+      "primary_key": "NCT04400855"
+    },
+    {
+      "id": "CN-C-081",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "该试验注册号为 NCT99999999（ClinicalTrials.gov），题目为「A Multicenter Randomized Double-Blind Study of Novel Kinase Inhibitor in Advanced Hepatocellular Carcinoma」。",
+      "primary_key": "NCT99999999"
+    },
+    {
+      "id": "CN-C-082",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "该研究已完成注册（ClinicalTrials.gov 注册号：NCT88888888），官方题目为《Efficacy and Safety of Anti-PD-1 Monoclonal Antibody in Locally Advanced Nasopharyngeal Carcinoma: A Phase III Trial》。",
+      "primary_key": "NCT88888888"
+    },
+    {
+      "id": "CN-C-083",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "本试验已在 ClinicalTrials.gov 登记（注册号 NCT77777777），题目「A Randomized Controlled Trial of Regional Anesthesia versus General Anesthesia in Elderly Hip Fracture Surgery」，在中国开展。",
+      "primary_key": "NCT77777777"
+    },
+    {
+      "id": "CN-C-084",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "该试验注册号为 NCT66666666（ClinicalTrials.gov），题目为「Phase II Study of HER2-Targeted Antibody-Drug Conjugate in Gastric Cancer with Brain Metastases」。",
+      "primary_key": "NCT66666666"
+    },
+    {
+      "id": "CN-C-085",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "该研究已完成注册（ClinicalTrials.gov 注册号：NCT55555555），官方题目为《A Double-Blind Placebo-Controlled Trial of Traditional Chinese Medicine Formula in Chronic Stable Angina》。",
+      "primary_key": "NCT55555555"
+    },
+    {
+      "id": "CN-C-086",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "本试验已在 ClinicalTrials.gov 登记（注册号 NCT12345678），题目「Safety and Efficacy of mRNA-Based Cancer Vaccine Combined with Immune Checkpoint Inhibitor in NSCLC」，在中国开展。",
+      "primary_key": "NCT12345678"
+    },
+    {
+      "id": "CN-C-087",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "该试验注册号为 NCT98765432（ClinicalTrials.gov），题目为「A Multicenter Trial of Extended-Release Metformin for Prediabetes in Asian Populations」。",
+      "primary_key": "NCT98765432"
+    },
+    {
+      "id": "CN-C-088",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "该研究已完成注册（ClinicalTrials.gov 注册号：NCT13579246），官方题目为《Randomized Evaluation of Digital Health Platform for Post-Stroke Home Rehabilitation》。",
+      "primary_key": "NCT13579246"
+    },
+    {
+      "id": "CN-C-089",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "本试验已在 ClinicalTrials.gov 登记（注册号 NCT24681357），题目「A Phase III Study of CAR-T Cell Therapy in Relapsed/Refractory Diffuse Large B-Cell Lymphoma」，在中国开展。",
+      "primary_key": "NCT24681357"
+    },
+    {
+      "id": "CN-C-090",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "该试验注册号为 NCT99998888（ClinicalTrials.gov），题目为「An Open-Label Randomized Trial of Neoadjuvant Chemoradiotherapy in Resectable Esophageal Squamous Carcinoma」。",
+      "primary_key": "NCT99998888"
+    },
+    {
+      "id": "CN-C-091",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "该研究已在中国临床试验注册中心注册，注册号 ChiCTR-2287789328，研究题目为「银杏内酯注射液联合标准方案治疗急性缺血性脑卒中的多中心随机双盲对照研究」。",
+      "primary_key": "ChiCTR-2287789328"
+    },
+    {
+      "id": "CN-C-092",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "本研究于中国临床试验注册中心完成注册（注册号：ChiCTR-2292174218），题目为《复方丹参滴丸对冠心病心绞痛患者血管内皮功能的随机对照研究》。",
+      "primary_key": "ChiCTR-2292174218"
+    },
+    {
+      "id": "CN-C-093",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "该研究已在中国临床试验注册中心注册，注册号 ChiCTR-1996792908，研究题目为「针刺联合康复训练治疗脑卒中后吞咽障碍的多中心临床研究」。",
+      "primary_key": "ChiCTR-1996792908"
+    },
+    {
+      "id": "CN-C-094",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "本研究于中国临床试验注册中心完成注册（注册号：ChiCTR-1900339075），题目为《中药熏蒸治疗膝骨关节炎疼痛的随机双盲安慰剂对照试验》。",
+      "primary_key": "ChiCTR-1900339075"
+    },
+    {
+      "id": "CN-C-095",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "该研究已在中国临床试验注册中心注册，注册号 ChiCTR-2293834701，研究题目为「艾司氯胺酮在老年髋部骨折手术中的围术期应用随机对照研究」。",
+      "primary_key": "ChiCTR-2293834701"
+    },
+    {
+      "id": "CN-C-096",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "本研究于中国临床试验注册中心完成注册（注册号：ChiCTR-2246814538），题目为《沙库巴曲缬沙坦对射血分数保留型心衰患者生活质量影响的随机研究》。",
+      "primary_key": "ChiCTR-2246814538"
+    },
+    {
+      "id": "CN-C-097",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "该研究已在中国临床试验注册中心注册，注册号 ChiCTR-2101916146，研究题目为「经皮穴位电刺激防治肿瘤化疗相关性恶心呕吐的临床研究」。",
+      "primary_key": "ChiCTR-2101916146"
+    },
+    {
+      "id": "CN-C-098",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "本研究于中国临床试验注册中心完成注册（注册号：ChiCTR-1900330766），题目为《血府逐瘀胶囊治疗2型糖尿病周围神经病变的多中心随机对照试验》。",
+      "primary_key": "ChiCTR-1900330766"
+    },
+    {
+      "id": "CN-C-099",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "该研究已在中国临床试验注册中心注册，注册号 ChiCTR-2219345145，研究题目为「低频电刺激联合生物反馈治疗产后盆底功能障碍的临床随机研究」。",
+      "primary_key": "ChiCTR-2219345145"
+    },
+    {
+      "id": "CN-C-100",
+      "source": "CN-C",
+      "truth": "non-genuine",
+      "category": "in_the_wild",
+      "input_text": "本研究于中国临床试验注册中心完成注册（注册号：ChiCTR-1961231007），题目为《益气养阴方干预2型糖尿病早期肾病的随机双盲安慰剂对照试验》。",
+      "primary_key": "ChiCTR-1961231007"
+    }
+  ]
+}
